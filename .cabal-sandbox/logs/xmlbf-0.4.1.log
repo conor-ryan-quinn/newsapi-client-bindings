@@ -1,0 +1,56 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8057/xmlbf-0.4.1'
+Configuring xmlbf-0.4.1...
+Building xmlbf-0.4.1...
+Preprocessing library xmlbf-0.4.1...
+[1 of 1] Compiling Xmlbf            ( lib/Xmlbf.hs, dist/dist-sandbox-439155cc/build/Xmlbf.o )
+
+lib/Xmlbf.hs:99:1: warning: [-Wunrecognised-pragmas]
+    Unrecognised pragma
+
+lib/Xmlbf.hs:104:1: warning: [-Wunrecognised-pragmas]
+    Unrecognised pragma
+
+lib/Xmlbf.hs:345:30: warning: [-Wincomplete-patterns]
+    Pattern match(es) are non-exhaustive
+    In a case alternative: Patterns not matched: _
+
+lib/Xmlbf.hs:447:25: warning: [-Wincomplete-patterns]
+    Pattern match(es) are non-exhaustive
+    In a case alternative: Patterns not matched: _
+[1 of 1] Compiling Xmlbf            ( lib/Xmlbf.hs, dist/dist-sandbox-439155cc/build/Xmlbf.p_o )
+
+lib/Xmlbf.hs:99:1: warning: [-Wunrecognised-pragmas]
+    Unrecognised pragma
+
+lib/Xmlbf.hs:104:1: warning: [-Wunrecognised-pragmas]
+    Unrecognised pragma
+
+lib/Xmlbf.hs:345:30: warning: [-Wincomplete-patterns]
+    Pattern match(es) are non-exhaustive
+    In a case alternative: Patterns not matched: _
+
+lib/Xmlbf.hs:447:25: warning: [-Wincomplete-patterns]
+    Pattern match(es) are non-exhaustive
+    In a case alternative: Patterns not matched: _
+Running Haddock for xmlbf-0.4.1...
+Preprocessing library xmlbf-0.4.1...
+
+lib/Xmlbf.hs:99:1: warning: [-Wunrecognised-pragmas]
+    Unrecognised pragma
+
+lib/Xmlbf.hs:104:1: warning: [-Wunrecognised-pragmas]
+    Unrecognised pragma
+Haddock coverage:
+  92% ( 23 / 25) in 'Xmlbf'
+  Missing documentation for:
+    FromXml (lib/Xmlbf.hs:171)
+    ToXml (lib/Xmlbf.hs:332)
+Warning: Xmlbf: could not find link destinations for:
+    Cursor
+Documentation created: dist/dist-sandbox-439155cc/doc/html/xmlbf/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-xmlbf-0.42020739063107554536.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/xmlbf-0.4.1-DKdC5vZ1Ck6CPh43nHiwEq
+Registering xmlbf-0.4.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8057/xmlbf-0.4.1'

@@ -1,0 +1,43 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8049/html-entities-1.1.4.2'
+Configuring html-entities-1.1.4.2...
+Building html-entities-1.1.4.2...
+Preprocessing library html-entities-1.1.4.2...
+[1 of 6] Compiling HTMLEntities.Prelude ( library/HTMLEntities/Prelude.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Prelude.o )
+[2 of 6] Compiling HTMLEntities.Text ( library/HTMLEntities/Text.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Text.o )
+[3 of 6] Compiling HTMLEntities.NameTable ( library/HTMLEntities/NameTable.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/NameTable.o )
+[4 of 6] Compiling HTMLEntities.Parser ( library/HTMLEntities/Parser.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Parser.o )
+[5 of 6] Compiling HTMLEntities.Decoder ( library/HTMLEntities/Decoder.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Decoder.o )
+[6 of 6] Compiling HTMLEntities.Builder ( library/HTMLEntities/Builder.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Builder.o )
+[1 of 6] Compiling HTMLEntities.Prelude ( library/HTMLEntities/Prelude.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Prelude.p_o )
+[2 of 6] Compiling HTMLEntities.Text ( library/HTMLEntities/Text.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Text.p_o )
+[3 of 6] Compiling HTMLEntities.NameTable ( library/HTMLEntities/NameTable.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/NameTable.p_o )
+[4 of 6] Compiling HTMLEntities.Parser ( library/HTMLEntities/Parser.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Parser.p_o )
+[5 of 6] Compiling HTMLEntities.Decoder ( library/HTMLEntities/Decoder.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Decoder.p_o )
+[6 of 6] Compiling HTMLEntities.Builder ( library/HTMLEntities/Builder.hs, dist/dist-sandbox-439155cc/build/HTMLEntities/Builder.p_o )
+Running Haddock for html-entities-1.1.4.2...
+Preprocessing library html-entities-1.1.4.2...
+Haddock coverage:
+Warning: HTMLEntities.Prelude: Could not find documentation for exported module: Exports
+   0% (  0 /  1) in 'HTMLEntities.Prelude'
+  Missing documentation for:
+    Module header
+  67% (  2 /  3) in 'HTMLEntities.Text'
+  Missing documentation for:
+    Module header
+  33% (  1 /  3) in 'HTMLEntities.NameTable'
+  Missing documentation for:
+    lookupTextByName (library/HTMLEntities/NameTable.hs:16)
+    lookupNameByText (library/HTMLEntities/NameTable.hs:21)
+ 100% (  3 /  3) in 'HTMLEntities.Parser'
+ 100% (  4 /  4) in 'HTMLEntities.Decoder'
+  67% (  2 /  3) in 'HTMLEntities.Builder'
+  Missing documentation for:
+    Module header
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/html-entities/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-html-entities-1.1.421463194511908194298.2
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/html-entities-1.1.4.2-JdCZBBXaLwH2Y3VQS5xml9
+Registering html-entities-1.1.4.2...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8049/html-entities-1.1.4.2'

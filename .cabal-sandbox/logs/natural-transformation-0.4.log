@@ -1,0 +1,26 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80688/natural-transformation-0.4'
+Configuring natural-transformation-0.4...
+Building natural-transformation-0.4...
+Preprocessing library natural-transformation-0.4...
+[1 of 3] Compiling Control.Natural  ( src/Control/Natural.hs, dist/dist-sandbox-439155cc/build/Control/Natural.o )
+[2 of 3] Compiling Control.Natural.RULES ( src/Control/Natural/RULES.hs, dist/dist-sandbox-439155cc/build/Control/Natural/RULES.o )
+[3 of 3] Compiling Control.Object   ( src/Control/Object.hs, dist/dist-sandbox-439155cc/build/Control/Object.o )
+[1 of 3] Compiling Control.Natural  ( src/Control/Natural.hs, dist/dist-sandbox-439155cc/build/Control/Natural.p_o )
+[2 of 3] Compiling Control.Natural.RULES ( src/Control/Natural/RULES.hs, dist/dist-sandbox-439155cc/build/Control/Natural/RULES.p_o )
+[3 of 3] Compiling Control.Object   ( src/Control/Object.hs, dist/dist-sandbox-439155cc/build/Control/Object.p_o )
+Running Haddock for natural-transformation-0.4...
+Preprocessing library natural-transformation-0.4...
+Haddock coverage:
+ 100% ( 10 / 10) in 'Control.Natural'
+ 100% (  1 /  1) in 'Control.Natural.RULES'
+ 100% (  3 /  3) in 'Control.Object'
+Warning: Control.Natural: could not find link destinations for:
+    ~
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/natural-transformation/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-natural-transformation-05950286351962408013.4
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/natural-transformation-0.4-1wekIVD0YQa62debXjfFg3
+Registering natural-transformation-0.4...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80688/natural-transformation-0.4'

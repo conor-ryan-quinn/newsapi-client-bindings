@@ -1,0 +1,22 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/servant-xml-1.0.1.2'
+Configuring servant-xml-1.0.1.2...
+Building servant-xml-1.0.1.2...
+Preprocessing library servant-xml-1.0.1.2...
+[1 of 1] Compiling Servant.XML      ( src/Servant/XML.hs, dist/dist-sandbox-439155cc/build/Servant/XML.o )
+[1 of 1] Compiling Servant.XML      ( src/Servant/XML.hs, dist/dist-sandbox-439155cc/build/Servant/XML.p_o )
+Running Haddock for servant-xml-1.0.1.2...
+Preprocessing library servant-xml-1.0.1.2...
+Haddock coverage:
+  40% (  2 /  5) in 'Servant.XML'
+  Missing documentation for:
+     (src/Servant/XML.hs:44)
+     (src/Servant/XML.hs:47)
+     (src/Servant/XML.hs:50)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/servant-xml/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-servant-xml-1.0.15414373351049077006.2
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/servant-xml-1.0.1.2-G1PUueVLoiJ9j7rh6U0JLM
+Registering servant-xml-1.0.1.2...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/servant-xml-1.0.1.2'

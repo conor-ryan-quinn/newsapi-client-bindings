@@ -1,0 +1,27 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80682/cookie-0.4.4'
+Configuring cookie-0.4.4...
+Building cookie-0.4.4...
+Preprocessing library cookie-0.4.4...
+[1 of 1] Compiling Web.Cookie       ( Web/Cookie.hs, dist/dist-sandbox-439155cc/build/Web/Cookie.o )
+[1 of 1] Compiling Web.Cookie       ( Web/Cookie.hs, dist/dist-sandbox-439155cc/build/Web/Cookie.p_o )
+Running Haddock for cookie-0.4.4...
+Preprocessing library cookie-0.4.4...
+Haddock coverage:
+  73% ( 24 / 33) in 'Web.Cookie'
+  Missing documentation for:
+    Module header
+    parseSetCookie (Web/Cookie.hs:216)
+    renderSetCookie (Web/Cookie.hs:183)
+    Cookies (Web/Cookie.hs:67)
+    renderCookies (Web/Cookie.hs:100)
+    parseCookiesText (Web/Cookie.hs:58)
+    renderCookiesText (Web/Cookie.hs:64)
+    expiresFormat (Web/Cookie.hs:240)
+    parseCookieExpires (Web/Cookie.hs:248)
+Documentation created: dist/dist-sandbox-439155cc/doc/html/cookie/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-cookie-0.4750597385971307217.4
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/cookie-0.4.4-1AFvZ9PmOMLJd1tBYwbatM
+Registering cookie-0.4.4...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80682/cookie-0.4.4'

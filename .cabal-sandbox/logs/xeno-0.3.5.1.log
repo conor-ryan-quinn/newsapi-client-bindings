@@ -1,0 +1,36 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/xeno-0.3.5.1'
+Configuring xeno-0.3.5.1...
+Building xeno-0.3.5.1...
+Preprocessing library xeno-0.3.5.1...
+[1 of 5] Compiling Xeno.Types       ( src/Xeno/Types.hs, dist/dist-sandbox-439155cc/build/Xeno/Types.o )
+[2 of 5] Compiling Xeno.Errors      ( src/Xeno/Errors.hs, dist/dist-sandbox-439155cc/build/Xeno/Errors.o )
+[3 of 5] Compiling Control.Spork    ( src/Control/Spork.hs, dist/dist-sandbox-439155cc/build/Control/Spork.o )
+[4 of 5] Compiling Xeno.SAX         ( src/Xeno/SAX.hs, dist/dist-sandbox-439155cc/build/Xeno/SAX.o )
+[5 of 5] Compiling Xeno.DOM         ( src/Xeno/DOM.hs, dist/dist-sandbox-439155cc/build/Xeno/DOM.o )
+[1 of 5] Compiling Xeno.Types       ( src/Xeno/Types.hs, dist/dist-sandbox-439155cc/build/Xeno/Types.p_o )
+[2 of 5] Compiling Xeno.Errors      ( src/Xeno/Errors.hs, dist/dist-sandbox-439155cc/build/Xeno/Errors.p_o )
+[3 of 5] Compiling Control.Spork    ( src/Control/Spork.hs, dist/dist-sandbox-439155cc/build/Control/Spork.p_o )
+[4 of 5] Compiling Xeno.SAX         ( src/Xeno/SAX.hs, dist/dist-sandbox-439155cc/build/Xeno/SAX.p_o )
+[5 of 5] Compiling Xeno.DOM         ( src/Xeno/DOM.hs, dist/dist-sandbox-439155cc/build/Xeno/DOM.p_o )
+Running Haddock for xeno-0.3.5.1...
+Preprocessing library xeno-0.3.5.1...
+Haddock coverage:
+  33% (  1 /  3) in 'Xeno.Types'
+  Missing documentation for:
+    XenoException (src/Xeno/Types.hs:14)
+     (src/Xeno/Types.hs:20)
+  40% (  2 /  5) in 'Xeno.Errors'
+  Missing documentation for:
+    displayException (src/Xeno/Errors.hs:39)
+    getStartIndex (src/Xeno/Errors.hs:36)
+    failHere (src/Xeno/Errors.hs:19)
+ 100% (  2 /  2) in 'Control.Spork'
+ 100% (  5 /  5) in 'Xeno.SAX'
+ 100% (  8 /  8) in 'Xeno.DOM'
+Documentation created: dist/dist-sandbox-439155cc/doc/html/xeno/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-xeno-0.3.53228420821463179852.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/xeno-0.3.5.1-3Zm2zBrNbRnKZfIj2f9fZj
+Registering xeno-0.3.5.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/xeno-0.3.5.1'

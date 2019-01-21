@@ -1,0 +1,30 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80683/network-uri-2.6.1.0'
+Configuring network-uri-2.6.1.0...
+Building network-uri-2.6.1.0...
+Preprocessing library network-uri-2.6.1.0...
+[1 of 1] Compiling Network.URI      ( Network/URI.hs, dist/dist-sandbox-439155cc/build/Network/URI.o )
+[1 of 1] Compiling Network.URI      ( Network/URI.hs, dist/dist-sandbox-439155cc/build/Network/URI.p_o )
+Running Haddock for network-uri-2.6.1.0...
+Preprocessing library network-uri-2.6.1.0...
+Haddock coverage:
+  78% ( 39 / 50) in 'Network.URI'
+  Missing documentation for:
+    uriIsAbsolute (Network/URI.hs:321)
+    uriIsRelative (Network/URI.hs:324)
+    parseabsoluteURI (Network/URI.hs:1284)
+    escapeString (Network/URI.hs:1288)
+    reserved (Network/URI.hs:1292)
+    unreserved (Network/URI.hs:1296)
+    scheme (Network/URI.hs:1302)
+    authority (Network/URI.hs:1306)
+    path (Network/URI.hs:1314)
+    query (Network/URI.hs:1318)
+    fragment (Network/URI.hs:1322)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/network-uri/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-network-uri-2.6.115320627671049997439.0
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/network-uri-2.6.1.0-7JOhXrfCVPjEtHMtuw8f6o
+Registering network-uri-2.6.1.0...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80683/network-uri-2.6.1.0'

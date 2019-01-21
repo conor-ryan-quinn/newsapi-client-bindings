@@ -1,0 +1,26 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80677/case-insensitive-1.2.0.11'
+Configuring case-insensitive-1.2.0.11...
+Building case-insensitive-1.2.0.11...
+Preprocessing library case-insensitive-1.2.0.11...
+[1 of 3] Compiling Data.CaseInsensitive.Internal ( Data/CaseInsensitive/Internal.hs, dist/dist-sandbox-439155cc/build/Data/CaseInsensitive/Internal.o )
+[2 of 3] Compiling Data.CaseInsensitive.Unsafe ( Data/CaseInsensitive/Unsafe.hs, dist/dist-sandbox-439155cc/build/Data/CaseInsensitive/Unsafe.o )
+[3 of 3] Compiling Data.CaseInsensitive ( Data/CaseInsensitive.hs, dist/dist-sandbox-439155cc/build/Data/CaseInsensitive.o )
+[1 of 3] Compiling Data.CaseInsensitive.Internal ( Data/CaseInsensitive/Internal.hs, dist/dist-sandbox-439155cc/build/Data/CaseInsensitive/Internal.p_o )
+[2 of 3] Compiling Data.CaseInsensitive.Unsafe ( Data/CaseInsensitive/Unsafe.hs, dist/dist-sandbox-439155cc/build/Data/CaseInsensitive/Unsafe.p_o )
+[3 of 3] Compiling Data.CaseInsensitive ( Data/CaseInsensitive.hs, dist/dist-sandbox-439155cc/build/Data/CaseInsensitive.p_o )
+Running Haddock for case-insensitive-1.2.0.11...
+Preprocessing library case-insensitive-1.2.0.11...
+Haddock coverage:
+ 100% (  8 /  8) in 'Data.CaseInsensitive.Internal'
+ 100% (  2 /  2) in 'Data.CaseInsensitive.Unsafe'
+ 100% (  7 /  7) in 'Data.CaseInsensitive'
+Warning: Data.CaseInsensitive: could not find link destinations for:
+    foldCaseList
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/case-insensitive/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-case-insensitive-1.2.0222122669889119397.11
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/case-insensitive-1.2.0.11-CnoTCZ50nlGZ2xzj4RuDL
+Registering case-insensitive-1.2.0.11...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80677/case-insensitive-1.2.0.11'

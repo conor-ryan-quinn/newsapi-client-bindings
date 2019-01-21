@@ -1,0 +1,36 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80698/utf8-string-1.0.1.1'
+Configuring utf8-string-1.0.1.1...
+Building utf8-string-1.0.1.1...
+Preprocessing library utf8-string-1.0.1.1...
+[1 of 5] Compiling Codec.Binary.UTF8.String ( Codec/Binary/UTF8/String.hs, dist/dist-sandbox-439155cc/build/Codec/Binary/UTF8/String.o )
+[2 of 5] Compiling Codec.Binary.UTF8.Generic ( Codec/Binary/UTF8/Generic.hs, dist/dist-sandbox-439155cc/build/Codec/Binary/UTF8/Generic.o )
+[3 of 5] Compiling Data.ByteString.Lazy.UTF8 ( Data/ByteString/Lazy/UTF8.hs, dist/dist-sandbox-439155cc/build/Data/ByteString/Lazy/UTF8.o )
+[4 of 5] Compiling Data.ByteString.UTF8 ( Data/ByteString/UTF8.hs, dist/dist-sandbox-439155cc/build/Data/ByteString/UTF8.o )
+[5 of 5] Compiling Data.String.UTF8 ( Data/String/UTF8.hs, dist/dist-sandbox-439155cc/build/Data/String/UTF8.o )
+[1 of 5] Compiling Codec.Binary.UTF8.String ( Codec/Binary/UTF8/String.hs, dist/dist-sandbox-439155cc/build/Codec/Binary/UTF8/String.p_o )
+[2 of 5] Compiling Codec.Binary.UTF8.Generic ( Codec/Binary/UTF8/Generic.hs, dist/dist-sandbox-439155cc/build/Codec/Binary/UTF8/Generic.p_o )
+[3 of 5] Compiling Data.ByteString.Lazy.UTF8 ( Data/ByteString/Lazy/UTF8.hs, dist/dist-sandbox-439155cc/build/Data/ByteString/Lazy/UTF8.p_o )
+[4 of 5] Compiling Data.ByteString.UTF8 ( Data/ByteString/UTF8.hs, dist/dist-sandbox-439155cc/build/Data/ByteString/UTF8.p_o )
+[5 of 5] Compiling Data.String.UTF8 ( Data/String/UTF8.hs, dist/dist-sandbox-439155cc/build/Data/String/UTF8.p_o )
+Running Haddock for utf8-string-1.0.1.1...
+Preprocessing library utf8-string-1.0.1.1...
+Haddock coverage:
+ 100% (  8 /  8) in 'Codec.Binary.UTF8.String'
+  94% ( 16 / 17) in 'Codec.Binary.UTF8.Generic'
+  Missing documentation for:
+    UTF8Bytes (Codec/Binary/UTF8/Generic.hs:48)
+ 100% ( 17 / 17) in 'Data.ByteString.Lazy.UTF8'
+ 100% ( 17 / 17) in 'Data.ByteString.UTF8'
+  89% ( 24 / 27) in 'Data.String.UTF8'
+  Missing documentation for:
+    UTF8Bytes (Codec/Binary/UTF8/Generic.hs:48)
+    fromRep (Data/String/UTF8.hs:59)
+    toRep (Data/String/UTF8.hs:62)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/utf8-string/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-utf8-string-1.0.112694067521816731566.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/utf8-string-1.0.1.1-1DpjxLeTvGg7ttZZojxJR5
+Registering utf8-string-1.0.1.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80698/utf8-string-1.0.1.1'

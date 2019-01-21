@@ -1,0 +1,26 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80688/transformers-either-0.1.1'
+Configuring transformers-either-0.1.1...
+Building transformers-either-0.1.1...
+Preprocessing library transformers-either-0.1.1...
+[1 of 2] Compiling Control.Monad.Trans.Either ( src/Control/Monad/Trans/Either.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Either.o )
+[2 of 2] Compiling Control.Monad.Trans.Either.Exit ( src/Control/Monad/Trans/Either/Exit.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Either/Exit.o )
+[1 of 2] Compiling Control.Monad.Trans.Either ( src/Control/Monad/Trans/Either.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Either.p_o )
+[2 of 2] Compiling Control.Monad.Trans.Either.Exit ( src/Control/Monad/Trans/Either/Exit.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Either/Exit.p_o )
+Running Haddock for transformers-either-0.1.1...
+Preprocessing library transformers-either-0.1.1...
+Haddock coverage:
+  93% ( 25 / 27) in 'Control.Monad.Trans.Either'
+  Missing documentation for:
+    EitherT (src/Control/Monad/Trans/Either.hs:74)
+    mapEitherT (src/Control/Monad/Trans/Either.hs:110)
+  67% (  2 /  3) in 'Control.Monad.Trans.Either.Exit'
+  Missing documentation for:
+    Module header
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/transformers-either/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-transformers-either-0.110120281441086531968.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/transformers-either-0.1.1-GBDdINDk3J7HUnmGhH755O
+Registering transformers-either-0.1.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80688/transformers-either-0.1.1'

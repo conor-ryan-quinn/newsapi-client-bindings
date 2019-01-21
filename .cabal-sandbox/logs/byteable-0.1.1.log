@@ -1,0 +1,27 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80681/byteable-0.1.1'
+Configuring byteable-0.1.1...
+Building byteable-0.1.1...
+Preprocessing library byteable-0.1.1...
+[1 of 1] Compiling Data.Byteable    ( Data/Byteable.hs, dist/dist-sandbox-439155cc/build/Data/Byteable.o )
+
+Data/Byteable.hs:48:11: warning: [-Winline-rule-shadowing]
+    Rule "constEqBytes/ByteString" may never fire
+      because ‘constEqBytes’ might inline first
+    Probable fix: add an INLINE[n] or NOINLINE[n] pragma for ‘constEqBytes’
+[1 of 1] Compiling Data.Byteable    ( Data/Byteable.hs, dist/dist-sandbox-439155cc/build/Data/Byteable.p_o )
+
+Data/Byteable.hs:48:11: warning: [-Winline-rule-shadowing]
+    Rule "constEqBytes/ByteString" may never fire
+      because ‘constEqBytes’ might inline first
+    Probable fix: add an INLINE[n] or NOINLINE[n] pragma for ‘constEqBytes’
+Running Haddock for byteable-0.1.1...
+Preprocessing library byteable-0.1.1...
+Haddock coverage:
+ 100% (  3 /  3) in 'Data.Byteable'
+Documentation created: dist/dist-sandbox-439155cc/doc/html/byteable/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-byteable-0.115519013931617819336.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/byteable-0.1.1-2lU1pexQSLj1KbNO17UifQ
+Registering byteable-0.1.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80681/byteable-0.1.1'

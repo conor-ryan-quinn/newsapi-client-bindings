@@ -1,0 +1,58 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/hspec-2.6.1'
+Configuring hspec-2.6.1...
+Building hspec-2.6.1...
+Preprocessing library hspec-2.6.1...
+[1 of 6] Compiling Test.Hspec.Runner ( src/Test/Hspec/Runner.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Runner.o )
+[2 of 6] Compiling Test.Hspec.Formatters ( src/Test/Hspec/Formatters.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Formatters.o )
+[3 of 6] Compiling Test.Hspec.Discover ( src/Test/Hspec/Discover.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Discover.o )
+[4 of 6] Compiling Test.Hspec       ( src/Test/Hspec.hs, dist/dist-sandbox-439155cc/build/Test/Hspec.o )
+[5 of 6] Compiling Test.Hspec.QuickCheck ( src/Test/Hspec/QuickCheck.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/QuickCheck.o )
+[6 of 6] Compiling Paths_hspec      ( dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs, dist/dist-sandbox-439155cc/build/Paths_hspec.o )
+[1 of 6] Compiling Test.Hspec.Runner ( src/Test/Hspec/Runner.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Runner.p_o )
+[2 of 6] Compiling Test.Hspec.Formatters ( src/Test/Hspec/Formatters.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Formatters.p_o )
+[3 of 6] Compiling Test.Hspec.Discover ( src/Test/Hspec/Discover.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Discover.p_o )
+[4 of 6] Compiling Test.Hspec       ( src/Test/Hspec.hs, dist/dist-sandbox-439155cc/build/Test/Hspec.p_o )
+[5 of 6] Compiling Test.Hspec.QuickCheck ( src/Test/Hspec/QuickCheck.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/QuickCheck.p_o )
+[6 of 6] Compiling Paths_hspec      ( dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs, dist/dist-sandbox-439155cc/build/Paths_hspec.p_o )
+Running Haddock for hspec-2.6.1...
+Preprocessing library hspec-2.6.1...
+Haddock coverage:
+  50% (  1 /  2) in 'Test.Hspec.Runner'
+  Missing documentation for:
+    Module header
+  50% (  1 /  2) in 'Test.Hspec.Formatters'
+  Missing documentation for:
+    Module header
+  38% (  3 /  8) in 'Test.Hspec.Discover'
+  Missing documentation for:
+    Module header
+    Spec
+    IsFormatter (src/Test/Hspec/Discover.hs:20)
+    hspecWithFormatter (src/Test/Hspec/Discover.hs:29)
+    postProcessSpec (src/Test/Hspec/Discover.hs:34)
+  94% ( 44 / 47) in 'Test.Hspec'
+  Missing documentation for:
+    Spec
+    SpecWith
+    Arg
+  89% (  8 /  9) in 'Test.Hspec.QuickCheck'
+  Missing documentation for:
+    Module header
+   0% (  0 /  9) in 'Paths_hspec'
+  Missing documentation for:
+    Module header
+    version (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs:28)
+    getBinDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs:39)
+    getLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs:39)
+    getDynLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs:39)
+    getDataDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs:39)
+    getLibexecDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs:39)
+    getDataFileName (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs:47)
+    getSysconfDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec.hs:39)
+Documentation created: dist/dist-sandbox-439155cc/doc/html/hspec/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-hspec-2.6577163951524325968.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/hspec-2.6.1-2uyJ42MnHu0DmDT0D4WkX3
+Registering hspec-2.6.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/hspec-2.6.1'

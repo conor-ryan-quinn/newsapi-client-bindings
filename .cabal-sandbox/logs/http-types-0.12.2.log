@@ -1,0 +1,62 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80677/http-types-0.12.2'
+Configuring http-types-0.12.2...
+Building http-types-0.12.2...
+Preprocessing library http-types-0.12.2...
+[1 of 7] Compiling Network.HTTP.Types.Version ( Network/HTTP/Types/Version.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/Version.o )
+[2 of 7] Compiling Network.HTTP.Types.URI ( Network/HTTP/Types/URI.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/URI.o )
+[3 of 7] Compiling Network.HTTP.Types.Status ( Network/HTTP/Types/Status.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/Status.o )
+[4 of 7] Compiling Network.HTTP.Types.QueryLike ( Network/HTTP/Types/QueryLike.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/QueryLike.o )
+[5 of 7] Compiling Network.HTTP.Types.Method ( Network/HTTP/Types/Method.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/Method.o )
+[6 of 7] Compiling Network.HTTP.Types.Header ( Network/HTTP/Types/Header.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/Header.o )
+[7 of 7] Compiling Network.HTTP.Types ( Network/HTTP/Types.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types.o )
+[1 of 7] Compiling Network.HTTP.Types.Version ( Network/HTTP/Types/Version.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/Version.p_o )
+[2 of 7] Compiling Network.HTTP.Types.URI ( Network/HTTP/Types/URI.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/URI.p_o )
+[3 of 7] Compiling Network.HTTP.Types.Status ( Network/HTTP/Types/Status.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/Status.p_o )
+[4 of 7] Compiling Network.HTTP.Types.QueryLike ( Network/HTTP/Types/QueryLike.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/QueryLike.p_o )
+[5 of 7] Compiling Network.HTTP.Types.Method ( Network/HTTP/Types/Method.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/Method.p_o )
+[6 of 7] Compiling Network.HTTP.Types.Header ( Network/HTTP/Types/Header.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types/Header.p_o )
+[7 of 7] Compiling Network.HTTP.Types ( Network/HTTP/Types.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Types.p_o )
+Running Haddock for http-types-0.12.2...
+Preprocessing library http-types-0.12.2...
+Haddock coverage:
+  83% (  5 /  6) in 'Network.HTTP.Types.Version'
+  Missing documentation for:
+    Module header
+  97% ( 36 / 37) in 'Network.HTTP.Types.URI'
+  Missing documentation for:
+    Module header
+  99% (103 /104) in 'Network.HTTP.Types.Status'
+  Missing documentation for:
+    Module header
+  75% (  3 /  4) in 'Network.HTTP.Types.QueryLike'
+  Missing documentation for:
+    Module header
+  93% ( 14 / 15) in 'Network.HTTP.Types.Method'
+  Missing documentation for:
+    Module header
+  93% ( 64 / 69) in 'Network.HTTP.Types.Header'
+  Missing documentation for:
+    Module header
+    renderByteRangeBuilder (Network/HTTP/Types/Header.hs:178)
+    renderByteRange (Network/HTTP/Types/Header.hs:183)
+    renderByteRangesBuilder (Network/HTTP/Types/Header.hs:189)
+    renderByteRanges (Network/HTTP/Types/Header.hs:193)
+  97% (191 /196) in 'Network.HTTP.Types'
+  Missing documentation for:
+    Module header
+    renderByteRangeBuilder (Network/HTTP/Types/Header.hs:178)
+    renderByteRange (Network/HTTP/Types/Header.hs:183)
+    renderByteRangesBuilder (Network/HTTP/Types/Header.hs:189)
+    renderByteRanges (Network/HTTP/Types/Header.hs:193)
+Warning: Network.HTTP.Types.Method: could not find link destinations for:
+    unsafeIndex unsafeRangeSize
+Warning: Network.HTTP.Types: could not find link destinations for:
+    unsafeIndex unsafeRangeSize
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/http-types/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-http-types-0.129671137552124639789.2
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/http-types-0.12.2-BxVWAxYGg651s7ab6sSeet
+Registering http-types-0.12.2...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80677/http-types-0.12.2'

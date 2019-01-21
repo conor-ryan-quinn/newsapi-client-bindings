@@ -1,0 +1,51 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80687/string-conversions-0.4.0.1'
+Configuring string-conversions-0.4.0.1...
+Building string-conversions-0.4.0.1...
+Preprocessing library string-conversions-0.4.0.1...
+[1 of 2] Compiling Data.String.Conversions ( src/Data/String/Conversions.hs, dist/dist-sandbox-439155cc/build/Data/String/Conversions.o )
+[2 of 2] Compiling Data.String.Conversions.Monomorphic ( src/Data/String/Conversions/Monomorphic.hs, dist/dist-sandbox-439155cc/build/Data/String/Conversions/Monomorphic.o )
+[1 of 2] Compiling Data.String.Conversions ( src/Data/String/Conversions.hs, dist/dist-sandbox-439155cc/build/Data/String/Conversions.p_o )
+[2 of 2] Compiling Data.String.Conversions.Monomorphic ( src/Data/String/Conversions/Monomorphic.hs, dist/dist-sandbox-439155cc/build/Data/String/Conversions/Monomorphic.p_o )
+Running Haddock for string-conversions-0.4.0.1...
+Preprocessing library string-conversions-0.4.0.1...
+Haddock coverage:
+  33% (  5 / 15) in 'Data.String.Conversions'
+  Missing documentation for:
+    ConvertibleStrings (src/Data/String/Conversions.hs:63)
+    cs (src/Data/String/Conversions.hs:66)
+    StrictByteString (src/Data/String/Conversions.hs:76)
+    SBS (src/Data/String/Conversions.hs:77)
+    LazyByteString (src/Data/String/Conversions.hs:79)
+    LBS (src/Data/String/Conversions.hs:80)
+    StrictText (src/Data/String/Conversions.hs:82)
+    ST (src/Data/String/Conversions.hs:83)
+    LazyText (src/Data/String/Conversions.hs:85)
+    LT (src/Data/String/Conversions.hs:86)
+  14% (  3 / 21) in 'Data.String.Conversions.Monomorphic'
+  Missing documentation for:
+    toString (src/Data/String/Conversions/Monomorphic.hs:41)
+    toStrictByteString (src/Data/String/Conversions/Monomorphic.hs:44)
+    toSBS (src/Data/String/Conversions/Monomorphic.hs:47)
+    toLazyByteString (src/Data/String/Conversions/Monomorphic.hs:50)
+    toLBS (src/Data/String/Conversions/Monomorphic.hs:53)
+    toStrictText (src/Data/String/Conversions/Monomorphic.hs:56)
+    toST (src/Data/String/Conversions/Monomorphic.hs:59)
+    toLazyText (src/Data/String/Conversions/Monomorphic.hs:62)
+    toLT (src/Data/String/Conversions/Monomorphic.hs:65)
+    fromString (src/Data/String/Conversions/Monomorphic.hs:70)
+    fromStrictByteString (src/Data/String/Conversions/Monomorphic.hs:73)
+    fromSBS (src/Data/String/Conversions/Monomorphic.hs:76)
+    fromLazyByteString (src/Data/String/Conversions/Monomorphic.hs:79)
+    fromLBS (src/Data/String/Conversions/Monomorphic.hs:82)
+    fromStrictText (src/Data/String/Conversions/Monomorphic.hs:85)
+    fromST (src/Data/String/Conversions/Monomorphic.hs:88)
+    fromLazyText (src/Data/String/Conversions/Monomorphic.hs:91)
+    fromLT (src/Data/String/Conversions/Monomorphic.hs:94)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/string-conversions/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-string-conversions-0.4.01828087692621301815.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/string-conversions-0.4.0.1-Gts3kmBzwTGFeFaBDCr0kr
+Registering string-conversions-0.4.0.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80687/string-conversions-0.4.0.1'

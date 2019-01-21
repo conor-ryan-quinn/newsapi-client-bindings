@@ -1,0 +1,19 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8049/erf-2.0.0.0'
+Configuring erf-2.0.0.0...
+Building erf-2.0.0.0...
+Preprocessing library erf-2.0.0.0...
+[1 of 1] Compiling Data.Number.Erf  ( src/Data/Number/Erf.hs, dist/dist-sandbox-439155cc/build/Data/Number/Erf.o )
+[1 of 1] Compiling Data.Number.Erf  ( src/Data/Number/Erf.hs, dist/dist-sandbox-439155cc/build/Data/Number/Erf.p_o )
+Running Haddock for erf-2.0.0.0...
+Preprocessing library erf-2.0.0.0...
+Haddock coverage:
+  67% (  2 /  3) in 'Data.Number.Erf'
+  Missing documentation for:
+    Module header
+Documentation created: dist/dist-sandbox-439155cc/doc/html/erf/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-erf-2.0.0585640194937186357.0
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/erf-2.0.0.0-IIRFGBpxAWtA7x6vFkIoaV
+Registering erf-2.0.0.0...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8049/erf-2.0.0.0'

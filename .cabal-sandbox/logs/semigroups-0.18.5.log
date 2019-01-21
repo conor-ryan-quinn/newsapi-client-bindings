@@ -1,0 +1,23 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80691/semigroups-0.18.5'
+Configuring semigroups-0.18.5...
+Building semigroups-0.18.5...
+Preprocessing library semigroups-0.18.5...
+[1 of 1] Compiling Data.Semigroup.Generic ( src/Data/Semigroup/Generic.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Generic.o )
+[1 of 1] Compiling Data.Semigroup.Generic ( src/Data/Semigroup/Generic.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Generic.p_o )
+Running Haddock for semigroups-0.18.5...
+Preprocessing library semigroups-0.18.5...
+Haddock coverage:
+  60% (  3 /  5) in 'Data.Semigroup.Generic'
+  Missing documentation for:
+    GSemigroup (src/Data/Semigroup/Generic.hs:46)
+    GMonoid (src/Data/Semigroup/Generic.hs:76)
+Warning: Data.Semigroup.Generic: could not find link destinations for:
+    gmappend' gmempty'
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/semigroups/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-semigroups-0.1816353394251654001669.5
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/semigroups-0.18.5-8PX1z2jDBfU1S0Wcg8io0A
+Registering semigroups-0.18.5...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80691/semigroups-0.18.5'

@@ -1,0 +1,37 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80679/vault-0.3.1.2'
+Configuring vault-0.3.1.2...
+Building vault-0.3.1.2...
+Preprocessing library vault-0.3.1.2...
+[1 of 5] Compiling Data.Unique.Really ( src/Data/Unique/Really.hs, dist/dist-sandbox-439155cc/build/Data/Unique/Really.o )
+[2 of 5] Compiling Data.Vault.ST.Lazy ( src/Data/Vault/ST/Lazy.hs, dist/dist-sandbox-439155cc/build/Data/Vault/ST/Lazy.o )
+[3 of 5] Compiling Data.Vault.Lazy  ( src/Data/Vault/Lazy.hs, dist/dist-sandbox-439155cc/build/Data/Vault/Lazy.o )
+[4 of 5] Compiling Data.Vault.ST.Strict ( src/Data/Vault/ST/Strict.hs, dist/dist-sandbox-439155cc/build/Data/Vault/ST/Strict.o )
+[5 of 5] Compiling Data.Vault.Strict ( src/Data/Vault/Strict.hs, dist/dist-sandbox-439155cc/build/Data/Vault/Strict.o )
+[1 of 5] Compiling Data.Unique.Really ( src/Data/Unique/Really.hs, dist/dist-sandbox-439155cc/build/Data/Unique/Really.p_o )
+[2 of 5] Compiling Data.Vault.ST.Lazy ( src/Data/Vault/ST/Lazy.hs, dist/dist-sandbox-439155cc/build/Data/Vault/ST/Lazy.p_o )
+[3 of 5] Compiling Data.Vault.Lazy  ( src/Data/Vault/Lazy.hs, dist/dist-sandbox-439155cc/build/Data/Vault/Lazy.p_o )
+[4 of 5] Compiling Data.Vault.ST.Strict ( src/Data/Vault/ST/Strict.hs, dist/dist-sandbox-439155cc/build/Data/Vault/ST/Strict.p_o )
+[5 of 5] Compiling Data.Vault.Strict ( src/Data/Vault/Strict.hs, dist/dist-sandbox-439155cc/build/Data/Vault/Strict.p_o )
+Running Haddock for vault-0.3.1.2...
+Preprocessing library vault-0.3.1.2...
+Haddock coverage:
+ 100% (  4 /  4) in 'Data.Unique.Really'
+  80% ( 12 / 15) in 'Data.Vault.ST.Lazy'
+  Missing documentation for:
+    Vault (src/Data/Vault/ST/backends/GHC.h:18)
+    Key (src/Data/Vault/ST/backends/GHC.h:19)
+    Locker (src/Data/Vault/ST/backends/GHC.h:40)
+ 100% ( 15 / 15) in 'Data.Vault.Lazy'
+  80% ( 12 / 15) in 'Data.Vault.ST.Strict'
+  Missing documentation for:
+    Vault (src/Data/Vault/ST/backends/GHC.h:18)
+    Key (src/Data/Vault/ST/backends/GHC.h:19)
+    Locker (src/Data/Vault/ST/backends/GHC.h:40)
+ 100% ( 15 / 15) in 'Data.Vault.Strict'
+Documentation created: dist/dist-sandbox-439155cc/doc/html/vault/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-vault-0.3.16780301931105222769.2
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/vault-0.3.1.2-LELxE0GDeth3Pj6iiCHcUE
+Registering vault-0.3.1.2...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80679/vault-0.3.1.2'

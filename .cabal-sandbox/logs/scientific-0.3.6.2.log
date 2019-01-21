@@ -1,0 +1,42 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80679/scientific-0.3.6.2'
+Configuring scientific-0.3.6.2...
+Building scientific-0.3.6.2...
+Preprocessing library scientific-0.3.6.2...
+[1 of 5] Compiling Utils            ( src/Utils.hs, dist/dist-sandbox-439155cc/build/Utils.o )
+[2 of 5] Compiling GHC.Integer.Compat ( src/GHC/Integer/Compat.hs, dist/dist-sandbox-439155cc/build/GHC/Integer/Compat.o )
+[3 of 5] Compiling Data.Scientific  ( src/Data/Scientific.hs, dist/dist-sandbox-439155cc/build/Data/Scientific.o )
+[4 of 5] Compiling Data.Text.Lazy.Builder.Scientific ( src/Data/Text/Lazy/Builder/Scientific.hs, dist/dist-sandbox-439155cc/build/Data/Text/Lazy/Builder/Scientific.o )
+[5 of 5] Compiling Data.ByteString.Builder.Scientific ( src/Data/ByteString/Builder/Scientific.hs, dist/dist-sandbox-439155cc/build/Data/ByteString/Builder/Scientific.o )
+[1 of 5] Compiling Utils            ( src/Utils.hs, dist/dist-sandbox-439155cc/build/Utils.p_o )
+[2 of 5] Compiling GHC.Integer.Compat ( src/GHC/Integer/Compat.hs, dist/dist-sandbox-439155cc/build/GHC/Integer/Compat.p_o )
+[3 of 5] Compiling Data.Scientific  ( src/Data/Scientific.hs, dist/dist-sandbox-439155cc/build/Data/Scientific.p_o )
+[4 of 5] Compiling Data.Text.Lazy.Builder.Scientific ( src/Data/Text/Lazy/Builder/Scientific.hs, dist/dist-sandbox-439155cc/build/Data/Text/Lazy/Builder/Scientific.p_o )
+[5 of 5] Compiling Data.ByteString.Builder.Scientific ( src/Data/ByteString/Builder/Scientific.hs, dist/dist-sandbox-439155cc/build/Data/ByteString/Builder/Scientific.p_o )
+Running Haddock for scientific-0.3.6.2...
+Preprocessing library scientific-0.3.6.2...
+Haddock coverage:
+  33% (  1 /  3) in 'Utils'
+  Missing documentation for:
+    Module header
+    roundTo (src/Utils.hs:12)
+   0% (  0 /  2) in 'GHC.Integer.Compat'
+  Missing documentation for:
+    Module header
+    divInteger
+ 100% ( 31 / 31) in 'Data.Scientific'
+  75% (  3 /  4) in 'Data.Text.Lazy.Builder.Scientific'
+  Missing documentation for:
+    Module header
+  75% (  3 /  4) in 'Data.ByteString.Builder.Scientific'
+  Missing documentation for:
+    Module header
+Warning: Data.Scientific: could not find link destinations for:
+    whenFloating
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/scientific/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-scientific-0.3.69449758251567121210.2
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/scientific-0.3.6.2-CsdVo3aDZORJPACn96CEz3
+Registering scientific-0.3.6.2...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80679/scientific-0.3.6.2'

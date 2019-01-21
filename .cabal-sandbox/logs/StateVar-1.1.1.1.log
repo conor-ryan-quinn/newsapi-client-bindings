@@ -1,0 +1,19 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/StateVar-1.1.1.1'
+Configuring StateVar-1.1.1.1...
+Building StateVar-1.1.1.1...
+Preprocessing library StateVar-1.1.1.1...
+[1 of 1] Compiling Data.StateVar    ( src/Data/StateVar.hs, dist/dist-sandbox-439155cc/build/Data/StateVar.o )
+[1 of 1] Compiling Data.StateVar    ( src/Data/StateVar.hs, dist/dist-sandbox-439155cc/build/Data/StateVar.p_o )
+Running Haddock for StateVar-1.1.1.1...
+Preprocessing library StateVar-1.1.1.1...
+Haddock coverage:
+ 100% ( 15 / 15) in 'Data.StateVar'
+Warning: Data.StateVar: could not find link destinations for:
+    ~
+Documentation created: dist/dist-sandbox-439155cc/doc/html/StateVar/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-StateVar-1.1.112648177091998097157.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/StateVar-1.1.1.1-26lkUNuZOSQCBDM8oa7BoG
+Registering StateVar-1.1.1.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/StateVar-1.1.1.1'

@@ -1,0 +1,20 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/xmlbf-xeno-0.1.1'
+Configuring xmlbf-xeno-0.1.1...
+Building xmlbf-xeno-0.1.1...
+Preprocessing library xmlbf-xeno-0.1.1...
+[1 of 1] Compiling Xmlbf.Xeno       ( lib/Xmlbf/Xeno.hs, dist/dist-sandbox-439155cc/build/Xmlbf/Xeno.o )
+[1 of 1] Compiling Xmlbf.Xeno       ( lib/Xmlbf/Xeno.hs, dist/dist-sandbox-439155cc/build/Xmlbf/Xeno.p_o )
+Running Haddock for xmlbf-xeno-0.1.1...
+Preprocessing library xmlbf-xeno-0.1.1...
+Haddock coverage:
+  67% (  2 /  3) in 'Xmlbf.Xeno'
+  Missing documentation for:
+    Module header
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/xmlbf-xeno/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-xmlbf-xeno-0.112672485902051724831.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/xmlbf-xeno-0.1.1-C9j2CDIk0Q1I1axgS8skYy
+Registering xmlbf-xeno-0.1.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/xmlbf-xeno-0.1.1'

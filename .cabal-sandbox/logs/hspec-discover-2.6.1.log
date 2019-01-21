@@ -1,0 +1,71 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8056/hspec-discover-2.6.1'
+Warning: hspec-discover.cabal: Unknown fields: build-tool-depends (line 86)
+Fields allowed in this section:
+type, main-is, test-module, buildable, build-tools, build-depends,
+cpp-options, cc-options, ld-options, pkgconfig-depends, frameworks,
+extra-framework-dirs, c-sources, js-sources, default-language,
+other-languages, default-extensions, other-extensions, extensions,
+extra-libraries, extra-ghci-libraries, extra-lib-dirs, includes,
+install-includes, include-dirs, hs-source-dirs, other-modules,
+ghc-prof-options, ghcjs-prof-options, ghc-shared-options,
+ghcjs-shared-options, ghc-options, ghcjs-options, jhc-options,
+hugs-options, nhc98-options
+Configuring hspec-discover-2.6.1...
+Building hspec-discover-2.6.1...
+Preprocessing library hspec-discover-2.6.1...
+[1 of 4] Compiling Test.Hspec.Discover.Sort ( src/Test/Hspec/Discover/Sort.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Discover/Sort.o )
+[2 of 4] Compiling Test.Hspec.Discover.Config ( src/Test/Hspec/Discover/Config.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Discover/Config.o )
+[3 of 4] Compiling Test.Hspec.Discover.Run ( src/Test/Hspec/Discover/Run.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Discover/Run.o )
+[4 of 4] Compiling Paths_hspec_discover ( dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs, dist/dist-sandbox-439155cc/build/Paths_hspec_discover.o )
+[1 of 4] Compiling Test.Hspec.Discover.Sort ( src/Test/Hspec/Discover/Sort.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Discover/Sort.p_o )
+[2 of 4] Compiling Test.Hspec.Discover.Config ( src/Test/Hspec/Discover/Config.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Discover/Config.p_o )
+[3 of 4] Compiling Test.Hspec.Discover.Run ( src/Test/Hspec/Discover/Run.hs, dist/dist-sandbox-439155cc/build/Test/Hspec/Discover/Run.p_o )
+[4 of 4] Compiling Paths_hspec_discover ( dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs, dist/dist-sandbox-439155cc/build/Paths_hspec_discover.p_o )
+Preprocessing executable 'hspec-discover' for hspec-discover-2.6.1...
+[1 of 1] Compiling Main             ( driver/hspec-discover.hs, dist/dist-sandbox-439155cc/build/hspec-discover/hspec-discover-tmp/Main.o )
+Linking dist/dist-sandbox-439155cc/build/hspec-discover/hspec-discover ...
+Running Haddock for hspec-discover-2.6.1...
+Preprocessing library hspec-discover-2.6.1...
+Haddock coverage:
+   0% (  0 /  4) in 'Test.Hspec.Discover.Sort'
+  Missing documentation for:
+    Module header
+    sortNaturally (src/Test/Hspec/Discover/Sort.hs:12)
+    NaturalSortKey (src/Test/Hspec/Discover/Sort.hs:15)
+    naturalSortKey (src/Test/Hspec/Discover/Sort.hs:21)
+  20% (  1 /  5) in 'Test.Hspec.Discover.Config'
+  Missing documentation for:
+    Config (src/Test/Hspec/Discover/Config.hs:14)
+    defaultConfig (src/Test/Hspec/Discover/Config.hs:21)
+    parseConfig (src/Test/Hspec/Discover/Config.hs:35)
+    usage (src/Test/Hspec/Discover/Config.hs:32)
+  40% (  4 / 10) in 'Test.Hspec.Discover.Run'
+  Missing documentation for:
+    run (src/Test/Hspec/Discover/Run.hs:43)
+    Spec (src/Test/Hspec/Discover/Run.hs:38)
+    fileToSpec (src/Test/Hspec/Discover/Run.hs:125)
+    findSpecs (src/Test/Hspec/Discover/Run.hs:120)
+    getFilesRecursive (src/Test/Hspec/Discover/Run.hs:144)
+    driverWithFormatter (src/Test/Hspec/Discover/Run.hs:89)
+   0% (  0 /  9) in 'Paths_hspec_discover'
+  Missing documentation for:
+    Module header
+    version (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs:28)
+    getBinDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs:39)
+    getLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs:39)
+    getDynLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs:39)
+    getDataDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs:39)
+    getLibexecDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs:39)
+    getDataFileName (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs:47)
+    getSysconfDir (dist/dist-sandbox-439155cc/build/autogen/Paths_hspec_discover.hs:39)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/hspec-discover/index.html
+Preprocessing executable 'hspec-discover' for hspec-discover-2.6.1...
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-hspec-discover-2.61137623865997389814.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/hspec-discover-2.6.1-AI9Egj1dDcfJ4GSOiSCPZ3
+Installing executable(s) in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/bin
+Registering hspec-discover-2.6.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8056/hspec-discover-2.6.1'

@@ -1,0 +1,137 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/semigroupoids-5.2.2'
+[1 of 1] Compiling Main             ( /var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/semigroupoids-5.2.2/dist/dist-sandbox-439155cc/setup/setup.hs, /var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/semigroupoids-5.2.2/dist/dist-sandbox-439155cc/setup/Main.o )
+Linking /var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/semigroupoids-5.2.2/dist/dist-sandbox-439155cc/setup/setup ...
+Configuring semigroupoids-5.2.2...
+Building semigroupoids-5.2.2...
+Preprocessing library semigroupoids-5.2.2...
+[ 1 of 21] Compiling Data.Traversable.Instances ( src/Data/Traversable/Instances.hs, dist/dist-sandbox-439155cc/build/Data/Traversable/Instances.o )
+[ 2 of 21] Compiling Data.Semigroup.Foldable.Class ( src/Data/Semigroup/Foldable/Class.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Foldable/Class.o )
+[ 3 of 21] Compiling Data.Functor.Extend ( src/Data/Functor/Extend.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Extend.o )
+[ 4 of 21] Compiling Data.Functor.Bind.Class ( src/Data/Functor/Bind/Class.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Bind/Class.o )
+[ 5 of 21] Compiling Data.Functor.Apply ( src/Data/Functor/Apply.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Apply.o )
+[ 6 of 21] Compiling Data.Functor.Bind ( src/Data/Functor/Bind.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Bind.o )
+[ 7 of 21] Compiling Data.Functor.Bind.Trans ( src/Data/Functor/Bind/Trans.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Bind/Trans.o )
+[ 8 of 21] Compiling Data.Semigroupoid ( src/Data/Semigroupoid.hs, dist/dist-sandbox-439155cc/build/Data/Semigroupoid.o )
+[ 9 of 21] Compiling Data.Semigroupoid.Dual ( src/Data/Semigroupoid/Dual.hs, dist/dist-sandbox-439155cc/build/Data/Semigroupoid/Dual.o )
+[10 of 21] Compiling Data.Groupoid    ( src/Data/Groupoid.hs, dist/dist-sandbox-439155cc/build/Data/Groupoid.o )
+[11 of 21] Compiling Data.Isomorphism ( src/Data/Isomorphism.hs, dist/dist-sandbox-439155cc/build/Data/Isomorphism.o )
+[12 of 21] Compiling Data.Semigroupoid.Ob ( src/Data/Semigroupoid/Ob.hs, dist/dist-sandbox-439155cc/build/Data/Semigroupoid/Ob.o )
+[13 of 21] Compiling Data.Semigroup.Bifoldable ( src/Data/Semigroup/Bifoldable.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Bifoldable.o )
+[14 of 21] Compiling Data.Functor.Alt ( src/Data/Functor/Alt.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Alt.o )
+[15 of 21] Compiling Data.Functor.Plus ( src/Data/Functor/Plus.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Plus.o )
+[16 of 21] Compiling Data.Semigroupoid.Static ( src/Data/Semigroupoid/Static.hs, dist/dist-sandbox-439155cc/build/Data/Semigroupoid/Static.o )
+[17 of 21] Compiling Data.Semigroup.Foldable ( src/Data/Semigroup/Foldable.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Foldable.o )
+[18 of 21] Compiling Data.Semigroup.Traversable.Class ( src/Data/Semigroup/Traversable/Class.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Traversable/Class.o )
+[19 of 21] Compiling Data.Semigroup.Bitraversable ( src/Data/Semigroup/Bitraversable.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Bitraversable.o )
+[20 of 21] Compiling Data.Semigroup.Traversable ( src/Data/Semigroup/Traversable.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Traversable.o )
+[21 of 21] Compiling Data.Bifunctor.Apply ( src/Data/Bifunctor/Apply.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Apply.o )
+[ 1 of 21] Compiling Data.Traversable.Instances ( src/Data/Traversable/Instances.hs, dist/dist-sandbox-439155cc/build/Data/Traversable/Instances.p_o )
+[ 2 of 21] Compiling Data.Semigroup.Foldable.Class ( src/Data/Semigroup/Foldable/Class.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Foldable/Class.p_o )
+[ 3 of 21] Compiling Data.Functor.Extend ( src/Data/Functor/Extend.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Extend.p_o )
+[ 4 of 21] Compiling Data.Functor.Bind.Class ( src/Data/Functor/Bind/Class.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Bind/Class.p_o )
+[ 5 of 21] Compiling Data.Functor.Apply ( src/Data/Functor/Apply.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Apply.p_o )
+[ 6 of 21] Compiling Data.Functor.Bind ( src/Data/Functor/Bind.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Bind.p_o )
+[ 7 of 21] Compiling Data.Functor.Bind.Trans ( src/Data/Functor/Bind/Trans.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Bind/Trans.p_o )
+[ 8 of 21] Compiling Data.Semigroupoid ( src/Data/Semigroupoid.hs, dist/dist-sandbox-439155cc/build/Data/Semigroupoid.p_o )
+[ 9 of 21] Compiling Data.Semigroupoid.Dual ( src/Data/Semigroupoid/Dual.hs, dist/dist-sandbox-439155cc/build/Data/Semigroupoid/Dual.p_o )
+[10 of 21] Compiling Data.Groupoid    ( src/Data/Groupoid.hs, dist/dist-sandbox-439155cc/build/Data/Groupoid.p_o )
+[11 of 21] Compiling Data.Isomorphism ( src/Data/Isomorphism.hs, dist/dist-sandbox-439155cc/build/Data/Isomorphism.p_o )
+[12 of 21] Compiling Data.Semigroupoid.Ob ( src/Data/Semigroupoid/Ob.hs, dist/dist-sandbox-439155cc/build/Data/Semigroupoid/Ob.p_o )
+[13 of 21] Compiling Data.Semigroup.Bifoldable ( src/Data/Semigroup/Bifoldable.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Bifoldable.p_o )
+[14 of 21] Compiling Data.Functor.Alt ( src/Data/Functor/Alt.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Alt.p_o )
+[15 of 21] Compiling Data.Functor.Plus ( src/Data/Functor/Plus.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Plus.p_o )
+[16 of 21] Compiling Data.Semigroupoid.Static ( src/Data/Semigroupoid/Static.hs, dist/dist-sandbox-439155cc/build/Data/Semigroupoid/Static.p_o )
+[17 of 21] Compiling Data.Semigroup.Foldable ( src/Data/Semigroup/Foldable.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Foldable.p_o )
+[18 of 21] Compiling Data.Semigroup.Traversable.Class ( src/Data/Semigroup/Traversable/Class.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Traversable/Class.p_o )
+[19 of 21] Compiling Data.Semigroup.Bitraversable ( src/Data/Semigroup/Bitraversable.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Bitraversable.p_o )
+[20 of 21] Compiling Data.Semigroup.Traversable ( src/Data/Semigroup/Traversable.hs, dist/dist-sandbox-439155cc/build/Data/Semigroup/Traversable.p_o )
+[21 of 21] Compiling Data.Bifunctor.Apply ( src/Data/Bifunctor/Apply.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Apply.p_o )
+Running Haddock for semigroupoids-5.2.2...
+Preprocessing library semigroupoids-5.2.2...
+Haddock coverage:
+ 100% (  1 /  1) in 'Data.Traversable.Instances'
+  33% (  1 /  3) in 'Data.Semigroup.Foldable.Class'
+  Missing documentation for:
+    Foldable1 (src/Data/Semigroup/Foldable/Class.hs:68)
+    Bifoldable1 (src/Data/Semigroup/Foldable/Class.hs:99)
+  75% (  3 /  4) in 'Data.Functor.Extend'
+  Missing documentation for:
+    Extend (src/Data/Functor/Extend.hs:54)
+  75% (  9 / 12) in 'Data.Functor.Bind.Class'
+  Missing documentation for:
+    apDefault (src/Data/Functor/Bind/Class.hs:468)
+    returning (src/Data/Functor/Bind/Class.hs:465)
+    Biapply (src/Data/Functor/Bind/Class.hs:627)
+ 100% ( 12 / 12) in 'Data.Functor.Apply'
+  74% ( 14 / 19) in 'Data.Functor.Bind'
+  Missing documentation for:
+    -<< (src/Data/Functor/Bind.hs:46)
+    -<- (src/Data/Functor/Bind.hs:52)
+    ->- (src/Data/Functor/Bind.hs:49)
+    apDefault (src/Data/Functor/Bind/Class.hs:468)
+    returning (src/Data/Functor/Bind/Class.hs:465)
+ 100% (  2 /  2) in 'Data.Functor.Bind.Trans'
+  50% (  2 /  4) in 'Data.Semigroupoid'
+  Missing documentation for:
+    WrappedCategory (src/Data/Semigroupoid.hs:80)
+    Semi (src/Data/Semigroupoid.hs:89)
+  50% (  1 /  2) in 'Data.Semigroupoid.Dual'
+  Missing documentation for:
+    Dual (src/Data/Semigroupoid/Dual.hs:23)
+ 100% (  2 /  2) in 'Data.Groupoid'
+  50% (  1 /  2) in 'Data.Isomorphism'
+  Missing documentation for:
+    Iso (src/Data/Isomorphism.hs:25)
+  20% (  1 /  5) in 'Data.Semigroupoid.Ob'
+  Missing documentation for:
+    Ob (src/Data/Semigroupoid/Ob.hs:30)
+     (src/Data/Semigroupoid/Ob.hs:33)
+     (src/Data/Semigroupoid/Ob.hs:37)
+     (src/Data/Semigroupoid/Ob.hs:41)
+  33% (  2 /  6) in 'Data.Semigroup.Bifoldable'
+  Missing documentation for:
+    Bifoldable1 (src/Data/Semigroup/Foldable/Class.hs:99)
+    bitraverse1_ (src/Data/Semigroup/Bifoldable.hs:39)
+    bifor1_ (src/Data/Semigroup/Bifoldable.hs:43)
+    bisequenceA1_ (src/Data/Semigroup/Bifoldable.hs:51)
+ 100% (  4 /  4) in 'Data.Functor.Alt'
+ 100% (  3 /  3) in 'Data.Functor.Plus'
+  50% (  1 /  2) in 'Data.Semigroupoid.Static'
+  Missing documentation for:
+    Static (src/Data/Semigroupoid/Static.hs:42)
+  55% (  6 / 11) in 'Data.Semigroup.Foldable'
+  Missing documentation for:
+    Foldable1 (src/Data/Semigroup/Foldable/Class.hs:68)
+    traverse1_ (src/Data/Semigroup/Foldable.hs:76)
+    for1_ (src/Data/Semigroup/Foldable.hs:80)
+    sequenceA1_ (src/Data/Semigroup/Foldable.hs:84)
+    asum1 (src/Data/Semigroup/Foldable.hs:102)
+  33% (  1 /  3) in 'Data.Semigroup.Traversable.Class'
+  Missing documentation for:
+    Bitraversable1 (src/Data/Semigroup/Traversable/Class.hs:64)
+    Traversable1 (src/Data/Semigroup/Traversable/Class.hs:148)
+  33% (  1 /  3) in 'Data.Semigroup.Bitraversable'
+  Missing documentation for:
+    Bitraversable1 (src/Data/Semigroup/Traversable/Class.hs:64)
+    bifoldMap1Default (src/Data/Semigroup/Bitraversable.hs:23)
+  33% (  1 /  3) in 'Data.Semigroup.Traversable'
+  Missing documentation for:
+    Traversable1 (src/Data/Semigroup/Traversable/Class.hs:148)
+    foldMap1Default (src/Data/Semigroup/Traversable.hs:23)
+  62% (  5 /  8) in 'Data.Bifunctor.Apply'
+  Missing documentation for:
+    Biapply (src/Data/Functor/Bind/Class.hs:627)
+    <<$>>
+    <<..>> (src/Data/Bifunctor/Apply.hs:27)
+Warning: Data.Functor.Apply: could not find link destinations for:
+    Id Digit Node Elem FingerTree StateL StateR StateL StateR State Mag
+Warning: Data.Functor.Bind: could not find link destinations for:
+    Id Digit Node Elem FingerTree StateL StateR StateL StateR State Mag
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/semigroupoids/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-semigroupoids-5.210040168551732267506.2
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/semigroupoids-5.2.2-Gh2ARzVbDlMCDF7pgbu6ri
+Registering semigroupoids-5.2.2...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/semigroupoids-5.2.2'

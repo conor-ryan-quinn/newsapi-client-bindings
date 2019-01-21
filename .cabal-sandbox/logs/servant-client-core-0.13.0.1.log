@@ -1,0 +1,127 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/servant-client-core-0.13.0.1'
+Warning: servant-client-core.cabal: Unknown fields: build-tool-depends (line
+102)
+Fields allowed in this section:
+type, main-is, test-module, buildable, build-tools, build-depends,
+cpp-options, cc-options, ld-options, pkgconfig-depends, frameworks,
+extra-framework-dirs, c-sources, js-sources, default-language,
+other-languages, default-extensions, other-extensions, extensions,
+extra-libraries, extra-ghci-libraries, extra-lib-dirs, includes,
+install-includes, include-dirs, hs-source-dirs, other-modules,
+ghc-prof-options, ghcjs-prof-options, ghc-shared-options,
+ghcjs-shared-options, ghc-options, ghcjs-options, jhc-options,
+hugs-options, nhc98-options
+Configuring servant-client-core-0.13.0.1...
+Building servant-client-core-0.13.0.1...
+Preprocessing library servant-client-core-0.13.0.1...
+[1 of 9] Compiling Servant.Client.Core.Internal.Request ( src/Servant/Client/Core/Internal/Request.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/Request.o )
+[2 of 9] Compiling Servant.Client.Core.Internal.RunClient ( src/Servant/Client/Core/Internal/RunClient.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/RunClient.o )
+[3 of 9] Compiling Servant.Client.Core.Internal.Generic ( src/Servant/Client/Core/Internal/Generic.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/Generic.o )
+[4 of 9] Compiling Servant.Client.Core.Internal.BasicAuth ( src/Servant/Client/Core/Internal/BasicAuth.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/BasicAuth.o )
+[5 of 9] Compiling Servant.Client.Core.Internal.BaseUrl ( src/Servant/Client/Core/Internal/BaseUrl.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/BaseUrl.o )
+[6 of 9] Compiling Servant.Client.Core.Internal.Auth ( src/Servant/Client/Core/Internal/Auth.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/Auth.o )
+[7 of 9] Compiling Servant.Client.Core.Internal.HasClient ( src/Servant/Client/Core/Internal/HasClient.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/HasClient.o )
+[8 of 9] Compiling Servant.Client.Core.Reexport ( src/Servant/Client/Core/Reexport.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Reexport.o )
+[9 of 9] Compiling Servant.Client.Core ( src/Servant/Client/Core.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core.o )
+[1 of 9] Compiling Servant.Client.Core.Internal.Request ( src/Servant/Client/Core/Internal/Request.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/Request.p_o )
+[2 of 9] Compiling Servant.Client.Core.Internal.RunClient ( src/Servant/Client/Core/Internal/RunClient.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/RunClient.p_o )
+[3 of 9] Compiling Servant.Client.Core.Internal.Generic ( src/Servant/Client/Core/Internal/Generic.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/Generic.p_o )
+[4 of 9] Compiling Servant.Client.Core.Internal.BasicAuth ( src/Servant/Client/Core/Internal/BasicAuth.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/BasicAuth.p_o )
+[5 of 9] Compiling Servant.Client.Core.Internal.BaseUrl ( src/Servant/Client/Core/Internal/BaseUrl.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/BaseUrl.p_o )
+[6 of 9] Compiling Servant.Client.Core.Internal.Auth ( src/Servant/Client/Core/Internal/Auth.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/Auth.p_o )
+[7 of 9] Compiling Servant.Client.Core.Internal.HasClient ( src/Servant/Client/Core/Internal/HasClient.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Internal/HasClient.p_o )
+[8 of 9] Compiling Servant.Client.Core.Reexport ( src/Servant/Client/Core/Reexport.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core/Reexport.p_o )
+[9 of 9] Compiling Servant.Client.Core ( src/Servant/Client/Core.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Core.p_o )
+Running Haddock for servant-client-core-0.13.0.1...
+Preprocessing library servant-client-core-0.13.0.1...
+Haddock coverage:
+  27% (  4 / 15) in 'Servant.Client.Core.Internal.Request'
+  Missing documentation for:
+    Module header
+     (src/Servant/Client/Core/Internal/Request.hs:51)
+    RequestF (src/Servant/Client/Core/Internal/Request.hs:53)
+    Request (src/Servant/Client/Core/Internal/Request.hs:63)
+    GenResponse (src/Servant/Client/Core/Internal/Request.hs:69)
+    Response (src/Servant/Client/Core/Internal/Request.hs:76)
+    StreamingResponse (src/Servant/Client/Core/Internal/Request.hs:77)
+    defaultRequest (src/Servant/Client/Core/Internal/Request.hs:80)
+    appendToPath (src/Servant/Client/Core/Internal/Request.hs:91)
+    appendToQueryString (src/Servant/Client/Core/Internal/Request.hs:95)
+    addHeader (src/Servant/Client/Core/Internal/Request.hs:103)
+  25% (  1 /  4) in 'Servant.Client.Core.Internal.RunClient'
+  Missing documentation for:
+    RunClient (src/Servant/Client/Core/Internal/RunClient.hs:25)
+    checkContentTypeHeader (src/Servant/Client/Core/Internal/RunClient.hs:32)
+    decodedAs (src/Servant/Client/Core/Internal/RunClient.hs:40)
+  33% (  5 / 15) in 'Servant.Client.Core.Internal.Generic'
+  Missing documentation for:
+    Module header
+     (src/Servant/Client/Core/Internal/Generic.hs:105)
+     (src/Servant/Client/Core/Internal/Generic.hs:114)
+     (src/Servant/Client/Core/Internal/Generic.hs:118)
+     (src/Servant/Client/Core/Internal/Generic.hs:126)
+     (src/Servant/Client/Core/Internal/Generic.hs:129)
+    ClientList (src/Servant/Client/Core/Internal/Generic.hs:132)
+    GClientList (src/Servant/Client/Core/Internal/Generic.hs:136)
+     (src/Servant/Client/Core/Internal/Generic.hs:139)
+     (src/Servant/Client/Core/Internal/Generic.hs:143)
+ 100% (  2 /  2) in 'Servant.Client.Core.Internal.BasicAuth'
+  25% (  2 /  8) in 'Servant.Client.Core.Internal.BaseUrl'
+  Missing documentation for:
+    Module header
+     (src/Servant/Client/Core/Internal/BaseUrl.hs:29)
+    showBaseUrl (src/Servant/Client/Core/Internal/BaseUrl.hs:35)
+    InvalidBaseUrlException (src/Servant/Client/Core/Internal/BaseUrl.hs:48)
+     (src/Servant/Client/Core/Internal/BaseUrl.hs:49)
+    parseBaseUrl (src/Servant/Client/Core/Internal/BaseUrl.hs:51)
+ 100% (  4 /  4) in 'Servant.Client.Core.Internal.Auth'
+  61% ( 19 / 31) in 'Servant.Client.Core.Internal.HasClient'
+  Missing documentation for:
+    Module header
+     (src/Servant/Client/Core/Internal/HasClient.hs:201)
+     (src/Servant/Client/Core/Internal/HasClient.hs:216)
+     (src/Servant/Client/Core/Internal/HasClient.hs:226)
+     (src/Servant/Client/Core/Internal/HasClient.hs:247)
+     (src/Servant/Client/Core/Internal/HasClient.hs:259)
+     (src/Servant/Client/Core/Internal/HasClient.hs:546)
+     (src/Servant/Client/Core/Internal/HasClient.hs:552)
+     (src/Servant/Client/Core/Internal/HasClient.hs:558)
+     (src/Servant/Client/Core/Internal/HasClient.hs:564)
+     (src/Servant/Client/Core/Internal/HasClient.hs:570)
+     (src/Servant/Client/Core/Internal/HasClient.hs:580)
+  68% ( 13 / 19) in 'Servant.Client.Core.Reexport'
+  Missing documentation for:
+    Response (src/Servant/Client/Core/Internal/Request.hs:76)
+    StreamingResponse (src/Servant/Client/Core/Internal/Request.hs:77)
+    GenResponse (src/Servant/Client/Core/Internal/Request.hs:69)
+    showBaseUrl (src/Servant/Client/Core/Internal/BaseUrl.hs:35)
+    parseBaseUrl (src/Servant/Client/Core/Internal/BaseUrl.hs:51)
+    InvalidBaseUrlException (src/Servant/Client/Core/Internal/BaseUrl.hs:48)
+  70% ( 23 / 33) in 'Servant.Client.Core'
+  Missing documentation for:
+    Request (src/Servant/Client/Core/Internal/Request.hs:63)
+    RequestF (src/Servant/Client/Core/Internal/Request.hs:53)
+    defaultRequest (src/Servant/Client/Core/Internal/Request.hs:80)
+    Response (src/Servant/Client/Core/Internal/Request.hs:76)
+    GenResponse (src/Servant/Client/Core/Internal/Request.hs:69)
+    RunClient (src/Servant/Client/Core/Internal/RunClient.hs:25)
+    StreamingResponse (src/Servant/Client/Core/Internal/Request.hs:77)
+    addHeader (src/Servant/Client/Core/Internal/Request.hs:103)
+    appendToQueryString (src/Servant/Client/Core/Internal/Request.hs:95)
+    appendToPath (src/Servant/Client/Core/Internal/Request.hs:91)
+Warning: Servant.Client.Core.Internal.Generic: could not find link destinations for:
+    ~
+Warning: Servant.Client.Core.Internal.HasClient: could not find link destinations for:
+    ~
+Warning: Servant.Client.Core.Reexport: could not find link destinations for:
+    ~
+Warning: Servant.Client.Core: could not find link destinations for:
+    ~
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/servant-client-core/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-servant-client-core-0.13.01212054001284660444.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/servant-client-core-0.13.0.1-Hiro7BuEXNlIhi96ZctbZS
+Registering servant-client-core-0.13.0.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/servant-client-core-0.13.0.1'

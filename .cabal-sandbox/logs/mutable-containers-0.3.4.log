@@ -1,0 +1,72 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/mutable-containers-0.3.4'
+Configuring mutable-containers-0.3.4...
+Building mutable-containers-0.3.4...
+Preprocessing library mutable-containers-0.3.4...
+[1 of 9] Compiling Paths_mutable_containers ( dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs, dist/dist-sandbox-439155cc/build/Paths_mutable_containers.o )
+[2 of 9] Compiling Data.Mutable.Class ( src/Data/Mutable/Class.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/Class.o )
+[3 of 9] Compiling Data.Mutable.DLList ( src/Data/Mutable/DLList.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/DLList.o )
+[4 of 9] Compiling Data.Mutable.Deque ( src/Data/Mutable/Deque.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/Deque.o )
+[5 of 9] Compiling Data.Mutable.PRef ( src/Data/Mutable/PRef.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/PRef.o )
+[6 of 9] Compiling Data.Mutable.SRef ( src/Data/Mutable/SRef.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/SRef.o )
+[7 of 9] Compiling Data.Mutable.URef ( src/Data/Mutable/URef.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/URef.o )
+[8 of 9] Compiling Data.Mutable.BRef ( src/Data/Mutable/BRef.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/BRef.o )
+[9 of 9] Compiling Data.Mutable     ( src/Data/Mutable.hs, dist/dist-sandbox-439155cc/build/Data/Mutable.o )
+[1 of 9] Compiling Paths_mutable_containers ( dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs, dist/dist-sandbox-439155cc/build/Paths_mutable_containers.p_o )
+[2 of 9] Compiling Data.Mutable.Class ( src/Data/Mutable/Class.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/Class.p_o )
+[3 of 9] Compiling Data.Mutable.DLList ( src/Data/Mutable/DLList.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/DLList.p_o )
+[4 of 9] Compiling Data.Mutable.Deque ( src/Data/Mutable/Deque.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/Deque.p_o )
+[5 of 9] Compiling Data.Mutable.PRef ( src/Data/Mutable/PRef.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/PRef.p_o )
+[6 of 9] Compiling Data.Mutable.SRef ( src/Data/Mutable/SRef.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/SRef.p_o )
+[7 of 9] Compiling Data.Mutable.URef ( src/Data/Mutable/URef.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/URef.p_o )
+[8 of 9] Compiling Data.Mutable.BRef ( src/Data/Mutable/BRef.hs, dist/dist-sandbox-439155cc/build/Data/Mutable/BRef.p_o )
+[9 of 9] Compiling Data.Mutable     ( src/Data/Mutable.hs, dist/dist-sandbox-439155cc/build/Data/Mutable.p_o )
+Running Haddock for mutable-containers-0.3.4...
+Preprocessing library mutable-containers-0.3.4...
+Haddock coverage:
+   0% (  0 /  9) in 'Paths_mutable_containers'
+  Missing documentation for:
+    Module header
+    version (dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs:28)
+    getBinDir (dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs:39)
+    getLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs:39)
+    getDynLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs:39)
+    getDataDir (dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs:39)
+    getLibexecDir (dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs:39)
+    getDataFileName (dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs:47)
+    getSysconfDir (dist/dist-sandbox-439155cc/build/autogen/Paths_mutable_containers.hs:39)
+  84% ( 21 / 25) in 'Data.Mutable.Class'
+  Missing documentation for:
+    pushFrontRef (src/Data/Mutable/Class.hs:253)
+    pushBackRef (src/Data/Mutable/Class.hs:323)
+    popFrontRef (src/Data/Mutable/Class.hs:215)
+    popBackRef (src/Data/Mutable/Class.hs:285)
+  85% ( 23 / 27) in 'Data.Mutable.DLList'
+  Missing documentation for:
+    pushFrontRef (src/Data/Mutable/Class.hs:253)
+    pushBackRef (src/Data/Mutable/Class.hs:323)
+    popFrontRef (src/Data/Mutable/Class.hs:215)
+    popBackRef (src/Data/Mutable/Class.hs:285)
+  84% ( 27 / 32) in 'Data.Mutable.Deque'
+  Missing documentation for:
+    Module header
+    pushFrontRef (src/Data/Mutable/Class.hs:253)
+    pushBackRef (src/Data/Mutable/Class.hs:323)
+    popFrontRef (src/Data/Mutable/Class.hs:215)
+    popBackRef (src/Data/Mutable/Class.hs:285)
+ 100% (  7 /  7) in 'Data.Mutable.PRef'
+ 100% (  7 /  7) in 'Data.Mutable.SRef'
+ 100% (  7 /  7) in 'Data.Mutable.URef'
+ 100% (  7 /  7) in 'Data.Mutable.BRef'
+  98% ( 51 / 52) in 'Data.Mutable'
+  Missing documentation for:
+    Unbox
+Warning: Data.Mutable: could not find link destinations for:
+    ~
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/mutable-containers/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-mutable-containers-0.313418536351808266298.4
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/mutable-containers-0.3.4-5SSiDuVTWcLLmyXuyYLOi0
+Registering mutable-containers-0.3.4...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8048/mutable-containers-0.3.4'

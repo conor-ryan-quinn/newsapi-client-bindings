@@ -1,0 +1,20 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80684/mime-types-0.1.0.9'
+Configuring mime-types-0.1.0.9...
+Building mime-types-0.1.0.9...
+Preprocessing library mime-types-0.1.0.9...
+[1 of 1] Compiling Network.Mime     ( Network/Mime.hs, dist/dist-sandbox-439155cc/build/Network/Mime.o )
+[1 of 1] Compiling Network.Mime     ( Network/Mime.hs, dist/dist-sandbox-439155cc/build/Network/Mime.p_o )
+Running Haddock for mime-types-0.1.0.9...
+Preprocessing library mime-types-0.1.0.9...
+Haddock coverage:
+  93% ( 13 / 14) in 'Network.Mime'
+  Missing documentation for:
+    Module header
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/mime-types/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-mime-types-0.1.014594134961951894885.9
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/mime-types-0.1.0.9-4jB6GuXhBmB9f7UeMcPWJi
+Registering mime-types-0.1.0.9...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80684/mime-types-0.1.0.9'

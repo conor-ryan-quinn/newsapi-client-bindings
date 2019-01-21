@@ -1,0 +1,20 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80696/time-locale-compat-0.1.1.5'
+Configuring time-locale-compat-0.1.1.5...
+Building time-locale-compat-0.1.1.5...
+Preprocessing library time-locale-compat-0.1.1.5...
+[1 of 1] Compiling Data.Time.Locale.Compat ( src/Data/Time/Locale/Compat.hs, dist/dist-sandbox-439155cc/build/Data/Time/Locale/Compat.o )
+[1 of 1] Compiling Data.Time.Locale.Compat ( src/Data/Time/Locale/Compat.hs, dist/dist-sandbox-439155cc/build/Data/Time/Locale/Compat.p_o )
+Running Haddock for time-locale-compat-0.1.1.5...
+Preprocessing library time-locale-compat-0.1.1.5...
+Haddock coverage:
+  86% (  6 /  7) in 'Data.Time.Locale.Compat'
+  Missing documentation for:
+    TimeLocale
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/time-locale-compat/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-time-locale-compat-0.1.121463194511908194298.5
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/time-locale-compat-0.1.1.5-J00eOZffEv9CovYjSDvmMV
+Registering time-locale-compat-0.1.1.5...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80696/time-locale-compat-0.1.1.5'

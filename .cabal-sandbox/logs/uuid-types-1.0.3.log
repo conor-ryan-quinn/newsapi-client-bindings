@@ -1,0 +1,34 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80682/uuid-types-1.0.3'
+Configuring uuid-types-1.0.3...
+Building uuid-types-1.0.3...
+Preprocessing library uuid-types-1.0.3...
+[1 of 3] Compiling Data.UUID.Types.Internal.Builder ( Data/UUID/Types/Internal/Builder.hs, dist/dist-sandbox-439155cc/build/Data/UUID/Types/Internal/Builder.o )
+[2 of 3] Compiling Data.UUID.Types.Internal ( Data/UUID/Types/Internal.hs, dist/dist-sandbox-439155cc/build/Data/UUID/Types/Internal.o )
+[3 of 3] Compiling Data.UUID.Types  ( Data/UUID/Types.hs, dist/dist-sandbox-439155cc/build/Data/UUID/Types.o )
+[1 of 3] Compiling Data.UUID.Types.Internal.Builder ( Data/UUID/Types/Internal/Builder.hs, dist/dist-sandbox-439155cc/build/Data/UUID/Types/Internal/Builder.p_o )
+[2 of 3] Compiling Data.UUID.Types.Internal ( Data/UUID/Types/Internal.hs, dist/dist-sandbox-439155cc/build/Data/UUID/Types/Internal.p_o )
+[3 of 3] Compiling Data.UUID.Types  ( Data/UUID/Types.hs, dist/dist-sandbox-439155cc/build/Data/UUID/Types.p_o )
+Running Haddock for uuid-types-1.0.3...
+Preprocessing library uuid-types-1.0.3...
+Haddock coverage:
+  29% (  2 /  7) in 'Data.UUID.Types.Internal.Builder'
+  Missing documentation for:
+    Module header
+    Takes1Byte (Data/UUID/Types/Internal/Builder.hs:46)
+    Takes2Bytes (Data/UUID/Types/Internal/Builder.hs:47)
+    Takes3Bytes (Data/UUID/Types/Internal/Builder.hs:48)
+    Takes4Bytes (Data/UUID/Types/Internal/Builder.hs:49)
+  86% ( 19 / 22) in 'Data.UUID.Types.Internal'
+  Missing documentation for:
+    UnpackedUUID (Data/UUID/Types/Internal.hs:111)
+    pack (Data/UUID/Types/Internal.hs:147)
+    unpack (Data/UUID/Types/Internal.hs:127)
+ 100% ( 16 / 16) in 'Data.UUID.Types'
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/uuid-types/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-uuid-types-1.018667296621536830211.3
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/uuid-types-1.0.3-Jzpg7Vxy7EH1Z4KM8yY3ls
+Registering uuid-types-1.0.3...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80682/uuid-types-1.0.3'

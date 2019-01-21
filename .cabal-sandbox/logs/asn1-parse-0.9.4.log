@@ -1,0 +1,35 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/asn1-parse-0.9.4'
+Configuring asn1-parse-0.9.4...
+Building asn1-parse-0.9.4...
+Preprocessing library asn1-parse-0.9.4...
+[1 of 1] Compiling Data.ASN1.Parse  ( Data/ASN1/Parse.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Parse.o )
+
+Data/ASN1/Parse.hs:30:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[1 of 1] Compiling Data.ASN1.Parse  ( Data/ASN1/Parse.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Parse.p_o )
+
+Data/ASN1/Parse.hs:30:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+Running Haddock for asn1-parse-0.9.4...
+Preprocessing library asn1-parse-0.9.4...
+
+Data/ASN1/Parse.hs:30:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+Haddock coverage:
+  94% ( 15 / 16) in 'Data.ASN1.Parse'
+  Missing documentation for:
+    ParseASN1 (Data/ASN1/Parse.hs:34)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/asn1-parse/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-asn1-parse-0.911541129911104740033.4
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/asn1-parse-0.9.4-2XHOrftLJrr4u4wypECUjx
+Registering asn1-parse-0.9.4...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/asn1-parse-0.9.4'

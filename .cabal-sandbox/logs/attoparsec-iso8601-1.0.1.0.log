@@ -1,0 +1,41 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80678/attoparsec-iso8601-1.0.1.0'
+Configuring attoparsec-iso8601-1.0.1.0...
+Building attoparsec-iso8601-1.0.1.0...
+Preprocessing library attoparsec-iso8601-1.0.1.0...
+[1 of 2] Compiling Data.Attoparsec.Time.Internal ( Data/Attoparsec/Time/Internal.hs, dist/dist-sandbox-439155cc/build/Data/Attoparsec/Time/Internal.o )
+
+Data/Attoparsec/Time/Internal.hs:24:1: warning: [-Wunused-imports]
+    The import of ‘Unsafe.Coerce’ is redundant
+      except perhaps to import instances from ‘Unsafe.Coerce’
+    To import instances alone, use: import Unsafe.Coerce()
+[2 of 2] Compiling Data.Attoparsec.Time ( Data/Attoparsec/Time.hs, dist/dist-sandbox-439155cc/build/Data/Attoparsec/Time.o )
+[1 of 2] Compiling Data.Attoparsec.Time.Internal ( Data/Attoparsec/Time/Internal.hs, dist/dist-sandbox-439155cc/build/Data/Attoparsec/Time/Internal.p_o )
+
+Data/Attoparsec/Time/Internal.hs:24:1: warning: [-Wunused-imports]
+    The import of ‘Unsafe.Coerce’ is redundant
+      except perhaps to import instances from ‘Unsafe.Coerce’
+    To import instances alone, use: import Unsafe.Coerce()
+[2 of 2] Compiling Data.Attoparsec.Time ( Data/Attoparsec/Time.hs, dist/dist-sandbox-439155cc/build/Data/Attoparsec/Time.p_o )
+Running Haddock for attoparsec-iso8601-1.0.1.0...
+Preprocessing library attoparsec-iso8601-1.0.1.0...
+
+Data/Attoparsec/Time/Internal.hs:24:1: warning: [-Wunused-imports]
+    The import of ‘Unsafe.Coerce’ is redundant
+      except perhaps to import instances from ‘Unsafe.Coerce’
+    To import instances alone, use: import Unsafe.Coerce()
+Haddock coverage:
+  33% (  2 /  6) in 'Data.Attoparsec.Time.Internal'
+  Missing documentation for:
+    fromPico (Data/Attoparsec/Time/Internal.hs:54)
+    toPico (Data/Attoparsec/Time/Internal.hs:51)
+    diffTimeOfDay64 (Data/Attoparsec/Time/Internal.hs:75)
+    toTimeOfDay64 (Data/Attoparsec/Time/Internal.hs:83)
+ 100% (  7 /  7) in 'Data.Attoparsec.Time'
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/attoparsec-iso8601/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-attoparsec-iso8601-1.0.1174076737834991545.0
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/attoparsec-iso8601-1.0.1.0-6XPtVnKM5awKAb7pgykA3r
+Registering attoparsec-iso8601-1.0.1.0...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80678/attoparsec-iso8601-1.0.1.0'

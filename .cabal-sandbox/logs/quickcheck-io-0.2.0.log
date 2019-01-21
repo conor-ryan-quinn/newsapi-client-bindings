@@ -1,0 +1,35 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8049/quickcheck-io-0.2.0'
+Configuring quickcheck-io-0.2.0...
+Building quickcheck-io-0.2.0...
+Preprocessing library quickcheck-io-0.2.0...
+[1 of 2] Compiling Test.QuickCheck.IO ( src/Test/QuickCheck/IO.hs, dist/dist-sandbox-439155cc/build/Test/QuickCheck/IO.o )
+[2 of 2] Compiling Paths_quickcheck_io ( dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs, dist/dist-sandbox-439155cc/build/Paths_quickcheck_io.o )
+[1 of 2] Compiling Test.QuickCheck.IO ( src/Test/QuickCheck/IO.hs, dist/dist-sandbox-439155cc/build/Test/QuickCheck/IO.p_o )
+[2 of 2] Compiling Paths_quickcheck_io ( dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs, dist/dist-sandbox-439155cc/build/Paths_quickcheck_io.p_o )
+Running Haddock for quickcheck-io-0.2.0...
+Preprocessing library quickcheck-io-0.2.0...
+Haddock coverage:
+   0% (  0 /  3) in 'Test.QuickCheck.IO'
+  Missing documentation for:
+    Module header
+     (src/Test/QuickCheck/IO.hs:11)
+    propertyIO (src/Test/QuickCheck/IO.hs:17)
+   0% (  0 /  9) in 'Paths_quickcheck_io'
+  Missing documentation for:
+    Module header
+    version (dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs:28)
+    getBinDir (dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs:39)
+    getLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs:39)
+    getDynLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs:39)
+    getDataDir (dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs:39)
+    getLibexecDir (dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs:39)
+    getDataFileName (dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs:47)
+    getSysconfDir (dist/dist-sandbox-439155cc/build/autogen/Paths_quickcheck_io.hs:39)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/quickcheck-io/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-quickcheck-io-0.2578354438892053144.0
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/quickcheck-io-0.2.0-4nrC5AE3l0f5oE7XvArbxM
+Registering quickcheck-io-0.2.0...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8049/quickcheck-io-0.2.0'

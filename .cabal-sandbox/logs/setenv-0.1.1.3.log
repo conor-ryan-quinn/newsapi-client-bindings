@@ -1,0 +1,19 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8050/setenv-0.1.1.3'
+Configuring setenv-0.1.1.3...
+Building setenv-0.1.1.3...
+Preprocessing library setenv-0.1.1.3...
+[1 of 1] Compiling System.SetEnv    ( src/System/SetEnv.hs, dist/dist-sandbox-439155cc/build/System/SetEnv.o )
+[1 of 1] Compiling System.SetEnv    ( src/System/SetEnv.hs, dist/dist-sandbox-439155cc/build/System/SetEnv.p_o )
+Running Haddock for setenv-0.1.1.3...
+Preprocessing library setenv-0.1.1.3...
+Haddock coverage:
+  67% (  2 /  3) in 'System.SetEnv'
+  Missing documentation for:
+    Module header
+Documentation created: dist/dist-sandbox-439155cc/doc/html/setenv/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-setenv-0.1.11580723810704877633.3
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/setenv-0.1.1.3-8dEhk6JWvlmCmVyBammSpu
+Registering setenv-0.1.1.3...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-8050/setenv-0.1.1.3'

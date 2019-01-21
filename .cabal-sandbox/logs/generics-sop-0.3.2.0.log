@@ -1,0 +1,102 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80686/generics-sop-0.3.2.0'
+Configuring generics-sop-0.3.2.0...
+Building generics-sop-0.3.2.0...
+Preprocessing library generics-sop-0.3.2.0...
+[ 1 of 14] Compiling Generics.SOP.Sing ( src/Generics/SOP/Sing.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Sing.o )
+[ 2 of 14] Compiling Generics.SOP.Constraint ( src/Generics/SOP/Constraint.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Constraint.o )
+[ 3 of 14] Compiling Generics.SOP.BasicFunctors ( src/Generics/SOP/BasicFunctors.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/BasicFunctors.o )
+[ 4 of 14] Compiling Generics.SOP.Classes ( src/Generics/SOP/Classes.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Classes.o )
+[ 5 of 14] Compiling Generics.SOP.NP  ( src/Generics/SOP/NP.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/NP.o )
+[ 6 of 14] Compiling Generics.SOP.Dict ( src/Generics/SOP/Dict.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Dict.o )
+[ 7 of 14] Compiling Generics.SOP.Metadata ( src/Generics/SOP/Metadata.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Metadata.o )
+[ 8 of 14] Compiling Generics.SOP.Type.Metadata ( src/Generics/SOP/Type/Metadata.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Type/Metadata.o )
+[ 9 of 14] Compiling Generics.SOP.NS  ( src/Generics/SOP/NS.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/NS.o )
+[10 of 14] Compiling Generics.SOP.GGP ( src/Generics/SOP/GGP.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/GGP.o )
+[11 of 14] Compiling Generics.SOP.Universe ( src/Generics/SOP/Universe.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Universe.o )
+[12 of 14] Compiling Generics.SOP.TH  ( src/Generics/SOP/TH.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/TH.o )
+[13 of 14] Compiling Generics.SOP.Instances ( src/Generics/SOP/Instances.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Instances.o )
+[14 of 14] Compiling Generics.SOP     ( src/Generics/SOP.hs, dist/dist-sandbox-439155cc/build/Generics/SOP.o )
+[ 1 of 14] Compiling Generics.SOP.Sing ( src/Generics/SOP/Sing.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Sing.p_o )
+[ 2 of 14] Compiling Generics.SOP.Constraint ( src/Generics/SOP/Constraint.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Constraint.p_o )
+[ 3 of 14] Compiling Generics.SOP.BasicFunctors ( src/Generics/SOP/BasicFunctors.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/BasicFunctors.p_o )
+[ 4 of 14] Compiling Generics.SOP.Classes ( src/Generics/SOP/Classes.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Classes.p_o )
+[ 5 of 14] Compiling Generics.SOP.NP  ( src/Generics/SOP/NP.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/NP.p_o )
+[ 6 of 14] Compiling Generics.SOP.Dict ( src/Generics/SOP/Dict.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Dict.p_o )
+[ 7 of 14] Compiling Generics.SOP.Metadata ( src/Generics/SOP/Metadata.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Metadata.p_o )
+[ 8 of 14] Compiling Generics.SOP.Type.Metadata ( src/Generics/SOP/Type/Metadata.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Type/Metadata.p_o )
+[ 9 of 14] Compiling Generics.SOP.NS  ( src/Generics/SOP/NS.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/NS.p_o )
+[10 of 14] Compiling Generics.SOP.GGP ( src/Generics/SOP/GGP.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/GGP.p_o )
+[11 of 14] Compiling Generics.SOP.Universe ( src/Generics/SOP/Universe.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Universe.p_o )
+[12 of 14] Compiling Generics.SOP.TH  ( src/Generics/SOP/TH.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/TH.p_o )
+[13 of 14] Compiling Generics.SOP.Instances ( src/Generics/SOP/Instances.hs, dist/dist-sandbox-439155cc/build/Generics/SOP/Instances.p_o )
+[14 of 14] Compiling Generics.SOP     ( src/Generics/SOP.hs, dist/dist-sandbox-439155cc/build/Generics/SOP.p_o )
+Running Haddock for generics-sop-0.3.2.0...
+Preprocessing library generics-sop-0.3.2.0...
+Haddock coverage:
+ 100% ( 11 / 11) in 'Generics.SOP.Sing'
+  66% ( 19 / 29) in 'Generics.SOP.Constraint'
+  Missing documentation for:
+     (src/Generics/SOP/Constraint.hs:47)
+     (src/Generics/SOP/Constraint.hs:81)
+     (src/Generics/SOP/Constraint.hs:111)
+     (src/Generics/SOP/Constraint.hs:161)
+     (src/Generics/SOP/Constraint.hs:168)
+     (src/Generics/SOP/Constraint.hs:184)
+     (src/Generics/SOP/Constraint.hs:192)
+     (src/Generics/SOP/Constraint.hs:200)
+     (src/Generics/SOP/Constraint.hs:223)
+     (src/Generics/SOP/Constraint.hs:230)
+ 100% ( 21 / 21) in 'Generics.SOP.BasicFunctors'
+ 100% ( 50 / 50) in 'Generics.SOP.Classes'
+  99% ( 84 / 85) in 'Generics.SOP.NP'
+  Missing documentation for:
+    shiftProjection (src/Generics/SOP/NP.hs:342)
+ 100% ( 16 / 16) in 'Generics.SOP.Dict'
+ 100% ( 16 / 16) in 'Generics.SOP.Metadata'
+  57% ( 17 / 30) in 'Generics.SOP.Type.Metadata'
+  Missing documentation for:
+     (src/Generics/SOP/Type/Metadata.hs:143)
+     (src/Generics/SOP/Type/Metadata.hs:152)
+     (src/Generics/SOP/Type/Metadata.hs:174)
+     (src/Generics/SOP/Type/Metadata.hs:177)
+     (src/Generics/SOP/Type/Metadata.hs:196)
+     (src/Generics/SOP/Type/Metadata.hs:199)
+     (src/Generics/SOP/Type/Metadata.hs:208)
+     (src/Generics/SOP/Type/Metadata.hs:225)
+     (src/Generics/SOP/Type/Metadata.hs:228)
+     (src/Generics/SOP/Type/Metadata.hs:246)
+     (src/Generics/SOP/Type/Metadata.hs:262)
+     (src/Generics/SOP/Type/Metadata.hs:265)
+     (src/Generics/SOP/Type/Metadata.hs:268)
+ 100% ( 80 / 80) in 'Generics.SOP.NS'
+ 100% (  9 /  9) in 'Generics.SOP.GGP'
+ 100% (  8 /  8) in 'Generics.SOP.Universe'
+ 100% (  6 /  6) in 'Generics.SOP.TH'
+ 100% (  1 /  1) in 'Generics.SOP.Instances'
+  99% (148 /149) in 'Generics.SOP'
+  Missing documentation for:
+    shiftProjection (src/Generics/SOP/NP.hs:342)
+Warning: Generics.SOP.Constraint: could not find link destinations for:
+    ~
+Warning: Generics.SOP.Classes: could not find link destinations for:
+    ~
+Warning: Generics.SOP.NP: could not find link destinations for:
+    ~
+Warning: Generics.SOP.Metadata: could not find link destinations for:
+    unsafeIndex unsafeRangeSize SingI sing Sing SingKind fromSing DemoteRep D:R:SingAssociativitya0 SLeftAssociative SRightAssociative SNotAssociative
+Warning: Generics.SOP.Type.Metadata: could not find link destinations for:
+    unsafeIndex unsafeRangeSize SingI sing Sing SingKind fromSing DemoteRep D:R:SingAssociativitya0 SLeftAssociative SRightAssociative SNotAssociative
+Warning: Generics.SOP.GGP: could not find link destinations for:
+    ToSumCode GSumFrom GSumTo ToInfo
+Warning: Generics.SOP.Universe: could not find link destinations for:
+    ~
+Warning: Generics.SOP: could not find link destinations for:
+    ~ unsafeIndex unsafeRangeSize SingI sing Sing SingKind fromSing DemoteRep D:R:SingAssociativitya0 SLeftAssociative SRightAssociative SNotAssociative
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/generics-sop/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-generics-sop-0.3.211909597451912844175.0
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/generics-sop-0.3.2.0-Atyu7FZupnIzSvvzQIW9t
+Registering generics-sop-0.3.2.0...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80686/generics-sop-0.3.2.0'

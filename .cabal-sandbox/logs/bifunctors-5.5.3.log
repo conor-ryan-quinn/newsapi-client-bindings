@@ -1,0 +1,159 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/bifunctors-5.5.3'
+Warning: bifunctors.cabal: Unknown fields: build-tool-depends (line 109)
+Fields allowed in this section:
+type, main-is, test-module, buildable, build-tools, build-depends,
+cpp-options, cc-options, ld-options, pkgconfig-depends, frameworks,
+extra-framework-dirs, c-sources, js-sources, default-language,
+other-languages, default-extensions, other-extensions, extensions,
+extra-libraries, extra-ghci-libraries, extra-lib-dirs, includes,
+install-includes, include-dirs, hs-source-dirs, other-modules,
+ghc-prof-options, ghcjs-prof-options, ghc-shared-options,
+ghcjs-shared-options, ghc-options, ghcjs-options, jhc-options,
+hugs-options, nhc98-options
+Configuring bifunctors-5.5.3...
+Building bifunctors-5.5.3...
+Preprocessing library bifunctors-5.5.3...
+[ 1 of 17] Compiling Paths_bifunctors ( dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs, dist/dist-sandbox-439155cc/build/Paths_bifunctors.o )
+[ 2 of 17] Compiling Data.Bifunctor.Functor ( src/Data/Bifunctor/Functor.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Functor.o )
+[ 3 of 17] Compiling Data.Bifoldable  ( old-src/ghc801/Data/Bifoldable.hs, dist/dist-sandbox-439155cc/build/Data/Bifoldable.o )
+[ 4 of 17] Compiling Data.Bitraversable ( old-src/ghc801/Data/Bitraversable.hs, dist/dist-sandbox-439155cc/build/Data/Bitraversable.o )
+[ 5 of 17] Compiling Data.Bifunctor.Sum ( src/Data/Bifunctor/Sum.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Sum.o )
+[ 6 of 17] Compiling Data.Bifunctor.TH.Internal ( src/Data/Bifunctor/TH/Internal.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/TH/Internal.o )
+[ 7 of 17] Compiling Data.Bifunctor.TH ( src/Data/Bifunctor/TH.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/TH.o )
+[ 8 of 17] Compiling Data.Biapplicative ( src/Data/Biapplicative.hs, dist/dist-sandbox-439155cc/build/Data/Biapplicative.o )
+[ 9 of 17] Compiling Data.Bifunctor.Biff ( src/Data/Bifunctor/Biff.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Biff.o )
+[10 of 17] Compiling Data.Bifunctor.Clown ( src/Data/Bifunctor/Clown.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Clown.o )
+[11 of 17] Compiling Data.Bifunctor.Fix ( src/Data/Bifunctor/Fix.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Fix.o )
+[12 of 17] Compiling Data.Bifunctor.Flip ( src/Data/Bifunctor/Flip.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Flip.o )
+[13 of 17] Compiling Data.Bifunctor.Join ( src/Data/Bifunctor/Join.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Join.o )
+[14 of 17] Compiling Data.Bifunctor.Joker ( src/Data/Bifunctor/Joker.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Joker.o )
+[15 of 17] Compiling Data.Bifunctor.Product ( src/Data/Bifunctor/Product.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Product.o )
+[16 of 17] Compiling Data.Bifunctor.Tannen ( src/Data/Bifunctor/Tannen.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Tannen.o )
+[17 of 17] Compiling Data.Bifunctor.Wrapped ( src/Data/Bifunctor/Wrapped.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Wrapped.o )
+[ 1 of 17] Compiling Paths_bifunctors ( dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs, dist/dist-sandbox-439155cc/build/Paths_bifunctors.p_o )
+[ 2 of 17] Compiling Data.Bifunctor.Functor ( src/Data/Bifunctor/Functor.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Functor.p_o )
+[ 3 of 17] Compiling Data.Bifoldable  ( old-src/ghc801/Data/Bifoldable.hs, dist/dist-sandbox-439155cc/build/Data/Bifoldable.p_o )
+[ 4 of 17] Compiling Data.Bitraversable ( old-src/ghc801/Data/Bitraversable.hs, dist/dist-sandbox-439155cc/build/Data/Bitraversable.p_o )
+[ 5 of 17] Compiling Data.Bifunctor.Sum ( src/Data/Bifunctor/Sum.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Sum.p_o )
+[ 6 of 17] Compiling Data.Bifunctor.TH.Internal ( src/Data/Bifunctor/TH/Internal.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/TH/Internal.p_o )
+[ 7 of 17] Compiling Data.Bifunctor.TH ( src/Data/Bifunctor/TH.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/TH.p_o )
+[ 8 of 17] Compiling Data.Biapplicative ( src/Data/Biapplicative.hs, dist/dist-sandbox-439155cc/build/Data/Biapplicative.p_o )
+[ 9 of 17] Compiling Data.Bifunctor.Biff ( src/Data/Bifunctor/Biff.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Biff.p_o )
+[10 of 17] Compiling Data.Bifunctor.Clown ( src/Data/Bifunctor/Clown.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Clown.p_o )
+[11 of 17] Compiling Data.Bifunctor.Fix ( src/Data/Bifunctor/Fix.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Fix.p_o )
+[12 of 17] Compiling Data.Bifunctor.Flip ( src/Data/Bifunctor/Flip.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Flip.p_o )
+[13 of 17] Compiling Data.Bifunctor.Join ( src/Data/Bifunctor/Join.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Join.p_o )
+[14 of 17] Compiling Data.Bifunctor.Joker ( src/Data/Bifunctor/Joker.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Joker.p_o )
+[15 of 17] Compiling Data.Bifunctor.Product ( src/Data/Bifunctor/Product.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Product.p_o )
+[16 of 17] Compiling Data.Bifunctor.Tannen ( src/Data/Bifunctor/Tannen.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Tannen.p_o )
+[17 of 17] Compiling Data.Bifunctor.Wrapped ( src/Data/Bifunctor/Wrapped.hs, dist/dist-sandbox-439155cc/build/Data/Bifunctor/Wrapped.p_o )
+Running Haddock for bifunctors-5.5.3...
+Preprocessing library bifunctors-5.5.3...
+Haddock coverage:
+   0% (  0 /  9) in 'Paths_bifunctors'
+  Missing documentation for:
+    Module header
+    version (dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs:28)
+    getBinDir (dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs:39)
+    getLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs:39)
+    getDynLibDir (dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs:39)
+    getDataDir (dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs:39)
+    getLibexecDir (dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs:39)
+    getDataFileName (dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs:47)
+    getSysconfDir (dist/dist-sandbox-439155cc/build/autogen/Paths_bifunctors.hs:39)
+  14% (  1 /  7) in 'Data.Bifunctor.Functor'
+  Missing documentation for:
+    Module header
+    BifunctorFunctor (src/Data/Bifunctor/Functor.hs:28)
+    BifunctorMonad (src/Data/Bifunctor/Functor.hs:31)
+    biliftM (src/Data/Bifunctor/Functor.hs:41)
+    BifunctorComonad (src/Data/Bifunctor/Functor.hs:45)
+    biliftW (src/Data/Bifunctor/Functor.hs:55)
+ 100% ( 34 / 34) in 'Data.Bifoldable'
+ 100% ( 11 / 11) in 'Data.Bitraversable'
+   0% (  0 /  7) in 'Data.Bifunctor.Sum'
+  Missing documentation for:
+    Module header
+    Sum (src/Data/Bifunctor/Sum.hs:36)
+     (src/Data/Bifunctor/Sum.hs:72)
+     (src/Data/Bifunctor/Sum.hs:80)
+     (src/Data/Bifunctor/Sum.hs:84)
+     (src/Data/Bifunctor/Sum.hs:88)
+     (src/Data/Bifunctor/Sum.hs:92)
+  39% ( 31 / 79) in 'Data.Bifunctor.TH.Internal'
+  Missing documentation for:
+    applySubstitutionKind (src/Data/Bifunctor/TH/Internal.hs:45)
+    substNameWithKind (src/Data/Bifunctor/TH/Internal.hs:52)
+    substNamesWithKindStar (src/Data/Bifunctor/TH/Internal.hs:55)
+    bimapConst (src/Data/Bifunctor/TH/Internal.hs:62)
+    bifoldrConst (src/Data/Bifunctor/TH/Internal.hs:66)
+    bifoldMapConst (src/Data/Bifunctor/TH/Internal.hs:70)
+    bitraverseConst (src/Data/Bifunctor/TH/Internal.hs:74)
+    isStarOrVar (src/Data/Bifunctor/TH/Internal.hs:189)
+    thd3 (src/Data/Bifunctor/TH/Internal.hs:219)
+    unsnoc (src/Data/Bifunctor/TH/Internal.hs:222)
+    bifunctorsPackageKey (src/Data/Bifunctor/TH/Internal.hs:397)
+    mkBifunctorsName_tc (src/Data/Bifunctor/TH/Internal.hs:404)
+    mkBifunctorsName_v (src/Data/Bifunctor/TH/Internal.hs:407)
+    bimapConstValName (src/Data/Bifunctor/TH/Internal.hs:410)
+    bifoldrConstValName (src/Data/Bifunctor/TH/Internal.hs:413)
+    bifoldMapConstValName (src/Data/Bifunctor/TH/Internal.hs:416)
+    coerceValName (src/Data/Bifunctor/TH/Internal.hs:419)
+    bitraverseConstValName (src/Data/Bifunctor/TH/Internal.hs:422)
+    wrapMonadDataName (src/Data/Bifunctor/TH/Internal.hs:425)
+    functorTypeName (src/Data/Bifunctor/TH/Internal.hs:428)
+    foldableTypeName (src/Data/Bifunctor/TH/Internal.hs:431)
+    traversableTypeName (src/Data/Bifunctor/TH/Internal.hs:434)
+    composeValName (src/Data/Bifunctor/TH/Internal.hs:437)
+    idValName (src/Data/Bifunctor/TH/Internal.hs:440)
+    errorValName (src/Data/Bifunctor/TH/Internal.hs:443)
+    flipValName (src/Data/Bifunctor/TH/Internal.hs:446)
+    fmapValName (src/Data/Bifunctor/TH/Internal.hs:449)
+    foldrValName (src/Data/Bifunctor/TH/Internal.hs:452)
+    foldMapValName (src/Data/Bifunctor/TH/Internal.hs:455)
+    seqValName (src/Data/Bifunctor/TH/Internal.hs:458)
+    traverseValName (src/Data/Bifunctor/TH/Internal.hs:461)
+    unwrapMonadValName (src/Data/Bifunctor/TH/Internal.hs:464)
+    bifunctorTypeName (src/Data/Bifunctor/TH/Internal.hs:473)
+    bimapValName (src/Data/Bifunctor/TH/Internal.hs:476)
+    pureValName (src/Data/Bifunctor/TH/Internal.hs:479)
+    apValName (src/Data/Bifunctor/TH/Internal.hs:482)
+    liftA2ValName (src/Data/Bifunctor/TH/Internal.hs:485)
+    mappendValName (src/Data/Bifunctor/TH/Internal.hs:488)
+    memptyValName (src/Data/Bifunctor/TH/Internal.hs:491)
+    bifoldableTypeName (src/Data/Bifunctor/TH/Internal.hs:532)
+    bitraversableTypeName (src/Data/Bifunctor/TH/Internal.hs:535)
+    bifoldrValName (src/Data/Bifunctor/TH/Internal.hs:538)
+    bifoldMapValName (src/Data/Bifunctor/TH/Internal.hs:541)
+    bitraverseValName (src/Data/Bifunctor/TH/Internal.hs:544)
+    appEndoValName (src/Data/Bifunctor/TH/Internal.hs:561)
+    dualDataName (src/Data/Bifunctor/TH/Internal.hs:564)
+    endoDataName (src/Data/Bifunctor/TH/Internal.hs:567)
+    getDualValName (src/Data/Bifunctor/TH/Internal.hs:570)
+  97% ( 32 / 33) in 'Data.Bifunctor.TH'
+  Missing documentation for:
+    makeBifold (src/Data/Bifunctor/TH.hs:224)
+  70% (  7 / 10) in 'Data.Biapplicative'
+  Missing documentation for:
+    Biapplicative (src/Data/Biapplicative.hs:58)
+    <<$>> (src/Data/Biapplicative.hs:54)
+    <<**>> (src/Data/Biapplicative.hs:87)
+ 100% (  2 /  2) in 'Data.Bifunctor.Biff'
+ 100% (  2 /  2) in 'Data.Bifunctor.Clown'
+ 100% (  2 /  2) in 'Data.Bifunctor.Fix'
+ 100% (  2 /  2) in 'Data.Bifunctor.Flip'
+ 100% (  2 /  2) in 'Data.Bifunctor.Join'
+ 100% (  2 /  2) in 'Data.Bifunctor.Joker'
+ 100% (  2 /  2) in 'Data.Bifunctor.Product'
+ 100% (  2 /  2) in 'Data.Bifunctor.Tannen'
+ 100% (  2 /  2) in 'Data.Bifunctor.Wrapped'
+Warning: Data.Bifunctor.TH: could not find link destinations for:
+    Bifunctor Bifoldable Bitraversable
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/bifunctors/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-bifunctors-5.56855834541351345223.3
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/bifunctors-5.5.3-7CB9yuWgl4dJbFI0Xe3CtR
+Registering bifunctors-5.5.3...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/bifunctors-5.5.3'

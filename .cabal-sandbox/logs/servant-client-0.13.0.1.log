@@ -1,0 +1,46 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/servant-client-0.13.0.1'
+Warning: servant-client.cabal: Unknown fields: build-tool-depends (line 130)
+Fields allowed in this section:
+type, main-is, test-module, buildable, build-tools, build-depends,
+cpp-options, cc-options, ld-options, pkgconfig-depends, frameworks,
+extra-framework-dirs, c-sources, js-sources, default-language,
+other-languages, default-extensions, other-extensions, extensions,
+extra-libraries, extra-ghci-libraries, extra-lib-dirs, includes,
+install-includes, include-dirs, hs-source-dirs, other-modules,
+ghc-prof-options, ghcjs-prof-options, ghc-shared-options,
+ghcjs-shared-options, ghc-options, ghcjs-options, jhc-options,
+hugs-options, nhc98-options
+Configuring servant-client-0.13.0.1...
+Building servant-client-0.13.0.1...
+Preprocessing library servant-client-0.13.0.1...
+[1 of 2] Compiling Servant.Client.Internal.HttpClient ( src/Servant/Client/Internal/HttpClient.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Internal/HttpClient.o )
+[2 of 2] Compiling Servant.Client   ( src/Servant/Client.hs, dist/dist-sandbox-439155cc/build/Servant/Client.o )
+[1 of 2] Compiling Servant.Client.Internal.HttpClient ( src/Servant/Client/Internal/HttpClient.hs, dist/dist-sandbox-439155cc/build/Servant/Client/Internal/HttpClient.p_o )
+[2 of 2] Compiling Servant.Client   ( src/Servant/Client.hs, dist/dist-sandbox-439155cc/build/Servant/Client.p_o )
+Running Haddock for servant-client-0.13.0.1...
+Preprocessing library servant-client-0.13.0.1...
+Haddock coverage:
+  31% (  5 / 16) in 'Servant.Client.Internal.HttpClient'
+  Missing documentation for:
+    Module header
+     (src/Servant/Client/Internal/HttpClient.hs:81)
+     (src/Servant/Client/Internal/HttpClient.hs:84)
+     (src/Servant/Client/Internal/HttpClient.hs:95)
+     (src/Servant/Client/Internal/HttpClient.hs:101)
+    runClientM (src/Servant/Client/Internal/HttpClient.hs:104)
+    performRequest (src/Servant/Client/Internal/HttpClient.hs:107)
+    performStreamingRequest (src/Servant/Client/Internal/HttpClient.hs:139)
+    clientResponseToResponse (src/Servant/Client/Internal/HttpClient.hs:154)
+    requestToClientRequest (src/Servant/Client/Internal/HttpClient.hs:162)
+    catchConnectionError (src/Servant/Client/Internal/HttpClient.hs:196)
+  86% (  6 /  7) in 'Servant.Client'
+  Missing documentation for:
+    runClientM (src/Servant/Client/Internal/HttpClient.hs:104)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/servant-client/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-servant-client-0.13.01502883016252193898.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/servant-client-0.13.0.1-4PrFbAyl5jJ8i2TanUtVgC
+Registering servant-client-0.13.0.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/servant-client-0.13.0.1'

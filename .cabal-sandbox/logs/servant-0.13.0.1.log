@@ -1,0 +1,219 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/servant-0.13.0.1'
+[1 of 1] Compiling Main             ( /var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/servant-0.13.0.1/dist/dist-sandbox-439155cc/setup/setup.hs, /var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/servant-0.13.0.1/dist/dist-sandbox-439155cc/setup/Main.o )
+Linking /var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/servant-0.13.0.1/dist/dist-sandbox-439155cc/setup/setup ...
+Warning: servant.cabal: Unknown fields: build-tool-depends (line 162)
+Fields allowed in this section:
+type, main-is, test-module, buildable, build-tools, build-depends,
+cpp-options, cc-options, ld-options, pkgconfig-depends, frameworks,
+extra-framework-dirs, c-sources, js-sources, default-language,
+other-languages, default-extensions, other-extensions, extensions,
+extra-libraries, extra-ghci-libraries, extra-lib-dirs, includes,
+install-includes, include-dirs, hs-source-dirs, other-modules,
+ghc-prof-options, ghcjs-prof-options, ghc-shared-options,
+ghcjs-shared-options, ghc-options, ghcjs-options, jhc-options,
+hugs-options, nhc98-options
+Configuring servant-0.13.0.1...
+Building servant-0.13.0.1...
+Preprocessing library servant-0.13.0.1...
+[ 1 of 26] Compiling Servant.API.WithNamedContext ( src/Servant/API/WithNamedContext.hs, dist/dist-sandbox-439155cc/build/Servant/API/WithNamedContext.o )
+[ 2 of 26] Compiling Servant.API.Verbs ( src/Servant/API/Verbs.hs, dist/dist-sandbox-439155cc/build/Servant/API/Verbs.o )
+[ 3 of 26] Compiling Servant.API.Vault ( src/Servant/API/Vault.hs, dist/dist-sandbox-439155cc/build/Servant/API/Vault.o )
+[ 4 of 26] Compiling Servant.API.Sub  ( src/Servant/API/Sub.hs, dist/dist-sandbox-439155cc/build/Servant/API/Sub.o )
+[ 5 of 26] Compiling Servant.API.Stream ( src/Servant/API/Stream.hs, dist/dist-sandbox-439155cc/build/Servant/API/Stream.o )
+[ 6 of 26] Compiling Servant.API.RemoteHost ( src/Servant/API/RemoteHost.hs, dist/dist-sandbox-439155cc/build/Servant/API/RemoteHost.o )
+[ 7 of 26] Compiling Servant.API.Raw  ( src/Servant/API/Raw.hs, dist/dist-sandbox-439155cc/build/Servant/API/Raw.o )
+[ 8 of 26] Compiling Servant.API.Modifiers ( src/Servant/API/Modifiers.hs, dist/dist-sandbox-439155cc/build/Servant/API/Modifiers.o )
+[ 9 of 26] Compiling Servant.API.QueryParam ( src/Servant/API/QueryParam.hs, dist/dist-sandbox-439155cc/build/Servant/API/QueryParam.o )
+[10 of 26] Compiling Servant.API.ReqBody ( src/Servant/API/ReqBody.hs, dist/dist-sandbox-439155cc/build/Servant/API/ReqBody.o )
+[11 of 26] Compiling Servant.API.IsSecure ( src/Servant/API/IsSecure.hs, dist/dist-sandbox-439155cc/build/Servant/API/IsSecure.o )
+[12 of 26] Compiling Servant.API.HttpVersion ( src/Servant/API/HttpVersion.hs, dist/dist-sandbox-439155cc/build/Servant/API/HttpVersion.o )
+[13 of 26] Compiling Servant.API.Header ( src/Servant/API/Header.hs, dist/dist-sandbox-439155cc/build/Servant/API/Header.o )
+[14 of 26] Compiling Servant.API.ResponseHeaders ( src/Servant/API/ResponseHeaders.hs, dist/dist-sandbox-439155cc/build/Servant/API/ResponseHeaders.o )
+[15 of 26] Compiling Servant.API.Experimental.Auth ( src/Servant/API/Experimental/Auth.hs, dist/dist-sandbox-439155cc/build/Servant/API/Experimental/Auth.o )
+[16 of 26] Compiling Servant.API.Empty ( src/Servant/API/Empty.hs, dist/dist-sandbox-439155cc/build/Servant/API/Empty.o )
+[17 of 26] Compiling Servant.API.Description ( src/Servant/API/Description.hs, dist/dist-sandbox-439155cc/build/Servant/API/Description.o )
+[18 of 26] Compiling Servant.API.ContentTypes ( src/Servant/API/ContentTypes.hs, dist/dist-sandbox-439155cc/build/Servant/API/ContentTypes.o )
+[19 of 26] Compiling Servant.API.Capture ( src/Servant/API/Capture.hs, dist/dist-sandbox-439155cc/build/Servant/API/Capture.o )
+[20 of 26] Compiling Servant.API.BasicAuth ( src/Servant/API/BasicAuth.hs, dist/dist-sandbox-439155cc/build/Servant/API/BasicAuth.o )
+[21 of 26] Compiling Servant.API.Alternative ( src/Servant/API/Alternative.hs, dist/dist-sandbox-439155cc/build/Servant/API/Alternative.o )
+[22 of 26] Compiling Servant.API.TypeLevel ( src/Servant/API/TypeLevel.hs, dist/dist-sandbox-439155cc/build/Servant/API/TypeLevel.o )
+[23 of 26] Compiling Servant.Utils.Links ( src/Servant/Utils/Links.hs, dist/dist-sandbox-439155cc/build/Servant/Utils/Links.o )
+[24 of 26] Compiling Servant.API      ( src/Servant/API.hs, dist/dist-sandbox-439155cc/build/Servant/API.o )
+[25 of 26] Compiling Servant.API.Internal.Test.ComprehensiveAPI ( src/Servant/API/Internal/Test/ComprehensiveAPI.hs, dist/dist-sandbox-439155cc/build/Servant/API/Internal/Test/ComprehensiveAPI.o )
+[26 of 26] Compiling Servant.Utils.Enter ( src/Servant/Utils/Enter.hs, dist/dist-sandbox-439155cc/build/Servant/Utils/Enter.o )
+[ 1 of 26] Compiling Servant.API.WithNamedContext ( src/Servant/API/WithNamedContext.hs, dist/dist-sandbox-439155cc/build/Servant/API/WithNamedContext.p_o )
+[ 2 of 26] Compiling Servant.API.Verbs ( src/Servant/API/Verbs.hs, dist/dist-sandbox-439155cc/build/Servant/API/Verbs.p_o )
+[ 3 of 26] Compiling Servant.API.Vault ( src/Servant/API/Vault.hs, dist/dist-sandbox-439155cc/build/Servant/API/Vault.p_o )
+[ 4 of 26] Compiling Servant.API.Sub  ( src/Servant/API/Sub.hs, dist/dist-sandbox-439155cc/build/Servant/API/Sub.p_o )
+[ 5 of 26] Compiling Servant.API.Stream ( src/Servant/API/Stream.hs, dist/dist-sandbox-439155cc/build/Servant/API/Stream.p_o )
+[ 6 of 26] Compiling Servant.API.RemoteHost ( src/Servant/API/RemoteHost.hs, dist/dist-sandbox-439155cc/build/Servant/API/RemoteHost.p_o )
+[ 7 of 26] Compiling Servant.API.Raw  ( src/Servant/API/Raw.hs, dist/dist-sandbox-439155cc/build/Servant/API/Raw.p_o )
+[ 8 of 26] Compiling Servant.API.Modifiers ( src/Servant/API/Modifiers.hs, dist/dist-sandbox-439155cc/build/Servant/API/Modifiers.p_o )
+[ 9 of 26] Compiling Servant.API.QueryParam ( src/Servant/API/QueryParam.hs, dist/dist-sandbox-439155cc/build/Servant/API/QueryParam.p_o )
+[10 of 26] Compiling Servant.API.ReqBody ( src/Servant/API/ReqBody.hs, dist/dist-sandbox-439155cc/build/Servant/API/ReqBody.p_o )
+[11 of 26] Compiling Servant.API.IsSecure ( src/Servant/API/IsSecure.hs, dist/dist-sandbox-439155cc/build/Servant/API/IsSecure.p_o )
+[12 of 26] Compiling Servant.API.HttpVersion ( src/Servant/API/HttpVersion.hs, dist/dist-sandbox-439155cc/build/Servant/API/HttpVersion.p_o )
+[13 of 26] Compiling Servant.API.Header ( src/Servant/API/Header.hs, dist/dist-sandbox-439155cc/build/Servant/API/Header.p_o )
+[14 of 26] Compiling Servant.API.ResponseHeaders ( src/Servant/API/ResponseHeaders.hs, dist/dist-sandbox-439155cc/build/Servant/API/ResponseHeaders.p_o )
+[15 of 26] Compiling Servant.API.Experimental.Auth ( src/Servant/API/Experimental/Auth.hs, dist/dist-sandbox-439155cc/build/Servant/API/Experimental/Auth.p_o )
+[16 of 26] Compiling Servant.API.Empty ( src/Servant/API/Empty.hs, dist/dist-sandbox-439155cc/build/Servant/API/Empty.p_o )
+[17 of 26] Compiling Servant.API.Description ( src/Servant/API/Description.hs, dist/dist-sandbox-439155cc/build/Servant/API/Description.p_o )
+[18 of 26] Compiling Servant.API.ContentTypes ( src/Servant/API/ContentTypes.hs, dist/dist-sandbox-439155cc/build/Servant/API/ContentTypes.p_o )
+[19 of 26] Compiling Servant.API.Capture ( src/Servant/API/Capture.hs, dist/dist-sandbox-439155cc/build/Servant/API/Capture.p_o )
+[20 of 26] Compiling Servant.API.BasicAuth ( src/Servant/API/BasicAuth.hs, dist/dist-sandbox-439155cc/build/Servant/API/BasicAuth.p_o )
+[21 of 26] Compiling Servant.API.Alternative ( src/Servant/API/Alternative.hs, dist/dist-sandbox-439155cc/build/Servant/API/Alternative.p_o )
+[22 of 26] Compiling Servant.API.TypeLevel ( src/Servant/API/TypeLevel.hs, dist/dist-sandbox-439155cc/build/Servant/API/TypeLevel.p_o )
+[23 of 26] Compiling Servant.Utils.Links ( src/Servant/Utils/Links.hs, dist/dist-sandbox-439155cc/build/Servant/Utils/Links.p_o )
+[24 of 26] Compiling Servant.API      ( src/Servant/API.hs, dist/dist-sandbox-439155cc/build/Servant/API.p_o )
+[25 of 26] Compiling Servant.API.Internal.Test.ComprehensiveAPI ( src/Servant/API/Internal/Test/ComprehensiveAPI.hs, dist/dist-sandbox-439155cc/build/Servant/API/Internal/Test/ComprehensiveAPI.p_o )
+[26 of 26] Compiling Servant.Utils.Enter ( src/Servant/Utils/Enter.hs, dist/dist-sandbox-439155cc/build/Servant/Utils/Enter.p_o )
+Running Haddock for servant-0.13.0.1...
+Preprocessing library servant-0.13.0.1...
+Haddock coverage:
+  50% (  1 /  2) in 'Servant.API.WithNamedContext'
+  Missing documentation for:
+    Module header
+  77% ( 37 / 48) in 'Servant.API.Verbs'
+  Missing documentation for:
+    Module header
+    ReflectMethod (src/Servant/API/Verbs.hs:152)
+     (src/Servant/API/Verbs.hs:155)
+     (src/Servant/API/Verbs.hs:158)
+     (src/Servant/API/Verbs.hs:161)
+     (src/Servant/API/Verbs.hs:164)
+     (src/Servant/API/Verbs.hs:167)
+     (src/Servant/API/Verbs.hs:170)
+     (src/Servant/API/Verbs.hs:173)
+     (src/Servant/API/Verbs.hs:176)
+     (src/Servant/API/Verbs.hs:179)
+  67% (  2 /  3) in 'Servant.API.Vault'
+  Missing documentation for:
+    Module header
+  50% (  1 /  2) in 'Servant.API.Sub'
+  Missing documentation for:
+    Module header
+  55% ( 11 / 20) in 'Servant.API.Stream'
+  Missing documentation for:
+    Module header
+    StreamGet (src/Servant/API/Stream.hs:29)
+    StreamPost (src/Servant/API/Stream.hs:30)
+     (src/Servant/API/Stream.hs:39)
+     (src/Servant/API/Stream.hs:49)
+     (src/Servant/API/Stream.hs:80)
+     (src/Servant/API/Stream.hs:85)
+     (src/Servant/API/Stream.hs:97)
+     (src/Servant/API/Stream.hs:103)
+  67% (  2 /  3) in 'Servant.API.RemoteHost'
+  Missing documentation for:
+    Module header
+  50% (  1 /  2) in 'Servant.API.Raw'
+  Missing documentation for:
+    Module header
+  94% ( 16 / 17) in 'Servant.API.Modifiers'
+  Missing documentation for:
+    Module header
+  80% (  4 /  5) in 'Servant.API.QueryParam'
+  Missing documentation for:
+    Module header
+  67% (  2 /  3) in 'Servant.API.ReqBody'
+  Missing documentation for:
+    Module header
+  67% (  2 /  3) in 'Servant.API.IsSecure'
+  Missing documentation for:
+    Module header
+  67% (  2 /  3) in 'Servant.API.HttpVersion'
+  Missing documentation for:
+    Module header
+  33% (  1 /  3) in 'Servant.API.Header'
+  Missing documentation for:
+    Module header
+    Header' (src/Servant/API/Header.hs:24)
+  40% (  4 / 10) in 'Servant.API.ResponseHeaders'
+  Missing documentation for:
+    ResponseHeader (src/Servant/API/ResponseHeaders.hs:58)
+    AddHeader (src/Servant/API/ResponseHeaders.hs:120)
+    BuildHeadersTo (src/Servant/API/ResponseHeaders.hs:73)
+    GetHeaders (src/Servant/API/ResponseHeaders.hs:96)
+    HeaderValMap (src/Servant/API/ResponseHeaders.hs:68)
+    HList (src/Servant/API/ResponseHeaders.hs:64)
+  50% (  1 /  2) in 'Servant.API.Experimental.Auth'
+  Missing documentation for:
+    Module header
+  50% (  1 /  2) in 'Servant.API.Empty'
+  Missing documentation for:
+    Module header
+  88% (  7 /  8) in 'Servant.API.Description'
+  Missing documentation for:
+    Module header
+  48% ( 10 / 21) in 'Servant.API.ContentTypes'
+  Missing documentation for:
+    JSON (src/Servant/API/ContentTypes.hs:106)
+    PlainText (src/Servant/API/ContentTypes.hs:107)
+    FormUrlEncoded (src/Servant/API/ContentTypes.hs:108)
+    OctetStream (src/Servant/API/ContentTypes.hs:109)
+    AcceptHeader (src/Servant/API/ContentTypes.hs:153)
+    AllCTRender (src/Servant/API/ContentTypes.hs:176)
+    AllCTUnrender (src/Servant/API/ContentTypes.hs:232)
+    AllMime (src/Servant/API/ContentTypes.hs:251)
+    AllMimeRender (src/Servant/API/ContentTypes.hs:269)
+    AllMimeUnrender (src/Servant/API/ContentTypes.hs:309)
+    canHandleAcceptH (src/Servant/API/ContentTypes.hs:263)
+  75% (  3 /  4) in 'Servant.API.Capture'
+  Missing documentation for:
+    Module header
+  67% (  2 /  3) in 'Servant.API.BasicAuth'
+  Missing documentation for:
+    Module header
+  50% (  1 /  2) in 'Servant.API.Alternative'
+  Missing documentation for:
+    Module header
+  92% ( 22 / 24) in 'Servant.API.TypeLevel'
+  Missing documentation for:
+    IsSubList (src/Servant/API/TypeLevel.hs:197)
+    ElemGo (src/Servant/API/TypeLevel.hs:213)
+  88% ( 15 / 17) in 'Servant.Utils.Links'
+  Missing documentation for:
+    linkSegments (src/Servant/Utils/Links.hs:157)
+    linkQueryParams (src/Servant/Utils/Links.hs:160)
+  95% ( 55 / 58) in 'Servant.API'
+  Missing documentation for:
+    Module header
+    SBool
+    SBoolI
+  17% (  1 /  6) in 'Servant.API.Internal.Test.ComprehensiveAPI'
+  Missing documentation for:
+    GET (src/Servant/API/Internal/Test/ComprehensiveAPI.hs:13)
+    ComprehensiveAPI (src/Servant/API/Internal/Test/ComprehensiveAPI.hs:15)
+    comprehensiveAPI (src/Servant/API/Internal/Test/ComprehensiveAPI.hs:19)
+    ComprehensiveAPIWithoutRaw (src/Servant/API/Internal/Test/ComprehensiveAPI.hs:22)
+    comprehensiveAPIWithoutRaw (src/Servant/API/Internal/Test/ComprehensiveAPI.hs:48)
+  57% ( 12 / 21) in 'Servant.Utils.Enter'
+  Missing documentation for:
+    Module header
+    Enter (src/Servant/Utils/Enter.hs:36)
+     (src/Servant/Utils/Enter.hs:46)
+     (src/Servant/Utils/Enter.hs:55)
+     (src/Servant/Utils/Enter.hs:65)
+     (src/Servant/Utils/Enter.hs:72)
+    runReaderTNat (src/Servant/Utils/Enter.hs:83)
+    evalStateTLNat (src/Servant/Utils/Enter.hs:86)
+    evalStateTSNat (src/Servant/Utils/Enter.hs:89)
+Warning: Servant.API.Verbs: could not find link destinations for:
+    unsafeIndex unsafeRangeSize
+Warning: Servant.API.Modifiers: could not find link destinations for:
+    addOptionalHeader
+Warning: Servant.API.Header: could not find link destinations for:
+    addOptionalHeader
+Warning: Servant.API.ResponseHeaders: could not find link destinations for:
+    addOptionalHeader ~
+Warning: Servant.API.Alternative: could not find link destinations for:
+    ~
+Warning: Servant.Utils.Enter: could not find link destinations for:
+    ~
+Documentation created: dist/dist-sandbox-439155cc/doc/html/servant/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-servant-0.13.014951700531616927224.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/servant-0.13.0.1-FaMNiVnTFT8AYy6VoKO8x5
+Registering servant-0.13.0.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80676/servant-0.13.0.1'

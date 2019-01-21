@@ -1,0 +1,199 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80677/http-client-0.5.14'
+Configuring http-client-0.5.14...
+Building http-client-0.5.14...
+Preprocessing library http-client-0.5.14...
+[ 1 of 19] Compiling Network.PublicSuffixList.Types ( publicsuffixlist/Network/PublicSuffixList/Types.hs, dist/dist-sandbox-439155cc/build/Network/PublicSuffixList/Types.o )
+[ 2 of 19] Compiling Network.PublicSuffixList.Serialize ( publicsuffixlist/Network/PublicSuffixList/Serialize.hs, dist/dist-sandbox-439155cc/build/Network/PublicSuffixList/Serialize.o )
+[ 3 of 19] Compiling Network.PublicSuffixList.DataStructure ( publicsuffixlist/Network/PublicSuffixList/DataStructure.hs, dist/dist-sandbox-439155cc/build/Network/PublicSuffixList/DataStructure.o )
+[ 4 of 19] Compiling Network.PublicSuffixList.Lookup ( publicsuffixlist/Network/PublicSuffixList/Lookup.hs, dist/dist-sandbox-439155cc/build/Network/PublicSuffixList/Lookup.o )
+[ 5 of 19] Compiling Network.HTTP.Client.Util ( Network/HTTP/Client/Util.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Util.o )
+[ 6 of 19] Compiling Data.KeyedPool   ( Data/KeyedPool.hs, dist/dist-sandbox-439155cc/build/Data/KeyedPool.o )
+[ 7 of 19] Compiling Network.HTTP.Client.Types ( Network/HTTP/Client/Types.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Types.o )
+[ 8 of 19] Compiling Network.HTTP.Client.Connection ( Network/HTTP/Client/Connection.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Connection.o )
+[ 9 of 19] Compiling Network.HTTP.Client.Body ( Network/HTTP/Client/Body.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Body.o )
+[10 of 19] Compiling Network.HTTP.Client.Cookies ( Network/HTTP/Client/Cookies.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Cookies.o )
+[11 of 19] Compiling Network.HTTP.Client.Headers ( Network/HTTP/Client/Headers.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Headers.o )
+[12 of 19] Compiling Network.HTTP.Client.Request ( Network/HTTP/Client/Request.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Request.o )
+[13 of 19] Compiling Network.HTTP.Client.Response ( Network/HTTP/Client/Response.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Response.o )
+[14 of 19] Compiling Network.HTTP.Proxy ( Network/HTTP/Proxy.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Proxy.o )
+[15 of 19] Compiling Network.HTTP.Client.Manager ( Network/HTTP/Client/Manager.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Manager.o )
+[16 of 19] Compiling Network.HTTP.Client.Core ( Network/HTTP/Client/Core.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Core.o )
+[17 of 19] Compiling Network.HTTP.Client ( Network/HTTP/Client.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client.o )
+[18 of 19] Compiling Network.HTTP.Client.MultipartFormData ( Network/HTTP/Client/MultipartFormData.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/MultipartFormData.o )
+[19 of 19] Compiling Network.HTTP.Client.Internal ( Network/HTTP/Client/Internal.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Internal.o )
+[ 1 of 19] Compiling Network.PublicSuffixList.Types ( publicsuffixlist/Network/PublicSuffixList/Types.hs, dist/dist-sandbox-439155cc/build/Network/PublicSuffixList/Types.p_o )
+[ 2 of 19] Compiling Network.PublicSuffixList.Serialize ( publicsuffixlist/Network/PublicSuffixList/Serialize.hs, dist/dist-sandbox-439155cc/build/Network/PublicSuffixList/Serialize.p_o )
+[ 3 of 19] Compiling Network.PublicSuffixList.DataStructure ( publicsuffixlist/Network/PublicSuffixList/DataStructure.hs, dist/dist-sandbox-439155cc/build/Network/PublicSuffixList/DataStructure.p_o )
+[ 4 of 19] Compiling Network.PublicSuffixList.Lookup ( publicsuffixlist/Network/PublicSuffixList/Lookup.hs, dist/dist-sandbox-439155cc/build/Network/PublicSuffixList/Lookup.p_o )
+[ 5 of 19] Compiling Network.HTTP.Client.Util ( Network/HTTP/Client/Util.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Util.p_o )
+[ 6 of 19] Compiling Data.KeyedPool   ( Data/KeyedPool.hs, dist/dist-sandbox-439155cc/build/Data/KeyedPool.p_o )
+[ 7 of 19] Compiling Network.HTTP.Client.Types ( Network/HTTP/Client/Types.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Types.p_o )
+[ 8 of 19] Compiling Network.HTTP.Client.Connection ( Network/HTTP/Client/Connection.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Connection.p_o )
+[ 9 of 19] Compiling Network.HTTP.Client.Body ( Network/HTTP/Client/Body.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Body.p_o )
+[10 of 19] Compiling Network.HTTP.Client.Cookies ( Network/HTTP/Client/Cookies.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Cookies.p_o )
+[11 of 19] Compiling Network.HTTP.Client.Headers ( Network/HTTP/Client/Headers.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Headers.p_o )
+[12 of 19] Compiling Network.HTTP.Client.Request ( Network/HTTP/Client/Request.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Request.p_o )
+[13 of 19] Compiling Network.HTTP.Client.Response ( Network/HTTP/Client/Response.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Response.p_o )
+[14 of 19] Compiling Network.HTTP.Proxy ( Network/HTTP/Proxy.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Proxy.p_o )
+[15 of 19] Compiling Network.HTTP.Client.Manager ( Network/HTTP/Client/Manager.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Manager.p_o )
+[16 of 19] Compiling Network.HTTP.Client.Core ( Network/HTTP/Client/Core.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Core.p_o )
+[17 of 19] Compiling Network.HTTP.Client ( Network/HTTP/Client.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client.p_o )
+[18 of 19] Compiling Network.HTTP.Client.MultipartFormData ( Network/HTTP/Client/MultipartFormData.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/MultipartFormData.p_o )
+[19 of 19] Compiling Network.HTTP.Client.Internal ( Network/HTTP/Client/Internal.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Client/Internal.p_o )
+Running Haddock for http-client-0.5.14...
+Preprocessing library http-client-0.5.14...
+Haddock coverage:
+  25% (  1 /  4) in 'Network.PublicSuffixList.Types'
+  Missing documentation for:
+    Tree (publicsuffixlist/Network/PublicSuffixList/Types.hs:11)
+    def (publicsuffixlist/Network/PublicSuffixList/Types.hs:14)
+    DataStructure (publicsuffixlist/Network/PublicSuffixList/Types.hs:17)
+   0% (  0 /  3) in 'Network.PublicSuffixList.Serialize'
+  Missing documentation for:
+    Module header
+    getDataStructure (publicsuffixlist/Network/PublicSuffixList/Serialize.hs:40)
+    putDataStructure (publicsuffixlist/Network/PublicSuffixList/Serialize.hs:59)
+  50% (  1 /  2) in 'Network.PublicSuffixList.DataStructure'
+  Missing documentation for:
+    Module header
+  80% (  4 /  5) in 'Network.PublicSuffixList.Lookup'
+  Missing documentation for:
+    Module header
+   0% (  0 /  2) in 'Network.HTTP.Client.Util'
+  Missing documentation for:
+    Module header
+    readDec (Network/HTTP/Client/Util.hs:10)
+  82% (  9 / 11) in 'Data.KeyedPool'
+  Missing documentation for:
+    KeyedPool (Data/KeyedPool.hs:54)
+    Reuse (Data/KeyedPool.hs:309)
+  55% ( 16 / 29) in 'Network.HTTP.Client.Types'
+  Missing documentation for:
+    Module header
+    Connection (Network/HTTP/Client/Types.hs:71)
+    StatusHeaders (Network/HTTP/Client/Types.hs:85)
+    HttpExceptionContent (Network/HTTP/Client/Types.hs:123)
+    unHttpExceptionContentWrapper (Network/HTTP/Client/Types.hs:95)
+    throwHttp (Network/HTTP/Client/Types.hs:100)
+    toHttpException (Network/HTTP/Client/Types.hs:103)
+    Cookie (Network/HTTP/Client/Types.hs:248)
+    CookieJar (Network/HTTP/Client/Types.hs:263)
+    ResponseClose (Network/HTTP/Client/Types.hs:624)
+    HasHttpManager (Network/HTTP/Client/Types.hs:738)
+    ConnsMap (Network/HTTP/Client/Types.hs:743)
+    NonEmptyList (Network/HTTP/Client/Types.hs:747)
+  44% (  4 /  9) in 'Network.HTTP.Client.Connection'
+  Missing documentation for:
+    Module header
+    connectionReadLine (Network/HTTP/Client/Connection.hs:27)
+    connectionReadLineWith (Network/HTTP/Client/Connection.hs:39)
+    openSocketConnection (Network/HTTP/Client/Connection.hs:134)
+    openSocketConnectionSize (Network/HTTP/Client/Connection.hs:141)
+  27% (  3 / 11) in 'Network.HTTP.Client.Body'
+  Missing documentation for:
+    Module header
+    makeChunkedReader (Network/HTTP/Client/Body.hs:145)
+    makeLengthReader (Network/HTTP/Client/Body.hs:122)
+    makeGzipReader (Network/HTTP/Client/Body.hs:83)
+    makeUnlimitedReader (Network/HTTP/Client/Body.hs:114)
+    brEmpty (Network/HTTP/Client/Body.hs:53)
+    constBodyReader (Network/HTTP/Client/Body.hs:56)
+    brAddCleanup (Network/HTTP/Client/Body.hs:64)
+  73% ( 11 / 15) in 'Network.HTTP.Client.Cookies'
+  Missing documentation for:
+    createCookieJar (Network/HTTP/Client/Cookies.hs:88)
+    destroyCookieJar (Network/HTTP/Client/Cookies.hs:91)
+    removeExistingCookieFromCookieJar (Network/HTTP/Client/Cookies.hs:98)
+    isIpAddress (Network/HTTP/Client/Cookies.hs:38)
+   0% (  0 /  4) in 'Network.HTTP.Client.Headers'
+  Missing documentation for:
+    Module header
+    parseStatusHeaders (Network/HTTP/Client/Headers.hs:30)
+    validateHeaders (Network/HTTP/Client/Headers.hs:107)
+    HeadersValidationResult (Network/HTTP/Client/Headers.hs:103)
+  89% ( 24 / 27) in 'Network.HTTP.Client.Request'
+  Missing documentation for:
+    Module header
+    needsGunzip (Network/HTTP/Client/Request.hs:376)
+    requestBuilder (Network/HTTP/Client/Request.hs:384)
+  50% (  2 /  4) in 'Network.HTTP.Client.Response'
+  Missing documentation for:
+    Module header
+    getResponse (Network/HTTP/Client/Response.hs:82)
+   0% (  0 /  7) in 'Network.HTTP.Proxy'
+  Missing documentation for:
+    Module header
+    ProxyProtocol (Network/HTTP/Proxy.hs:97)
+    EnvHelper (Network/HTTP/Proxy.hs:111)
+    systemProxyHelper (Network/HTTP/Proxy.hs:120)
+    envHelper (Network/HTTP/Proxy.hs:337)
+    httpProtocol (Network/HTTP/Proxy.hs:107)
+    ProxySettings (Network/HTTP/Proxy.hs:103)
+  88% ( 14 / 16) in 'Network.HTTP.Client.Manager'
+  Missing documentation for:
+    Module header
+    getConn (Network/HTTP/Client/Manager.hs:200)
+  92% ( 11 / 12) in 'Network.HTTP.Client.Core'
+  Missing documentation for:
+    Module header
+  94% (124 /132) in 'Network.HTTP.Client'
+  Missing documentation for:
+    HasHttpManager (Network/HTTP/Client/Types.hs:738)
+    HttpExceptionContent (Network/HTTP/Client/Types.hs:123)
+    Cookie (Network/HTTP/Client/Types.hs:248)
+    CookieJar (Network/HTTP/Client/Types.hs:263)
+    createCookieJar (Network/HTTP/Client/Cookies.hs:88)
+    destroyCookieJar (Network/HTTP/Client/Cookies.hs:91)
+    removeExistingCookieFromCookieJar (Network/HTTP/Client/Cookies.hs:98)
+    isIpAddress (Network/HTTP/Client/Cookies.hs:38)
+  93% ( 25 / 27) in 'Network.HTTP.Client.MultipartFormData'
+  Missing documentation for:
+    webkitBoundaryPure (Network/HTTP/Client/MultipartFormData.hs:246)
+    renderPart (Network/HTTP/Client/MultipartFormData.hs:211)
+  73% ( 96 /131) in 'Network.HTTP.Client.Internal'
+  Missing documentation for:
+    makeChunkedReader (Network/HTTP/Client/Body.hs:145)
+    makeLengthReader (Network/HTTP/Client/Body.hs:122)
+    makeGzipReader (Network/HTTP/Client/Body.hs:83)
+    makeUnlimitedReader (Network/HTTP/Client/Body.hs:114)
+    brEmpty (Network/HTTP/Client/Body.hs:53)
+    constBodyReader (Network/HTTP/Client/Body.hs:56)
+    brAddCleanup (Network/HTTP/Client/Body.hs:64)
+    connectionReadLine (Network/HTTP/Client/Connection.hs:27)
+    connectionReadLineWith (Network/HTTP/Client/Connection.hs:39)
+    openSocketConnection (Network/HTTP/Client/Connection.hs:134)
+    openSocketConnectionSize (Network/HTTP/Client/Connection.hs:141)
+    createCookieJar (Network/HTTP/Client/Cookies.hs:88)
+    destroyCookieJar (Network/HTTP/Client/Cookies.hs:91)
+    removeExistingCookieFromCookieJar (Network/HTTP/Client/Cookies.hs:98)
+    isIpAddress (Network/HTTP/Client/Cookies.hs:38)
+    parseStatusHeaders (Network/HTTP/Client/Headers.hs:30)
+    validateHeaders (Network/HTTP/Client/Headers.hs:107)
+    HeadersValidationResult (Network/HTTP/Client/Headers.hs:103)
+    needsGunzip (Network/HTTP/Client/Request.hs:376)
+    requestBuilder (Network/HTTP/Client/Request.hs:384)
+    getResponse (Network/HTTP/Client/Response.hs:82)
+    getConn (Network/HTTP/Client/Manager.hs:200)
+    Connection (Network/HTTP/Client/Types.hs:71)
+    StatusHeaders (Network/HTTP/Client/Types.hs:85)
+    HttpExceptionContent (Network/HTTP/Client/Types.hs:123)
+    unHttpExceptionContentWrapper (Network/HTTP/Client/Types.hs:95)
+    throwHttp (Network/HTTP/Client/Types.hs:100)
+    toHttpException (Network/HTTP/Client/Types.hs:103)
+    Cookie (Network/HTTP/Client/Types.hs:248)
+    CookieJar (Network/HTTP/Client/Types.hs:263)
+    ResponseClose (Network/HTTP/Client/Types.hs:624)
+    HasHttpManager (Network/HTTP/Client/Types.hs:738)
+    ConnsMap (Network/HTTP/Client/Types.hs:743)
+    NonEmptyList (Network/HTTP/Client/Types.hs:747)
+    readDec (Network/HTTP/Client/Util.hs:10)
+Warning: Network.HTTP.Client.Internal: could not find link destinations for:
+    Managed HttpExceptionContentWrapper KeyedPool
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/http-client/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-http-client-0.513539632491323602331.14
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/http-client-0.5.14-FABG21Hqh3z2QuA3NYIeuU
+Registering http-client-0.5.14...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80677/http-client-0.5.14'

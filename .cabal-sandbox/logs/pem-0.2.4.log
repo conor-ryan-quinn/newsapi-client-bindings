@@ -1,0 +1,30 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80681/pem-0.2.4'
+Configuring pem-0.2.4...
+Building pem-0.2.4...
+Preprocessing library pem-0.2.4...
+[1 of 4] Compiling Data.PEM.Types   ( Data/PEM/Types.hs, dist/dist-sandbox-439155cc/build/Data/PEM/Types.o )
+[2 of 4] Compiling Data.PEM.Writer  ( Data/PEM/Writer.hs, dist/dist-sandbox-439155cc/build/Data/PEM/Writer.o )
+[3 of 4] Compiling Data.PEM.Parser  ( Data/PEM/Parser.hs, dist/dist-sandbox-439155cc/build/Data/PEM/Parser.o )
+[4 of 4] Compiling Data.PEM         ( Data/PEM.hs, dist/dist-sandbox-439155cc/build/Data/PEM.o )
+[1 of 4] Compiling Data.PEM.Types   ( Data/PEM/Types.hs, dist/dist-sandbox-439155cc/build/Data/PEM/Types.p_o )
+[2 of 4] Compiling Data.PEM.Writer  ( Data/PEM/Writer.hs, dist/dist-sandbox-439155cc/build/Data/PEM/Writer.p_o )
+[3 of 4] Compiling Data.PEM.Parser  ( Data/PEM/Parser.hs, dist/dist-sandbox-439155cc/build/Data/PEM/Parser.p_o )
+[4 of 4] Compiling Data.PEM         ( Data/PEM.hs, dist/dist-sandbox-439155cc/build/Data/PEM.p_o )
+Running Haddock for pem-0.2.4...
+Preprocessing library pem-0.2.4...
+Haddock coverage:
+  67% (  2 /  3) in 'Data.PEM.Types'
+  Missing documentation for:
+     (Data/PEM/Types.hs:23)
+ 100% (  3 /  3) in 'Data.PEM.Writer'
+ 100% (  3 /  3) in 'Data.PEM.Parser'
+  86% (  6 /  7) in 'Data.PEM'
+  Missing documentation for:
+     (Data/PEM/Types.hs:23)
+Documentation created: dist/dist-sandbox-439155cc/doc/html/pem/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-pem-0.2152607844784559590.4
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/pem-0.2.4-LhXOuCz5kro1hZWEXGjzcv
+Registering pem-0.2.4...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80681/pem-0.2.4'

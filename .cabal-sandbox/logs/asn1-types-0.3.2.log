@@ -1,0 +1,47 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80679/asn1-types-0.3.2'
+Configuring asn1-types-0.3.2...
+Building asn1-types-0.3.2...
+Preprocessing library asn1-types-0.3.2...
+[1 of 6] Compiling Data.ASN1.Types.String ( Data/ASN1/Types/String.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Types/String.o )
+
+Data/ASN1/Types/String.hs:154:22: warning: [-Wname-shadowing]
+    This binding for ‘b’ shadows the existing binding
+      bound at Data/ASN1/Types/String.hs:151:13
+[2 of 6] Compiling Data.ASN1.Types.Lowlevel ( Data/ASN1/Types/Lowlevel.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Types/Lowlevel.o )
+[3 of 6] Compiling Data.ASN1.OID    ( Data/ASN1/OID.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/OID.o )
+[4 of 6] Compiling Data.ASN1.BitArray ( Data/ASN1/BitArray.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/BitArray.o )
+[5 of 6] Compiling Data.ASN1.Types  ( Data/ASN1/Types.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Types.o )
+[6 of 6] Compiling Data.ASN1.Pretty ( Data/ASN1/Pretty.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Pretty.o )
+[1 of 6] Compiling Data.ASN1.Types.String ( Data/ASN1/Types/String.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Types/String.p_o )
+
+Data/ASN1/Types/String.hs:154:22: warning: [-Wname-shadowing]
+    This binding for ‘b’ shadows the existing binding
+      bound at Data/ASN1/Types/String.hs:151:13
+[2 of 6] Compiling Data.ASN1.Types.Lowlevel ( Data/ASN1/Types/Lowlevel.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Types/Lowlevel.p_o )
+[3 of 6] Compiling Data.ASN1.OID    ( Data/ASN1/OID.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/OID.p_o )
+[4 of 6] Compiling Data.ASN1.BitArray ( Data/ASN1/BitArray.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/BitArray.p_o )
+[5 of 6] Compiling Data.ASN1.Types  ( Data/ASN1/Types.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Types.p_o )
+[6 of 6] Compiling Data.ASN1.Pretty ( Data/ASN1/Pretty.hs, dist/dist-sandbox-439155cc/build/Data/ASN1/Pretty.p_o )
+Running Haddock for asn1-types-0.3.2...
+Preprocessing library asn1-types-0.3.2...
+
+Data/ASN1/Types/String.hs:154:22: warning: [-Wname-shadowing]
+    This binding for ‘b’ shadows the existing binding
+      bound at Data/ASN1/Types/String.hs:151:13
+Haddock coverage:
+ 100% (  5 /  5) in 'Data.ASN1.Types.String'
+ 100% (  8 /  8) in 'Data.ASN1.Types.Lowlevel'
+ 100% (  5 /  5) in 'Data.ASN1.OID'
+ 100% ( 10 / 10) in 'Data.ASN1.BitArray'
+ 100% ( 13 / 13) in 'Data.ASN1.Types'
+  67% (  2 /  3) in 'Data.ASN1.Pretty'
+  Missing documentation for:
+    PrettyType (Data/ASN1/Pretty.hs:19)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/asn1-types/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-asn1-types-0.39964979722063936098.2
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/asn1-types-0.3.2-7vq1SE12vlrEQRSCgLIWeo
+Registering asn1-types-0.3.2...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80679/asn1-types-0.3.2'

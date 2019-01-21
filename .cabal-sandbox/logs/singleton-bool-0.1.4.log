@@ -1,0 +1,27 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80692/singleton-bool-0.1.4'
+Configuring singleton-bool-0.1.4...
+Building singleton-bool-0.1.4...
+Preprocessing library singleton-bool-0.1.4...
+[1 of 1] Compiling Data.Singletons.Bool ( src/Data/Singletons/Bool.hs, dist/dist-sandbox-439155cc/build/Data/Singletons/Bool.o )
+[1 of 1] Compiling Data.Singletons.Bool ( src/Data/Singletons/Bool.hs, dist/dist-sandbox-439155cc/build/Data/Singletons/Bool.p_o )
+Running Haddock for singleton-bool-0.1.4...
+Preprocessing library singleton-bool-0.1.4...
+Haddock coverage:
+  62% ( 10 / 16) in 'Data.Singletons.Bool'
+  Missing documentation for:
+    SBool (src/Data/Singletons/Bool.hs:40)
+    SBoolI (src/Data/Singletons/Bool.hs:44)
+    reflectBool (src/Data/Singletons/Bool.hs:82)
+    sboolAnd (src/Data/Singletons/Bool.hs:92)
+    sboolOr (src/Data/Singletons/Bool.hs:96)
+    sboolNot (src/Data/Singletons/Bool.hs:100)
+Warning: Data.Singletons.Bool: could not find link destinations for:
+    ~
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/singleton-bool/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-singleton-bool-0.11777724115269220094.4
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/singleton-bool-0.1.4-ATbiQQJRQO7EX74GnYQFUF
+Registering singleton-bool-0.1.4...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80692/singleton-bool-0.1.4'

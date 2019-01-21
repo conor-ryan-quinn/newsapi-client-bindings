@@ -1,0 +1,203 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80685/parsec-3.1.13.0'
+Configuring parsec-3.1.13.0...
+Building parsec-3.1.13.0...
+Preprocessing library parsec-3.1.13.0...
+[ 1 of 25] Compiling Text.Parsec.Pos  ( src/Text/Parsec/Pos.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Pos.o )
+[ 2 of 25] Compiling Text.ParserCombinators.Parsec.Pos ( src/Text/ParserCombinators/Parsec/Pos.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Pos.o )
+[ 3 of 25] Compiling Text.Parsec.Error ( src/Text/Parsec/Error.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Error.o )
+[ 4 of 25] Compiling Text.Parsec.Prim ( src/Text/Parsec/Prim.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Prim.o )
+[ 5 of 25] Compiling Text.Parsec.Text ( src/Text/Parsec/Text.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Text.o )
+[ 6 of 25] Compiling Text.Parsec.Text.Lazy ( src/Text/Parsec/Text/Lazy.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Text/Lazy.o )
+[ 7 of 25] Compiling Text.Parsec.String ( src/Text/Parsec/String.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/String.o )
+[ 8 of 25] Compiling Text.ParserCombinators.Parsec.Error ( src/Text/ParserCombinators/Parsec/Error.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Error.o )
+[ 9 of 25] Compiling Text.ParserCombinators.Parsec.Prim ( src/Text/ParserCombinators/Parsec/Prim.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Prim.o )
+[10 of 25] Compiling Text.Parsec.Combinator ( src/Text/Parsec/Combinator.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Combinator.o )
+[11 of 25] Compiling Text.Parsec.Expr ( src/Text/Parsec/Expr.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Expr.o )
+[12 of 25] Compiling Text.ParserCombinators.Parsec.Combinator ( src/Text/ParserCombinators/Parsec/Combinator.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Combinator.o )
+[13 of 25] Compiling Text.Parsec.Char ( src/Text/Parsec/Char.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Char.o )
+[14 of 25] Compiling Text.Parsec.Token ( src/Text/Parsec/Token.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Token.o )
+[15 of 25] Compiling Text.ParserCombinators.Parsec.Token ( src/Text/ParserCombinators/Parsec/Token.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Token.o )
+[16 of 25] Compiling Text.ParserCombinators.Parsec.Char ( src/Text/ParserCombinators/Parsec/Char.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Char.o )
+[17 of 25] Compiling Text.ParserCombinators.Parsec ( src/Text/ParserCombinators/Parsec.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec.o )
+[18 of 25] Compiling Text.ParserCombinators.Parsec.Expr ( src/Text/ParserCombinators/Parsec/Expr.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Expr.o )
+[19 of 25] Compiling Text.Parsec.ByteString.Lazy ( src/Text/Parsec/ByteString/Lazy.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/ByteString/Lazy.o )
+[20 of 25] Compiling Text.Parsec.ByteString ( src/Text/Parsec/ByteString.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/ByteString.o )
+[21 of 25] Compiling Text.Parsec      ( src/Text/Parsec.hs, dist/dist-sandbox-439155cc/build/Text/Parsec.o )
+[22 of 25] Compiling Text.Parsec.Language ( src/Text/Parsec/Language.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Language.o )
+[23 of 25] Compiling Text.ParserCombinators.Parsec.Language ( src/Text/ParserCombinators/Parsec/Language.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Language.o )
+[24 of 25] Compiling Text.Parsec.Perm ( src/Text/Parsec/Perm.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Perm.o )
+[25 of 25] Compiling Text.ParserCombinators.Parsec.Perm ( src/Text/ParserCombinators/Parsec/Perm.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Perm.o )
+[ 1 of 25] Compiling Text.Parsec.Pos  ( src/Text/Parsec/Pos.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Pos.p_o )
+[ 2 of 25] Compiling Text.ParserCombinators.Parsec.Pos ( src/Text/ParserCombinators/Parsec/Pos.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Pos.p_o )
+[ 3 of 25] Compiling Text.Parsec.Error ( src/Text/Parsec/Error.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Error.p_o )
+[ 4 of 25] Compiling Text.Parsec.Prim ( src/Text/Parsec/Prim.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Prim.p_o )
+[ 5 of 25] Compiling Text.Parsec.Text ( src/Text/Parsec/Text.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Text.p_o )
+[ 6 of 25] Compiling Text.Parsec.Text.Lazy ( src/Text/Parsec/Text/Lazy.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Text/Lazy.p_o )
+[ 7 of 25] Compiling Text.Parsec.String ( src/Text/Parsec/String.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/String.p_o )
+[ 8 of 25] Compiling Text.ParserCombinators.Parsec.Error ( src/Text/ParserCombinators/Parsec/Error.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Error.p_o )
+[ 9 of 25] Compiling Text.ParserCombinators.Parsec.Prim ( src/Text/ParserCombinators/Parsec/Prim.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Prim.p_o )
+[10 of 25] Compiling Text.Parsec.Combinator ( src/Text/Parsec/Combinator.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Combinator.p_o )
+[11 of 25] Compiling Text.Parsec.Expr ( src/Text/Parsec/Expr.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Expr.p_o )
+[12 of 25] Compiling Text.ParserCombinators.Parsec.Combinator ( src/Text/ParserCombinators/Parsec/Combinator.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Combinator.p_o )
+[13 of 25] Compiling Text.Parsec.Char ( src/Text/Parsec/Char.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Char.p_o )
+[14 of 25] Compiling Text.Parsec.Token ( src/Text/Parsec/Token.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Token.p_o )
+[15 of 25] Compiling Text.ParserCombinators.Parsec.Token ( src/Text/ParserCombinators/Parsec/Token.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Token.p_o )
+[16 of 25] Compiling Text.ParserCombinators.Parsec.Char ( src/Text/ParserCombinators/Parsec/Char.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Char.p_o )
+[17 of 25] Compiling Text.ParserCombinators.Parsec ( src/Text/ParserCombinators/Parsec.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec.p_o )
+[18 of 25] Compiling Text.ParserCombinators.Parsec.Expr ( src/Text/ParserCombinators/Parsec/Expr.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Expr.p_o )
+[19 of 25] Compiling Text.Parsec.ByteString.Lazy ( src/Text/Parsec/ByteString/Lazy.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/ByteString/Lazy.p_o )
+[20 of 25] Compiling Text.Parsec.ByteString ( src/Text/Parsec/ByteString.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/ByteString.p_o )
+[21 of 25] Compiling Text.Parsec      ( src/Text/Parsec.hs, dist/dist-sandbox-439155cc/build/Text/Parsec.p_o )
+[22 of 25] Compiling Text.Parsec.Language ( src/Text/Parsec/Language.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Language.p_o )
+[23 of 25] Compiling Text.ParserCombinators.Parsec.Language ( src/Text/ParserCombinators/Parsec/Language.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Language.p_o )
+[24 of 25] Compiling Text.Parsec.Perm ( src/Text/Parsec/Perm.hs, dist/dist-sandbox-439155cc/build/Text/Parsec/Perm.p_o )
+[25 of 25] Compiling Text.ParserCombinators.Parsec.Perm ( src/Text/ParserCombinators/Parsec/Perm.hs, dist/dist-sandbox-439155cc/build/Text/ParserCombinators/Parsec/Perm.p_o )
+Running Haddock for parsec-3.1.13.0...
+Preprocessing library parsec-3.1.13.0...
+Haddock coverage:
+  82% ( 14 / 17) in 'Text.Parsec.Pos'
+  Missing documentation for:
+    SourceName (src/Text/Parsec/Pos.hs:34)
+    Line (src/Text/Parsec/Pos.hs:35)
+    Column (src/Text/Parsec/Pos.hs:36)
+  82% ( 14 / 17) in 'Text.ParserCombinators.Parsec.Pos'
+  Missing documentation for:
+    SourceName (src/Text/Parsec/Pos.hs:34)
+    Line (src/Text/Parsec/Pos.hs:35)
+    Column (src/Text/Parsec/Pos.hs:36)
+  43% (  6 / 14) in 'Text.Parsec.Error'
+  Missing documentation for:
+    errorIsUnknown (src/Text/Parsec/Error.hs:116)
+    showErrorMessages (src/Text/Parsec/Error.hs:179)
+    newErrorMessage (src/Text/Parsec/Error.hs:126)
+    newErrorUnknown (src/Text/Parsec/Error.hs:122)
+    addErrorMessage (src/Text/Parsec/Error.hs:130)
+    setErrorPos (src/Text/Parsec/Error.hs:134)
+    setErrorMessage (src/Text/Parsec/Error.hs:138)
+    mergeError (src/Text/Parsec/Error.hs:142)
+  64% ( 32 / 50) in 'Text.Parsec.Prim'
+  Missing documentation for:
+    unknownError (src/Text/Parsec/Prim.hs:115)
+    sysUnExpectError (src/Text/Parsec/Prim.hs:118)
+    Parsec (src/Text/Parsec/Prim.hs:181)
+    Consumed (src/Text/Parsec/Prim.hs:183)
+    Reply (src/Text/Parsec/Prim.hs:187)
+    State (src/Text/Parsec/Prim.hs:191)
+    parsecMap (src/Text/Parsec/Prim.hs:255)
+    parserReturn (src/Text/Parsec/Prim.hs:306)
+    parserBind (src/Text/Parsec/Prim.hs:311)
+    mergeErrorReply (src/Text/Parsec/Prim.hs:351)
+    parserFail (src/Text/Parsec/Prim.hs:357)
+    parserPlus (src/Text/Parsec/Prim.hs:375)
+    labels (src/Text/Parsec/Prim.hs:430)
+    tokens (src/Text/Parsec/Prim.hs:481)
+    tokenPrimEx (src/Text/Parsec/Prim.hs:618)
+    manyAccum (src/Text/Parsec/Prim.hs:678)
+    runPT (src/Text/Parsec/Prim.hs:697)
+    runP (src/Text/Parsec/Prim.hs:711)
+  33% (  1 /  3) in 'Text.Parsec.Text'
+  Missing documentation for:
+    Parser (src/Text/Parsec/Text.hs:24)
+    GenParser (src/Text/Parsec/Text.hs:25)
+  33% (  1 /  3) in 'Text.Parsec.Text.Lazy'
+  Missing documentation for:
+    Parser (src/Text/Parsec/Text/Lazy.hs:24)
+    GenParser (src/Text/Parsec/Text/Lazy.hs:25)
+  50% (  2 /  4) in 'Text.Parsec.String'
+  Missing documentation for:
+    Parser (src/Text/Parsec/String.hs:24)
+    GenParser (src/Text/Parsec/String.hs:25)
+  38% (  6 / 16) in 'Text.ParserCombinators.Parsec.Error'
+  Missing documentation for:
+    messageCompare (src/Text/ParserCombinators/Parsec/Error.hs:38)
+    messageEq (src/Text/ParserCombinators/Parsec/Error.hs:41)
+    errorIsUnknown (src/Text/Parsec/Error.hs:116)
+    showErrorMessages (src/Text/Parsec/Error.hs:179)
+    newErrorMessage (src/Text/Parsec/Error.hs:126)
+    newErrorUnknown (src/Text/Parsec/Error.hs:122)
+    addErrorMessage (src/Text/Parsec/Error.hs:130)
+    setErrorPos (src/Text/Parsec/Error.hs:134)
+    setErrorMessage (src/Text/Parsec/Error.hs:138)
+    mergeError (src/Text/Parsec/Error.hs:142)
+  70% ( 21 / 30) in 'Text.ParserCombinators.Parsec.Prim'
+  Missing documentation for:
+    Parser (src/Text/Parsec/String.hs:24)
+    GenParser (src/Text/Parsec/String.hs:25)
+    runParser (src/Text/ParserCombinators/Parsec/Prim.hs:59)
+    tokens (src/Text/Parsec/Prim.hs:481)
+    tokenPrimEx (src/Text/Parsec/Prim.hs:618)
+    try (src/Text/ParserCombinators/Parsec/Prim.hs:66)
+    labels (src/Text/Parsec/Prim.hs:430)
+    pzero (src/Text/ParserCombinators/Parsec/Prim.hs:56)
+    State (src/Text/Parsec/Prim.hs:191)
+ 100% ( 28 / 28) in 'Text.Parsec.Combinator'
+ 100% (  5 /  5) in 'Text.Parsec.Expr'
+ 100% ( 24 / 24) in 'Text.ParserCombinators.Parsec.Combinator'
+ 100% ( 20 / 20) in 'Text.Parsec.Char'
+  67% (  4 /  6) in 'Text.Parsec.Token'
+  Missing documentation for:
+    LanguageDef (src/Text/Parsec/Token.hs:46)
+    TokenParser (src/Text/Parsec/Token.hs:117)
+  67% (  4 /  6) in 'Text.ParserCombinators.Parsec.Token'
+  Missing documentation for:
+    LanguageDef (src/Text/Parsec/Token.hs:46)
+    TokenParser (src/Text/Parsec/Token.hs:117)
+  95% ( 18 / 19) in 'Text.ParserCombinators.Parsec.Char'
+  Missing documentation for:
+    CharParser (src/Text/ParserCombinators/Parsec/Char.hs:42)
+  83% ( 15 / 18) in 'Text.ParserCombinators.Parsec'
+  Missing documentation for:
+    SourceName (src/Text/Parsec/Pos.hs:34)
+    Line (src/Text/Parsec/Pos.hs:35)
+    Column (src/Text/Parsec/Pos.hs:36)
+  40% (  2 /  5) in 'Text.ParserCombinators.Parsec.Expr'
+  Missing documentation for:
+    Operator (src/Text/ParserCombinators/Parsec/Expr.hs:30)
+    OperatorTable (src/Text/ParserCombinators/Parsec/Expr.hs:34)
+    buildExpressionParser (src/Text/ParserCombinators/Parsec/Expr.hs:41)
+  50% (  2 /  4) in 'Text.Parsec.ByteString.Lazy'
+  Missing documentation for:
+    Parser (src/Text/Parsec/ByteString/Lazy.hs:26)
+    GenParser (src/Text/Parsec/ByteString/Lazy.hs:27)
+  50% (  2 /  4) in 'Text.Parsec.ByteString'
+  Missing documentation for:
+    Parser (src/Text/Parsec/ByteString.hs:26)
+    GenParser (src/Text/Parsec/ByteString.hs:27)
+  79% ( 77 / 98) in 'Text.Parsec'
+  Missing documentation for:
+    Parsec (src/Text/Parsec/Prim.hs:181)
+    tokens (src/Text/Parsec/Prim.hs:481)
+    labels (src/Text/Parsec/Prim.hs:430)
+    SourceName (src/Text/Parsec/Pos.hs:34)
+    Line (src/Text/Parsec/Pos.hs:35)
+    Column (src/Text/Parsec/Pos.hs:36)
+    manyAccum (src/Text/Parsec/Prim.hs:678)
+    tokenPrimEx (src/Text/Parsec/Prim.hs:618)
+    runPT (src/Text/Parsec/Prim.hs:697)
+    unknownError (src/Text/Parsec/Prim.hs:115)
+    sysUnExpectError (src/Text/Parsec/Prim.hs:118)
+    mergeErrorReply (src/Text/Parsec/Prim.hs:351)
+    runP (src/Text/Parsec/Prim.hs:711)
+    Consumed (src/Text/Parsec/Prim.hs:183)
+    Reply (src/Text/Parsec/Prim.hs:187)
+    State (src/Text/Parsec/Prim.hs:191)
+    parsecMap (src/Text/Parsec/Prim.hs:255)
+    parserReturn (src/Text/Parsec/Prim.hs:306)
+    parserBind (src/Text/Parsec/Prim.hs:311)
+    parserFail (src/Text/Parsec/Prim.hs:357)
+    parserPlus (src/Text/Parsec/Prim.hs:375)
+  90% (  9 / 10) in 'Text.Parsec.Language'
+  Missing documentation for:
+    LanguageDef (src/Text/Parsec/Token.hs:46)
+  90% (  9 / 10) in 'Text.ParserCombinators.Parsec.Language'
+  Missing documentation for:
+    LanguageDef (src/Text/Parsec/Token.hs:46)
+ 100% (  8 /  8) in 'Text.Parsec.Perm'
+ 100% (  7 /  7) in 'Text.ParserCombinators.Parsec.Perm'
+Documentation created: dist/dist-sandbox-439155cc/doc/html/parsec/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-parsec-3.1.131399399247462242385.0
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/parsec-3.1.13.0-Du865INB6YqhomCYeb4P
+Registering parsec-3.1.13.0...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-80685/parsec-3.1.13.0'
