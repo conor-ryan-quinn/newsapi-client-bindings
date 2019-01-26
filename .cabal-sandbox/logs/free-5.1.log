@@ -1,0 +1,97 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7920/free-5.1'
+Configuring free-5.1...
+Building free-5.1...
+Preprocessing library free-5.1...
+[ 1 of 20] Compiling Data.Functor.Classes.Compat ( src/Data/Functor/Classes/Compat.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Classes/Compat.o )
+[ 2 of 20] Compiling Control.Monad.Free.TH ( src/Control/Monad/Free/TH.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free/TH.o )
+[ 3 of 20] Compiling Control.Monad.Free.Class ( src/Control/Monad/Free/Class.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free/Class.o )
+[ 4 of 20] Compiling Control.Monad.Trans.Free ( src/Control/Monad/Trans/Free.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Free.o )
+[ 5 of 20] Compiling Control.Monad.Trans.Free.Ap ( src/Control/Monad/Trans/Free/Ap.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Free/Ap.o )
+[ 6 of 20] Compiling Control.Monad.Trans.Free.Church ( src/Control/Monad/Trans/Free/Church.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Free/Church.o )
+[ 7 of 20] Compiling Control.Monad.Trans.Iter ( src/Control/Monad/Trans/Iter.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Iter.o )
+[ 8 of 20] Compiling Control.Monad.Free.Ap ( src/Control/Monad/Free/Ap.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free/Ap.o )
+[ 9 of 20] Compiling Control.Monad.Free ( src/Control/Monad/Free.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free.o )
+[10 of 20] Compiling Control.Monad.Free.Church ( src/Control/Monad/Free/Church.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free/Church.o )
+[11 of 20] Compiling Control.Comonad.Cofree.Class ( src/Control/Comonad/Cofree/Class.hs, dist/dist-sandbox-439155cc/build/Control/Comonad/Cofree/Class.o )
+[12 of 20] Compiling Control.Comonad.Trans.Cofree ( src/Control/Comonad/Trans/Cofree.hs, dist/dist-sandbox-439155cc/build/Control/Comonad/Trans/Cofree.o )
+[13 of 20] Compiling Control.Comonad.Trans.Coiter ( src/Control/Comonad/Trans/Coiter.hs, dist/dist-sandbox-439155cc/build/Control/Comonad/Trans/Coiter.o )
+[14 of 20] Compiling Control.Comonad.Cofree ( src/Control/Comonad/Cofree.hs, dist/dist-sandbox-439155cc/build/Control/Comonad/Cofree.o )
+[15 of 20] Compiling Control.Applicative.Trans.Free ( src/Control/Applicative/Trans/Free.hs, dist/dist-sandbox-439155cc/build/Control/Applicative/Trans/Free.o )
+[16 of 20] Compiling Control.Applicative.Free.Final ( src/Control/Applicative/Free/Final.hs, dist/dist-sandbox-439155cc/build/Control/Applicative/Free/Final.o )
+[17 of 20] Compiling Control.Applicative.Free.Fast ( src/Control/Applicative/Free/Fast.hs, dist/dist-sandbox-439155cc/build/Control/Applicative/Free/Fast.o )
+[18 of 20] Compiling Control.Applicative.Free ( src/Control/Applicative/Free.hs, dist/dist-sandbox-439155cc/build/Control/Applicative/Free.o )
+[19 of 20] Compiling Control.Alternative.Free.Final ( src/Control/Alternative/Free/Final.hs, dist/dist-sandbox-439155cc/build/Control/Alternative/Free/Final.o )
+[20 of 20] Compiling Control.Alternative.Free ( src/Control/Alternative/Free.hs, dist/dist-sandbox-439155cc/build/Control/Alternative/Free.o )
+[ 1 of 20] Compiling Data.Functor.Classes.Compat ( src/Data/Functor/Classes/Compat.hs, dist/dist-sandbox-439155cc/build/Data/Functor/Classes/Compat.p_o )
+[ 2 of 20] Compiling Control.Monad.Free.TH ( src/Control/Monad/Free/TH.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free/TH.p_o )
+[ 3 of 20] Compiling Control.Monad.Free.Class ( src/Control/Monad/Free/Class.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free/Class.p_o )
+[ 4 of 20] Compiling Control.Monad.Trans.Free ( src/Control/Monad/Trans/Free.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Free.p_o )
+[ 5 of 20] Compiling Control.Monad.Trans.Free.Ap ( src/Control/Monad/Trans/Free/Ap.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Free/Ap.p_o )
+[ 6 of 20] Compiling Control.Monad.Trans.Free.Church ( src/Control/Monad/Trans/Free/Church.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Free/Church.p_o )
+[ 7 of 20] Compiling Control.Monad.Trans.Iter ( src/Control/Monad/Trans/Iter.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Trans/Iter.p_o )
+[ 8 of 20] Compiling Control.Monad.Free.Ap ( src/Control/Monad/Free/Ap.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free/Ap.p_o )
+[ 9 of 20] Compiling Control.Monad.Free ( src/Control/Monad/Free.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free.p_o )
+[10 of 20] Compiling Control.Monad.Free.Church ( src/Control/Monad/Free/Church.hs, dist/dist-sandbox-439155cc/build/Control/Monad/Free/Church.p_o )
+[11 of 20] Compiling Control.Comonad.Cofree.Class ( src/Control/Comonad/Cofree/Class.hs, dist/dist-sandbox-439155cc/build/Control/Comonad/Cofree/Class.p_o )
+[12 of 20] Compiling Control.Comonad.Trans.Cofree ( src/Control/Comonad/Trans/Cofree.hs, dist/dist-sandbox-439155cc/build/Control/Comonad/Trans/Cofree.p_o )
+[13 of 20] Compiling Control.Comonad.Trans.Coiter ( src/Control/Comonad/Trans/Coiter.hs, dist/dist-sandbox-439155cc/build/Control/Comonad/Trans/Coiter.p_o )
+[14 of 20] Compiling Control.Comonad.Cofree ( src/Control/Comonad/Cofree.hs, dist/dist-sandbox-439155cc/build/Control/Comonad/Cofree.p_o )
+[15 of 20] Compiling Control.Applicative.Trans.Free ( src/Control/Applicative/Trans/Free.hs, dist/dist-sandbox-439155cc/build/Control/Applicative/Trans/Free.p_o )
+[16 of 20] Compiling Control.Applicative.Free.Final ( src/Control/Applicative/Free/Final.hs, dist/dist-sandbox-439155cc/build/Control/Applicative/Free/Final.p_o )
+[17 of 20] Compiling Control.Applicative.Free.Fast ( src/Control/Applicative/Free/Fast.hs, dist/dist-sandbox-439155cc/build/Control/Applicative/Free/Fast.p_o )
+[18 of 20] Compiling Control.Applicative.Free ( src/Control/Applicative/Free.hs, dist/dist-sandbox-439155cc/build/Control/Applicative/Free.p_o )
+[19 of 20] Compiling Control.Alternative.Free.Final ( src/Control/Alternative/Free/Final.hs, dist/dist-sandbox-439155cc/build/Control/Alternative/Free/Final.p_o )
+[20 of 20] Compiling Control.Alternative.Free ( src/Control/Alternative/Free.hs, dist/dist-sandbox-439155cc/build/Control/Alternative/Free.p_o )
+Running Haddock for free-5.1...
+Preprocessing library free-5.1...
+Haddock coverage:
+  67% (  2 /  3) in 'Data.Functor.Classes.Compat'
+  Missing documentation for:
+    Module header
+ 100% ( 10 / 10) in 'Control.Monad.Free.TH'
+ 100% (  4 /  4) in 'Control.Monad.Free.Class'
+ 100% ( 28 / 28) in 'Control.Monad.Trans.Free'
+ 100% ( 27 / 27) in 'Control.Monad.Trans.Free.Ap'
+ 100% ( 28 / 28) in 'Control.Monad.Trans.Free.Church'
+ 100% ( 25 / 25) in 'Control.Monad.Trans.Iter'
+ 100% ( 16 / 16) in 'Control.Monad.Free.Ap'
+ 100% ( 16 / 16) in 'Control.Monad.Free'
+ 100% ( 13 / 13) in 'Control.Monad.Free.Church'
+ 100% (  2 /  2) in 'Control.Comonad.Cofree.Class'
+ 100% ( 11 / 11) in 'Control.Comonad.Trans.Cofree'
+ 100% ( 14 / 14) in 'Control.Comonad.Trans.Coiter'
+  94% ( 15 / 16) in 'Control.Comonad.Cofree'
+  Missing documentation for:
+    hoistCofree (src/Control/Comonad/Cofree.hs:138)
+ 100% ( 22 / 22) in 'Control.Applicative.Trans.Free'
+ 100% ( 10 / 10) in 'Control.Applicative.Free.Final'
+ 100% ( 14 / 14) in 'Control.Applicative.Free.Fast'
+ 100% ( 11 / 11) in 'Control.Applicative.Free'
+ 100% (  5 /  5) in 'Control.Alternative.Free.Final'
+  67% (  4 /  6) in 'Control.Alternative.Free'
+  Missing documentation for:
+    Alt (src/Control/Alternative/Free.hs:51)
+    AltF (src/Control/Alternative/Free.hs:44)
+Warning: Control.Monad.Free.Class: could not find link destinations for:
+    ~
+Warning: Control.Monad.Trans.Free: could not find link destinations for:
+    ~
+Warning: Control.Monad.Trans.Free.Ap: could not find link destinations for:
+    ~
+Warning: Control.Monad.Trans.Free.Church: could not find link destinations for:
+    ~
+Warning: Control.Monad.Trans.Iter: could not find link destinations for:
+    ~
+Warning: Control.Monad.Free.Ap: could not find link destinations for:
+    ~
+Warning: Control.Monad.Free: could not find link destinations for:
+    ~
+Warning: Control.Monad.Free.Church: could not find link destinations for:
+    ~
+Documentation created: dist/dist-sandbox-439155cc/doc/html/free/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-free-5571540977194847408.1
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/free-5.1-I2ERvRNdtXtCCNpmbwhBiw
+Registering free-5.1...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7920/free-5.1'

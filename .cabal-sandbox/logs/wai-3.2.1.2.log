@@ -1,0 +1,36 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7928/wai-3.2.1.2'
+Warning: wai.cabal: Unknown fields: build-tool-depends (line 45)
+Fields allowed in this section:
+type, main-is, test-module, buildable, build-tools, build-depends,
+cpp-options, cc-options, ld-options, pkgconfig-depends, frameworks,
+extra-framework-dirs, c-sources, js-sources, default-language,
+other-languages, default-extensions, other-extensions, extensions,
+extra-libraries, extra-ghci-libraries, extra-lib-dirs, includes,
+install-includes, include-dirs, hs-source-dirs, other-modules,
+ghc-prof-options, ghcjs-prof-options, ghc-shared-options,
+ghcjs-shared-options, ghc-options, ghcjs-options, jhc-options,
+hugs-options, nhc98-options
+Configuring wai-3.2.1.2...
+Building wai-3.2.1.2...
+Preprocessing library wai-3.2.1.2...
+[1 of 2] Compiling Network.Wai.Internal ( Network/Wai/Internal.hs, dist/dist-sandbox-439155cc/build/Network/Wai/Internal.o )
+[2 of 2] Compiling Network.Wai      ( Network/Wai.hs, dist/dist-sandbox-439155cc/build/Network/Wai.o )
+[1 of 2] Compiling Network.Wai.Internal ( Network/Wai/Internal.hs, dist/dist-sandbox-439155cc/build/Network/Wai/Internal.p_o )
+[2 of 2] Compiling Network.Wai      ( Network/Wai.hs, dist/dist-sandbox-439155cc/build/Network/Wai.p_o )
+Running Haddock for wai-3.2.1.2...
+Preprocessing library wai-3.2.1.2...
+Haddock coverage:
+  75% (  6 /  8) in 'Network.Wai.Internal'
+  Missing documentation for:
+     (Network/Wai/Internal.hs:93)
+    Response (Network/Wai/Internal.hs:114)
+  98% ( 47 / 48) in 'Network.Wai'
+  Missing documentation for:
+    Response (Network/Wai/Internal.hs:114)
+Documentation created: dist/dist-sandbox-439155cc/doc/html/wai/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-wai-3.2.11399125485156091745.2
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/wai-3.2.1.2-HglHNIBldJc9RLLvciPWe4
+Registering wai-3.2.1.2...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7928/wai-3.2.1.2'

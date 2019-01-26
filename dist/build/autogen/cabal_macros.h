@@ -42,33 +42,12 @@
   (major1) == 0 && (major2) <  13 || \
   (major1) == 0 && (major2) == 13 && (minor) <= 0)
 
-/* package servant-xml-1.0.1.2 */
-#define VERSION_servant_xml "1.0.1.2"
-#define MIN_VERSION_servant_xml(major1,major2,minor) (\
-  (major1) <  1 || \
-  (major1) == 1 && (major2) <  0 || \
-  (major1) == 1 && (major2) == 0 && (minor) <= 1)
-
 /* package text-1.2.3.1 */
 #define VERSION_text "1.2.3.1"
 #define MIN_VERSION_text(major1,major2,minor) (\
   (major1) <  1 || \
   (major1) == 1 && (major2) <  2 || \
   (major1) == 1 && (major2) == 2 && (minor) <= 3)
-
-/* package transformers-either-0.1.1 */
-#define VERSION_transformers_either "0.1.1"
-#define MIN_VERSION_transformers_either(major1,major2,minor) (\
-  (major1) <  0 || \
-  (major1) == 0 && (major2) <  1 || \
-  (major1) == 0 && (major2) == 1 && (minor) <= 1)
-
-/* package xmlbf-0.4.1 */
-#define VERSION_xmlbf "0.4.1"
-#define MIN_VERSION_xmlbf(major1,major2,minor) (\
-  (major1) <  0 || \
-  (major1) == 0 && (major2) <  4 || \
-  (major1) == 0 && (major2) == 4 && (minor) <= 1)
 
 /* tool alex-3.2.1 */
 #define TOOL_VERSION_alex "3.2.1"
@@ -140,7 +119,7 @@
   (major1) == 0 && (major2) <  29 || \
   (major1) == 0 && (major2) == 29 && (minor) <= 1)
 
-#define CURRENT_COMPONENT_ID "ClientBindings-0.1.0.0-DFj7zH1HHevEQe5Fiz9KEs"
+#define CURRENT_COMPONENT_ID "ClientBindings-0.1.0.0-F9PXp3gWYhKKsF5RUj3YMH"
 
-#define CURRENT_PACKAGE_KEY "ClientBindings-0.1.0.0-DFj7zH1HHevEQe5Fiz9KEs"
+#define CURRENT_PACKAGE_KEY "ClientBindings-0.1.0.0-F9PXp3gWYhKKsF5RUj3YMH"
 

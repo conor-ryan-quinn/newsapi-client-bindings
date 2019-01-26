@@ -1,0 +1,76 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7925/psqueues-0.2.7.0'
+Configuring psqueues-0.2.7.0...
+Building psqueues-0.2.7.0...
+Preprocessing library psqueues-0.2.7.0...
+[1 of 7] Compiling Data.OrdPSQ.Internal ( src/Data/OrdPSQ/Internal.hs, dist/dist-sandbox-439155cc/build/Data/OrdPSQ/Internal.o )
+[2 of 7] Compiling Data.OrdPSQ      ( src/Data/OrdPSQ.hs, dist/dist-sandbox-439155cc/build/Data/OrdPSQ.o )
+[3 of 7] Compiling Data.BitUtil     ( src/Data/BitUtil.hs, dist/dist-sandbox-439155cc/build/Data/BitUtil.o )
+[4 of 7] Compiling Data.IntPSQ.Internal ( src/Data/IntPSQ/Internal.hs, dist/dist-sandbox-439155cc/build/Data/IntPSQ/Internal.o )
+[5 of 7] Compiling Data.HashPSQ.Internal ( src/Data/HashPSQ/Internal.hs, dist/dist-sandbox-439155cc/build/Data/HashPSQ/Internal.o )
+[6 of 7] Compiling Data.HashPSQ     ( src/Data/HashPSQ.hs, dist/dist-sandbox-439155cc/build/Data/HashPSQ.o )
+[7 of 7] Compiling Data.IntPSQ      ( src/Data/IntPSQ.hs, dist/dist-sandbox-439155cc/build/Data/IntPSQ.o )
+[1 of 7] Compiling Data.OrdPSQ.Internal ( src/Data/OrdPSQ/Internal.hs, dist/dist-sandbox-439155cc/build/Data/OrdPSQ/Internal.p_o )
+[2 of 7] Compiling Data.OrdPSQ      ( src/Data/OrdPSQ.hs, dist/dist-sandbox-439155cc/build/Data/OrdPSQ.p_o )
+[3 of 7] Compiling Data.BitUtil     ( src/Data/BitUtil.hs, dist/dist-sandbox-439155cc/build/Data/BitUtil.p_o )
+[4 of 7] Compiling Data.IntPSQ.Internal ( src/Data/IntPSQ/Internal.hs, dist/dist-sandbox-439155cc/build/Data/IntPSQ/Internal.p_o )
+[5 of 7] Compiling Data.HashPSQ.Internal ( src/Data/HashPSQ/Internal.hs, dist/dist-sandbox-439155cc/build/Data/HashPSQ/Internal.p_o )
+[6 of 7] Compiling Data.HashPSQ     ( src/Data/HashPSQ.hs, dist/dist-sandbox-439155cc/build/Data/HashPSQ.p_o )
+[7 of 7] Compiling Data.IntPSQ      ( src/Data/IntPSQ.hs, dist/dist-sandbox-439155cc/build/Data/IntPSQ.p_o )
+Running Haddock for psqueues-0.2.7.0...
+Preprocessing library psqueues-0.2.7.0...
+Haddock coverage:
+  72% ( 38 / 53) in 'Data.OrdPSQ.Internal'
+  Missing documentation for:
+    Module header
+    LTree (src/Data/OrdPSQ/Internal.hs:118)
+    TourView (src/Data/OrdPSQ/Internal.hs:448)
+    tourView (src/Data/OrdPSQ/Internal.hs:453)
+    left (src/Data/OrdPSQ/Internal.hs:493)
+    right (src/Data/OrdPSQ/Internal.hs:493)
+    maxKey (src/Data/OrdPSQ/Internal.hs:503)
+    lsingleLeft (src/Data/OrdPSQ/Internal.hs:554)
+    rsingleLeft (src/Data/OrdPSQ/Internal.hs:566)
+    lsingleRight (src/Data/OrdPSQ/Internal.hs:573)
+    rsingleRight (src/Data/OrdPSQ/Internal.hs:580)
+    ldoubleLeft (src/Data/OrdPSQ/Internal.hs:592)
+    rdoubleLeft (src/Data/OrdPSQ/Internal.hs:610)
+    ldoubleRight (src/Data/OrdPSQ/Internal.hs:601)
+    rdoubleRight (src/Data/OrdPSQ/Internal.hs:619)
+ 100% ( 35 / 35) in 'Data.OrdPSQ'
+ 100% (  2 /  2) in 'Data.BitUtil'
+  81% ( 39 / 48) in 'Data.IntPSQ.Internal'
+  Missing documentation for:
+    Module header
+    Nat (src/Data/IntPSQ/Internal.hs:95)
+    Key (src/Data/IntPSQ/Internal.hs:97)
+    unsafeInsertIncreasePriorityView (src/Data/IntPSQ/Internal.hs:543)
+    unsafeInsertWithIncreasePriorityView (src/Data/IntPSQ/Internal.hs:580)
+    hasBadNils (src/Data/IntPSQ/Internal.hs:672)
+    hasDuplicateKeys (src/Data/IntPSQ/Internal.hs:679)
+    hasMinHeapProperty (src/Data/IntPSQ/Internal.hs:690)
+    validMask (src/Data/IntPSQ/Internal.hs:704)
+  88% ( 35 / 40) in 'Data.HashPSQ.Internal'
+  Missing documentation for:
+    Module header
+    Bucket (src/Data/HashPSQ/Internal.hs:73)
+    unsafeLookupIncreasePriority (src/Data/HashPSQ/Internal.hs:428)
+    unsafeInsertIncreasePriority (src/Data/HashPSQ/Internal.hs:449)
+    unsafeInsertIncreasePriorityView (src/Data/HashPSQ/Internal.hs:464)
+  92% ( 35 / 38) in 'Data.HashPSQ'
+  Missing documentation for:
+    unsafeLookupIncreasePriority (src/Data/HashPSQ/Internal.hs:428)
+    unsafeInsertIncreasePriority (src/Data/HashPSQ/Internal.hs:449)
+    unsafeInsertIncreasePriorityView (src/Data/HashPSQ/Internal.hs:464)
+  95% ( 39 / 41) in 'Data.IntPSQ'
+  Missing documentation for:
+    unsafeInsertIncreasePriorityView (src/Data/IntPSQ/Internal.hs:543)
+    unsafeInsertWithIncreasePriorityView (src/Data/IntPSQ/Internal.hs:580)
+Warning: Data.IntPSQ: could not find link destinations for:
+    Key
+Documentation created: dist/dist-sandbox-439155cc/doc/html/psqueues/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-psqueues-0.2.7510616708590357944.0
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/psqueues-0.2.7.0-JAdActnM37J6rGQ3SIpu6j
+Registering psqueues-0.2.7.0...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7925/psqueues-0.2.7.0'

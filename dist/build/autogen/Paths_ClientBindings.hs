@@ -30,7 +30,7 @@ version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/bin"
-libdir     = "/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/ClientBindings-0.1.0.0-DFj7zH1HHevEQe5Fiz9KEs"
+libdir     = "/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/ClientBindings-0.1.0.0-F9PXp3gWYhKKsF5RUj3YMH"
 dynlibdir  = "/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2"
 datadir    = "/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/share/x86_64-osx-ghc-8.0.2/ClientBindings-0.1.0.0"
 libexecdir = "/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/libexec"

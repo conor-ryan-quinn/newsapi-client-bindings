@@ -1,0 +1,98 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7922/http-date-0.0.8'
+Configuring http-date-0.0.8...
+Building http-date-0.0.8...
+Preprocessing library http-date-0.0.8...
+[1 of 5] Compiling Network.HTTP.Date.Types ( Network/HTTP/Date/Types.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date/Types.o )
+[2 of 5] Compiling Network.HTTP.Date.Parser ( Network/HTTP/Date/Parser.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date/Parser.o )
+[3 of 5] Compiling Network.HTTP.Date.Formatter ( Network/HTTP/Date/Formatter.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date/Formatter.o )
+[4 of 5] Compiling Network.HTTP.Date.Converter ( Network/HTTP/Date/Converter.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date/Converter.o )
+
+Network/HTTP/Date/Converter.hs:7:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Network/HTTP/Date/Converter.hs:97:6: warning: [-Wname-shadowing]
+    This binding for ‘months’ shadows the existing binding
+      imported from ‘Data.Time’ at Network/HTTP/Date/Converter.hs:9:1-16
+      (and originally defined in ‘time-1.6.0.1:Data.Time.Format.Locale’)
+
+Network/HTTP/Date/Converter.hs:100:19: warning: [-Wdeprecations]
+    In the use of ‘inlinePerformIO’
+    (imported from Data.ByteString.Internal):
+    Deprecated: "If you think you know what you are doing, use 'unsafePerformIO'. If you are sure you know what you are doing, use 'unsafeDupablePerformIO'. If you enjoy sharing an address space with a malevolent agent of chaos, try 'accursedUnutterablePerformIO'."
+[5 of 5] Compiling Network.HTTP.Date ( Network/HTTP/Date.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date.o )
+[1 of 5] Compiling Network.HTTP.Date.Types ( Network/HTTP/Date/Types.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date/Types.p_o )
+[2 of 5] Compiling Network.HTTP.Date.Parser ( Network/HTTP/Date/Parser.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date/Parser.p_o )
+[3 of 5] Compiling Network.HTTP.Date.Formatter ( Network/HTTP/Date/Formatter.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date/Formatter.p_o )
+[4 of 5] Compiling Network.HTTP.Date.Converter ( Network/HTTP/Date/Converter.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date/Converter.p_o )
+
+Network/HTTP/Date/Converter.hs:7:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Network/HTTP/Date/Converter.hs:97:6: warning: [-Wname-shadowing]
+    This binding for ‘months’ shadows the existing binding
+      imported from ‘Data.Time’ at Network/HTTP/Date/Converter.hs:9:1-16
+      (and originally defined in ‘time-1.6.0.1:Data.Time.Format.Locale’)
+
+Network/HTTP/Date/Converter.hs:100:19: warning: [-Wdeprecations]
+    In the use of ‘inlinePerformIO’
+    (imported from Data.ByteString.Internal):
+    Deprecated: "If you think you know what you are doing, use 'unsafePerformIO'. If you are sure you know what you are doing, use 'unsafeDupablePerformIO'. If you enjoy sharing an address space with a malevolent agent of chaos, try 'accursedUnutterablePerformIO'."
+[5 of 5] Compiling Network.HTTP.Date ( Network/HTTP/Date.hs, dist/dist-sandbox-439155cc/build/Network/HTTP/Date.p_o )
+Running Haddock for http-date-0.0.8...
+Preprocessing library http-date-0.0.8...
+
+Network/HTTP/Date/Converter.hs:7:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Network/HTTP/Date/Converter.hs:97:6: warning: [-Wname-shadowing]
+    This binding for ‘months’ shadows the existing binding
+      imported from ‘Data.Time’ at Network/HTTP/Date/Converter.hs:9:1-16
+      (and originally defined in ‘time-1.6.0.1:Data.Time.Format.Locale’)
+
+Network/HTTP/Date/Converter.hs:100:19: warning: [-Wdeprecations]
+    In the use of ‘inlinePerformIO’
+    (imported from Data.ByteString.Internal):
+    Deprecated: "If you think you know what you are doing, use 'unsafePerformIO'. If you are sure you know what you are doing, use 'unsafeDupablePerformIO'. If you enjoy sharing an address space with a malevolent agent of chaos, try 'accursedUnutterablePerformIO'."
+Haddock coverage:
+  20% (  2 / 10) in 'Network.HTTP.Date.Types'
+  Missing documentation for:
+    Module header
+    hdYear (Network/HTTP/Date/Types.hs:18)
+    hdMonth (Network/HTTP/Date/Types.hs:19)
+    hdDay (Network/HTTP/Date/Types.hs:20)
+    hdHour (Network/HTTP/Date/Types.hs:21)
+    hdMinute (Network/HTTP/Date/Types.hs:22)
+    hdSecond (Network/HTTP/Date/Types.hs:23)
+    hdWkday (Network/HTTP/Date/Types.hs:24)
+  50% (  1 /  2) in 'Network.HTTP.Date.Parser'
+  Missing documentation for:
+    Module header
+  50% (  1 /  2) in 'Network.HTTP.Date.Formatter'
+  Missing documentation for:
+    Module header
+  75% (  3 /  4) in 'Network.HTTP.Date.Converter'
+  Missing documentation for:
+    Module header
+  56% (  9 / 16) in 'Network.HTTP.Date'
+  Missing documentation for:
+    hdYear (Network/HTTP/Date/Types.hs:18)
+    hdMonth (Network/HTTP/Date/Types.hs:19)
+    hdDay (Network/HTTP/Date/Types.hs:20)
+    hdHour (Network/HTTP/Date/Types.hs:21)
+    hdMinute (Network/HTTP/Date/Types.hs:22)
+    hdSecond (Network/HTTP/Date/Types.hs:23)
+    hdWkday (Network/HTTP/Date/Types.hs:24)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/http-date/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-http-date-0.05305119672110010672.8
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/http-date-0.0.8-7lssnXVzbhX53aO4ZPZ90W
+Registering http-date-0.0.8...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7922/http-date-0.0.8'

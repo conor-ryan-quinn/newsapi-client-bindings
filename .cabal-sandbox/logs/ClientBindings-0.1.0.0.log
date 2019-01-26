@@ -1,0 +1,13 @@
+cabal: Entering directory '.'
+Configuring ClientBindings-0.1.0.0...
+Building ClientBindings-0.1.0.0...
+Preprocessing library ClientBindings-0.1.0.0...
+[2 of 3] Compiling Main             ( NewsAPI2.hs, dist/dist-sandbox-439155cc/build/Main.o )
+
+NewsAPI2.hs:7:1: error:
+    Failed to load interface for ‘Servant.Client.Free’
+    Perhaps you meant
+      Servant.Client.Core (needs flag -package-key servant-client-core-0.13.0.1)
+      Servant.Client (from servant-client-0.13.0.1)
+    Use -v to see a list of the files searched for.
+cabal: Leaving directory '.'

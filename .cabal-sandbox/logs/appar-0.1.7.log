@@ -1,0 +1,42 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7918/appar-0.1.7'
+Configuring appar-0.1.7...
+Building appar-0.1.7...
+Preprocessing library appar-0.1.7...
+[1 of 5] Compiling Text.Appar.Input ( Text/Appar/Input.hs, dist/dist-sandbox-439155cc/build/Text/Appar/Input.o )
+[2 of 5] Compiling Text.Appar.Parser ( Text/Appar/Parser.hs, dist/dist-sandbox-439155cc/build/Text/Appar/Parser.o )
+[3 of 5] Compiling Text.Appar.LazyByteString ( Text/Appar/LazyByteString.hs, dist/dist-sandbox-439155cc/build/Text/Appar/LazyByteString.o )
+[4 of 5] Compiling Text.Appar.String ( Text/Appar/String.hs, dist/dist-sandbox-439155cc/build/Text/Appar/String.o )
+[5 of 5] Compiling Text.Appar.ByteString ( Text/Appar/ByteString.hs, dist/dist-sandbox-439155cc/build/Text/Appar/ByteString.o )
+[1 of 5] Compiling Text.Appar.Input ( Text/Appar/Input.hs, dist/dist-sandbox-439155cc/build/Text/Appar/Input.p_o )
+[2 of 5] Compiling Text.Appar.Parser ( Text/Appar/Parser.hs, dist/dist-sandbox-439155cc/build/Text/Appar/Parser.p_o )
+[3 of 5] Compiling Text.Appar.LazyByteString ( Text/Appar/LazyByteString.hs, dist/dist-sandbox-439155cc/build/Text/Appar/LazyByteString.p_o )
+[4 of 5] Compiling Text.Appar.String ( Text/Appar/String.hs, dist/dist-sandbox-439155cc/build/Text/Appar/String.p_o )
+[5 of 5] Compiling Text.Appar.ByteString ( Text/Appar/ByteString.hs, dist/dist-sandbox-439155cc/build/Text/Appar/ByteString.p_o )
+Running Haddock for appar-0.1.7...
+Preprocessing library appar-0.1.7...
+Haddock coverage:
+  20% (  1 /  5) in 'Text.Appar.Input'
+  Missing documentation for:
+    Module header
+     (Text/Appar/Input.hs:24)
+     (Text/Appar/Input.hs:30)
+     (Text/Appar/Input.hs:36)
+  97% ( 36 / 37) in 'Text.Appar.Parser'
+  Missing documentation for:
+    MkParser (Text/Appar/Parser.hs:64)
+  98% ( 39 / 40) in 'Text.Appar.LazyByteString'
+  Missing documentation for:
+    MkParser (Text/Appar/Parser.hs:64)
+  98% ( 39 / 40) in 'Text.Appar.String'
+  Missing documentation for:
+    MkParser (Text/Appar/Parser.hs:64)
+  98% ( 39 / 40) in 'Text.Appar.ByteString'
+  Missing documentation for:
+    MkParser (Text/Appar/Parser.hs:64)
+Documentation created: dist/dist-sandbox-439155cc/doc/html/appar/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-appar-0.113585809791624379149.7
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/appar-0.1.7-2HfCRspIO1NUfnuAjYnj3
+Registering appar-0.1.7...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7918/appar-0.1.7'

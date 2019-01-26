@@ -1,0 +1,21 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7923/network-byte-order-0.0.0.0'
+Configuring network-byte-order-0.0.0.0...
+Building network-byte-order-0.0.0.0...
+Preprocessing library network-byte-order-0.0.0.0...
+[1 of 1] Compiling Network.ByteOrder ( Network/ByteOrder.hs, dist/dist-sandbox-439155cc/build/Network/ByteOrder.o )
+[1 of 1] Compiling Network.ByteOrder ( Network/ByteOrder.hs, dist/dist-sandbox-439155cc/build/Network/ByteOrder.p_o )
+Running Haddock for network-byte-order-0.0.0.0...
+Preprocessing library network-byte-order-0.0.0.0...
+Haddock coverage:
+  93% ( 26 / 28) in 'Network.ByteOrder'
+  Missing documentation for:
+    Buffer (Network/ByteOrder.hs:48)
+    Offset (Network/ByteOrder.hs:49)
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/network-byte-order/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-network-byte-order-0.0.02128236579784558821.0
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/network-byte-order-0.0.0.0-BKueUZcKgTS66cxoodddDI
+Registering network-byte-order-0.0.0.0...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7923/network-byte-order-0.0.0.0'

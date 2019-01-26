@@ -1,0 +1,36 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7926/simple-sendfile-0.2.27'
+Configuring simple-sendfile-0.2.27...
+Building simple-sendfile-0.2.27...
+Preprocessing library simple-sendfile-0.2.27...
+[1 of 4] Compiling Network.Sendfile.Types ( Network/Sendfile/Types.hs, dist/dist-sandbox-439155cc/build/Network/Sendfile/Types.o )
+[2 of 4] Compiling Network.Sendfile.IOVec ( dist/dist-sandbox-439155cc/build/Network/Sendfile/IOVec.hs, dist/dist-sandbox-439155cc/build/Network/Sendfile/IOVec.o )
+[3 of 4] Compiling Network.Sendfile.BSD ( dist/dist-sandbox-439155cc/build/Network/Sendfile/BSD.hs, dist/dist-sandbox-439155cc/build/Network/Sendfile/BSD.o )
+[4 of 4] Compiling Network.Sendfile ( Network/Sendfile.hs, dist/dist-sandbox-439155cc/build/Network/Sendfile.o )
+[1 of 4] Compiling Network.Sendfile.Types ( Network/Sendfile/Types.hs, dist/dist-sandbox-439155cc/build/Network/Sendfile/Types.p_o )
+[2 of 4] Compiling Network.Sendfile.IOVec ( dist/dist-sandbox-439155cc/build/Network/Sendfile/IOVec.hs, dist/dist-sandbox-439155cc/build/Network/Sendfile/IOVec.p_o )
+[3 of 4] Compiling Network.Sendfile.BSD ( dist/dist-sandbox-439155cc/build/Network/Sendfile/BSD.hs, dist/dist-sandbox-439155cc/build/Network/Sendfile/BSD.p_o )
+[4 of 4] Compiling Network.Sendfile ( Network/Sendfile.hs, dist/dist-sandbox-439155cc/build/Network/Sendfile.p_o )
+Running Haddock for simple-sendfile-0.2.27...
+Preprocessing library simple-sendfile-0.2.27...
+Haddock coverage:
+  50% (  1 /  2) in 'Network.Sendfile.Types'
+  Missing documentation for:
+    Module header
+  20% (  1 /  5) in 'Network.Sendfile.IOVec'
+  Missing documentation for:
+    IOVec (Network/Sendfile/IOVec.hsc:26)
+    SfHdtr (Network/Sendfile/IOVec.hsc:46)
+    withSfHdtr (Network/Sendfile/IOVec.hsc:80)
+    remainingChunks (Network/Sendfile/IOVec.hsc:88)
+  80% (  4 /  5) in 'Network.Sendfile.BSD'
+  Missing documentation for:
+    Module header
+ 100% (  6 /  6) in 'Network.Sendfile'
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/simple-sendfile/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-simple-sendfile-0.215519013931617819336.27
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/simple-sendfile-0.2.27-AdKdgn4s2cB4ZqcaUDX6Bv
+Registering simple-sendfile-0.2.27...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7926/simple-sendfile-0.2.27'

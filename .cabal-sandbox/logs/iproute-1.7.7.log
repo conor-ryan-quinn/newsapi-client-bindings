@@ -1,0 +1,123 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7918/iproute-1.7.7'
+Configuring iproute-1.7.7...
+Building iproute-1.7.7...
+Preprocessing library iproute-1.7.7...
+[1 of 8] Compiling Data.IP.Addr     ( Data/IP/Addr.hs, dist/dist-sandbox-439155cc/build/Data/IP/Addr.o )
+[2 of 8] Compiling Data.IP.Mask     ( Data/IP/Mask.hs, dist/dist-sandbox-439155cc/build/Data/IP/Mask.o )
+[3 of 8] Compiling Data.IP.Range    ( Data/IP/Range.hs, dist/dist-sandbox-439155cc/build/Data/IP/Range.o )
+[4 of 8] Compiling Data.IP.Internal ( Data/IP/Internal.hs, dist/dist-sandbox-439155cc/build/Data/IP/Internal.o )
+[5 of 8] Compiling Data.IP.Op       ( Data/IP/Op.hs, dist/dist-sandbox-439155cc/build/Data/IP/Op.o )
+[6 of 8] Compiling Data.IP.RouteTable.Internal ( Data/IP/RouteTable/Internal.hs, dist/dist-sandbox-439155cc/build/Data/IP/RouteTable/Internal.o )
+[7 of 8] Compiling Data.IP.RouteTable ( Data/IP/RouteTable.hs, dist/dist-sandbox-439155cc/build/Data/IP/RouteTable.o )
+[8 of 8] Compiling Data.IP          ( Data/IP.hs, dist/dist-sandbox-439155cc/build/Data/IP.o )
+[1 of 8] Compiling Data.IP.Addr     ( Data/IP/Addr.hs, dist/dist-sandbox-439155cc/build/Data/IP/Addr.p_o )
+[2 of 8] Compiling Data.IP.Mask     ( Data/IP/Mask.hs, dist/dist-sandbox-439155cc/build/Data/IP/Mask.p_o )
+[3 of 8] Compiling Data.IP.Range    ( Data/IP/Range.hs, dist/dist-sandbox-439155cc/build/Data/IP/Range.p_o )
+[4 of 8] Compiling Data.IP.Internal ( Data/IP/Internal.hs, dist/dist-sandbox-439155cc/build/Data/IP/Internal.p_o )
+[5 of 8] Compiling Data.IP.Op       ( Data/IP/Op.hs, dist/dist-sandbox-439155cc/build/Data/IP/Op.p_o )
+[6 of 8] Compiling Data.IP.RouteTable.Internal ( Data/IP/RouteTable/Internal.hs, dist/dist-sandbox-439155cc/build/Data/IP/RouteTable/Internal.p_o )
+[7 of 8] Compiling Data.IP.RouteTable ( Data/IP/RouteTable.hs, dist/dist-sandbox-439155cc/build/Data/IP/RouteTable.p_o )
+[8 of 8] Compiling Data.IP          ( Data/IP.hs, dist/dist-sandbox-439155cc/build/Data/IP.p_o )
+Running Haddock for iproute-1.7.7...
+Preprocessing library iproute-1.7.7...
+Haddock coverage:
+  36% ( 18 / 50) in 'Data.IP.Addr'
+  Missing documentation for:
+    Module header
+     (Data/IP/Addr.hs:64)
+     (Data/IP/Addr.hs:70)
+    IPv4Addr (Data/IP/Addr.hs:77)
+    IPv6Addr (Data/IP/Addr.hs:78)
+     (Data/IP/Addr.hs:118)
+     (Data/IP/Addr.hs:122)
+     (Data/IP/Addr.hs:164)
+    ip6ToInteger (Data/IP/Addr.hs:192)
+    integerToIP6 (Data/IP/Addr.hs:202)
+     (Data/IP/Addr.hs:217)
+     (Data/IP/Addr.hs:220)
+     (Data/IP/Addr.hs:346)
+     (Data/IP/Addr.hs:349)
+     (Data/IP/Addr.hs:352)
+    parseIP (Data/IP/Addr.hs:355)
+    parseIPv4 (Data/IP/Addr.hs:362)
+    parseIPv6 (Data/IP/Addr.hs:367)
+     (Data/IP/Addr.hs:377)
+     (Data/IP/Addr.hs:380)
+     (Data/IP/Addr.hs:383)
+    dig (Data/IP/Addr.hs:391)
+    ip4 (Data/IP/Addr.hs:397)
+    ip4' (Data/IP/Addr.hs:400)
+    skipSpaces (Data/IP/Addr.hs:412)
+    hex (Data/IP/Addr.hs:420)
+    colon2 (Data/IP/Addr.hs:430)
+    format (Data/IP/Addr.hs:433)
+    ip6 (Data/IP/Addr.hs:444)
+    ip6' (Data/IP/Addr.hs:447)
+    ip4Embedded (Data/IP/Addr.hs:463)
+    fixByteOrder (Data/IP/Addr.hs:511)
+   0% (  0 /  8) in 'Data.IP.Mask'
+  Missing documentation for:
+    Module header
+    maskIPv4 (Data/IP/Mask.hs:7)
+    maskIPv6 (Data/IP/Mask.hs:11)
+    shift128 (Data/IP/Mask.hs:18)
+    shiftL128 (Data/IP/Mask.hs:24)
+    shiftR128 (Data/IP/Mask.hs:28)
+    fromIP6Addr (Data/IP/Mask.hs:32)
+    toIP6Addr (Data/IP/Mask.hs:38)
+  11% (  2 / 18) in 'Data.IP.Range'
+  Missing documentation for:
+    Module header
+     (Data/IP/Range.hs:67)
+     (Data/IP/Range.hs:70)
+     (Data/IP/Range.hs:79)
+    parseIPRange (Data/IP/Range.hs:82)
+     (Data/IP/Range.hs:89)
+     (Data/IP/Range.hs:92)
+    parseIPv4Range (Data/IP/Range.hs:95)
+    parseIPv6Range (Data/IP/Range.hs:100)
+    ip4range (Data/IP/Range.hs:105)
+    maskedIPv4 (Data/IP/Range.hs:116)
+    ip6range (Data/IP/Range.hs:119)
+    maskedIPv6 (Data/IP/Range.hs:130)
+     (Data/IP/Range.hs:140)
+     (Data/IP/Range.hs:143)
+     (Data/IP/Range.hs:146)
+  50% (  3 /  6) in 'Data.IP.Internal'
+  Missing documentation for:
+    Module header
+    IPv4Addr (Data/IP/Addr.hs:77)
+    IPv6Addr (Data/IP/Addr.hs:78)
+  67% (  6 /  9) in 'Data.IP.Op'
+  Missing documentation for:
+    Module header
+     (Data/IP/Op.hs:42)
+     (Data/IP/Op.hs:46)
+  48% ( 16 / 33) in 'Data.IP.RouteTable.Internal'
+  Missing documentation for:
+     (Data/IP/RouteTable/Internal.hs:48)
+     (Data/IP/RouteTable/Internal.hs:52)
+    intToTBitIPv4 (Data/IP/RouteTable/Internal.hs:61)
+    intToTBitIPv6 (Data/IP/RouteTable/Internal.hs:64)
+    intToTBitsWord32 (Data/IP/RouteTable/Internal.hs:67)
+    intToTBitsIPv4 (Data/IP/RouteTable/Internal.hs:70)
+    intToTBitsIPv6 (Data/IP/RouteTable/Internal.hs:73)
+     (Data/IP/RouteTable/Internal.hs:108)
+     (Data/IP/RouteTable/Internal.hs:112)
+     (Data/IP/RouteTable/Internal.hs:116)
+    link (Data/IP/RouteTable/Internal.hs:161)
+    glue (Data/IP/RouteTable/Internal.hs:170)
+    keyToTestBit (Data/IP/RouteTable/Internal.hs:177)
+    isLeft (Data/IP/RouteTable/Internal.hs:180)
+    node (Data/IP/RouteTable/Internal.hs:202)
+    search (Data/IP/RouteTable/Internal.hs:249)
+    foldt (Data/IP/RouteTable/Internal.hs:343)
+ 100% ( 18 / 18) in 'Data.IP.RouteTable'
+ 100% ( 30 / 30) in 'Data.IP'
+Documentation created: dist/dist-sandbox-439155cc/doc/html/iproute/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-iproute-1.719427277221083454666.7
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/iproute-1.7.7-F2pOr4JoTflIV2rRLcwvD3
+Registering iproute-1.7.7...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7918/iproute-1.7.7'

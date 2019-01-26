@@ -1,0 +1,29 @@
+cabal: Entering directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7919/auto-update-0.1.4'
+Configuring auto-update-0.1.4...
+Building auto-update-0.1.4...
+Preprocessing library auto-update-0.1.4...
+[1 of 4] Compiling Control.Debounce ( Control/Debounce.hs, dist/dist-sandbox-439155cc/build/Control/Debounce.o )
+[2 of 4] Compiling Control.AutoUpdate.Util ( Control/AutoUpdate/Util.hs, dist/dist-sandbox-439155cc/build/Control/AutoUpdate/Util.o )
+[3 of 4] Compiling Control.Reaper   ( Control/Reaper.hs, dist/dist-sandbox-439155cc/build/Control/Reaper.o )
+[4 of 4] Compiling Control.AutoUpdate ( Control/AutoUpdate.hs, dist/dist-sandbox-439155cc/build/Control/AutoUpdate.o )
+[1 of 4] Compiling Control.Debounce ( Control/Debounce.hs, dist/dist-sandbox-439155cc/build/Control/Debounce.p_o )
+[2 of 4] Compiling Control.AutoUpdate.Util ( Control/AutoUpdate/Util.hs, dist/dist-sandbox-439155cc/build/Control/AutoUpdate/Util.p_o )
+[3 of 4] Compiling Control.Reaper   ( Control/Reaper.hs, dist/dist-sandbox-439155cc/build/Control/Reaper.p_o )
+[4 of 4] Compiling Control.AutoUpdate ( Control/AutoUpdate.hs, dist/dist-sandbox-439155cc/build/Control/AutoUpdate.p_o )
+Running Haddock for auto-update-0.1.4...
+Preprocessing library auto-update-0.1.4...
+Haddock coverage:
+ 100% (  9 /  9) in 'Control.Debounce'
+  50% (  1 /  2) in 'Control.AutoUpdate.Util'
+  Missing documentation for:
+    Module header
+ 100% ( 18 / 18) in 'Control.Reaper'
+ 100% ( 11 / 11) in 'Control.AutoUpdate'
+Documentation created:
+dist/dist-sandbox-439155cc/doc/html/auto-update/index.html
+Creating package registration file:
+/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/pkgConf-auto-update-0.11580723810704877633.4
+Installing library in
+/Users/conorquinn1/Projects/ClientBindings/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/auto-update-0.1.4-EmUvNdmhEju51bHrtaEMpz
+Registering auto-update-0.1.4...
+cabal: Leaving directory '/var/folders/j4/_7_rznm11hd_yhh6f33n8rbc0000gp/T/cabal-tmp-7919/auto-update-0.1.4'
